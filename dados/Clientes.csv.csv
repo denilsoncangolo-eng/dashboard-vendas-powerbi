@@ -1,0 +1,3001 @@
+﻿id_cliente,nome,estado,cidade,regiao,segmento,porte,data_cadastro
+1,Pedro Silva,PE,Caruaru,Nordeste,B2B,Pequeno,2025-01-25
+2,Felipe Santos,RS,Caxias do Sul,Sul,B2B,Pequeno,2023-03-31
+3,André Oliveira,PA,Santarém,norte,B2B,Grande,2023-05-18
+4,Pedro Ribeiro,MS,Dourados,Centro-Oeste,B2B,Pequeno,2024-03-23
+5,Rafael Carvalho,DF,Brasília,Centro-Oeste,B2B,Médio,2025-04-21
+6,Juliana Silva,CE,Sobral,Nordeste,B2C,Pequeno,2024-09-09
+7,Lucas Souza,PA,Belém,Norte,B2C,Pequeno,2025-10-20
+8,Carlos Santos,PR,Foz do Iguaçu,Sul,B2C,Médio,2023-07-28
+9,Beatriz Carvalho,PE,Olinda,Nordeste,B2B,Médio,2023-12-18
+10,Lucas Ribeiro,SC,Chapecó,Sul,B2C,Médio,2024-05-30
+11,Carlos Ribeiro,MG,Juiz de Fora,Sudeste,B2C,Médio,2023-07-14
+12,Juliana Santos,PE,Olinda,Nordeste,B2C,Pequeno,2024-10-26
+13,Patrícia Carvalho,DF,Brasília,Centro-Oeste,B2C,Médio,2025-03-06
+14,Felipe Silva,DF,Brasília,Centro-Oeste,B2C,Médio,2023-09-30
+15,Bruno Almeida,CE,Crato,Nordeste,B2B,Grande,2024-11-11
+16,Mariana Pereira,PR,Londrina,Sul,B2B,Médio,2023-12-26
+17,João Santos,RS,Caxias do Sul,Sul,B2C,Médio,2024-10-13
+18,Mariana Souza,CE,Juazeiro do Norte,Nordeste,B2C,Grande,2025-09-14
+19,Rafael Almeida,CE,Juazeiro do Norte,Nordeste,B2C,Grande,2023-05-19
+20,Pedro Costa,MG,Belo Horizonte,Sudeste,B2B,Pequeno,2024-11-17
+21,Camila Carvalho,BA,Ilhéus,Nordeste,B2B,Grande,2023-02-06
+22,Felipe Silva,PR,Curitiba,Sul,B2C,Pequeno,2025-07-08
+23,Patrícia Ribeiro,RJ,Petrópolis,Sudeste,B2B,Grande,2025-02-22
+24,Pedro Almeida,CE,Crato,Nordeste,B2B,Grande,2025-11-12
+25,Rafael Ribeiro,ES,Vila Velha,Sudeste,B2C,Pequeno,2024-04-21
+26,Thiago Carvalho,MT,Várzea Grande,Centro-Oeste,B2B,Grande,2025-10-28
+27,Camila Carvalho,BA,Feira de Santana,Nordeste,B2B,Pequeno,2023-01-28
+28,Carlos Souza,RJ,Rio de Janeiro,Sudeste,B2C,Grande,2024-04-21
+29,Mateus Santos,ES,Vila Velha,Sudeste,B2B,Médio,2023-02-13
+30,Thiago Souza,PR, FOZ DO IGUAÇU ,Sul,B2B,Grande,2023-09-12
+31,André Souza,SP,Ribeirão Preto,Sudeste,B2C,Pequeno,2024-09-24
+32,Fernanda Pereira,ES,Serra,Sudeste,B2B,Grande,2024-04-29
+33,Patrícia Costa,SC,Chapecó,Sul,B2B,Pequeno,2025-05-27
+34,Bruno Costa,BA,Feira de Santana,Nordeste,B2C,Pequeno,2024-05-13
+35,Camila Santos,PA,Ananindeua,Norte,B2C,Médio,2023-06-12
+36,Felipe Souza,ES,Cariacica,Sudeste,B2C,Médio,2023-05-03
+37,Amanda Oliveira,GO,Goiânia,Centro-Oeste,B2B,Pequeno,2023-10-09
+38,Renata Santos,SP,Ribeirão Preto,Sudeste,B2C,Grande,2025-02-06
+39,Bruno Gomes,DF,Brasília,Centro-Oeste,B2B,Pequeno,2025-10-18
+40,Fernanda Pereira,DF,Brasília,Centro-Oeste,B2C,Pequeno,2024-08-30
+41,Renata Santos,MS,Campo Grande,Centro-Oeste,B2B,Grande,2024-02-18
+42,Mariana Silva,SC,Florianópolis,Sul,B2C,Grande,2023-11-07
+43,André Silva,ES,Cariacica,Sudeste,B2C,Grande,2025-02-08
+44,Mariana Almeida,ES,Cariacica,Sudeste,B2C,Grande,2024-02-23
+45,Felipe Souza,MS,Campo Grande,Centro-Oeste,B2C,Pequeno,2023-03-19
+46,Carlos Carvalho,MT,Várzea Grande,Centro-Oeste,B2B,Pequeno,2024-05-02
+47,Mariana Santos,MT,Sinop,Centro-Oeste,B2C,Médio,2025-06-27
+48,Aline Almeida,MS,Campo Grande,Centro-Oeste,B2C,Pequeno,2024-11-04
+49,Patrícia Oliveira,MT,Sinop,Centro-Oeste,B2B,Grande,2023-10-02
+50,Felipe Oliveira,MG,Belo Horizonte,Sudeste,B2C,Médio,2024-07-23
+51,André Ribeiro,ES,Vila Velha,Sudeste,B2B,Grande,2024-10-12
+52,Renata Pereira,PE,Caruaru,Nordeste,B2C,Pequeno,2023-03-23
+53,Larissa Almeida,RS,Santa Maria,Sul,B2C,Médio,2025-12-02
+54,Larissa Almeida,GO,Aparecida de Goiânia,Centro-Oeste,B2C,Grande,2025-04-29
+55,Camila Santos,MG,Juiz de Fora,Sudeste,B2B,Médio,2024-08-13
+56,João Ribeiro,PR,Maringá,Sul,B2C,Médio,2023-02-18
+57,Aline Souza,MG,Contagem,Sudeste,B2C,Pequeno,2024-04-14
+58,Mateus Souza,PE,Olinda,Nordeste,B2C,Grande,2024-11-09
+59,João Oliveira,PR,Foz do Iguaçu,Sul,B2B,Médio,2024-12-02
+60,Juliana Carvalho,GO,Rio Verde,Centro-Oeste,B2B,Médio,2024-05-11
+61,Rafael Almeida,PE,Recife,Nordeste,B2C,Grande,2024-02-26
+62,Fernanda Carvalho,RJ,Niterói,Sudeste,B2B,Médio,2023-04-21
+63,Patrícia Ribeiro,RS,Santa Maria,Sul,B2C,Médio,2024-05-23
+64,Felipe Ribeiro,GO,Aparecida de Goiânia,Centro-Oeste,B2C,Médio,2024-03-31
+65,Lucas Souza,ES,Vitória,Sudeste,B2C,Grande,2025-02-20
+66,Renata Pereira,MT,Cuiabá,Centro-Oeste,B2C,Grande,2025-12-03
+67,Mariana Souza,RJ,Niterói,Sudeste,B2C,Grande,2024-10-20
+68,Thiago Almeida,SC,Joinville,Sul,B2C,Grande,2024-01-11
+69,Bruno Gomes,GO,Aparecida de Goiânia,Centro-Oeste,B2C,Pequeno,2025-06-24
+70,Lucas Pereira,SC,Chapecó,Sul,B2B,Médio,2023-01-13
+71,Beatriz Oliveira,PR,Maringá,Sul,B2B,Grande,2023-05-13
+72,Beatriz Souza,RJ,Campos dos Goytacazes,Sudeste,B2B,Médio,2025-10-03
+73,Thiago Ribeiro,RS,Porto Alegre,Sul,B2B,Médio,2023-05-24
+74,Amanda Santos,ES,Vila Velha,Sudeste,B2B,Pequeno,2024-01-30
+75,João Costa,MS,Corumbá,Centro-Oeste,B2B,Grande,2023-04-17
+76,Bruno Ribeiro,ES,Vila Velha,Sudeste,B2B,Grande,2023-10-17
+77,Beatriz Silva,PE,Petrolina,Nordeste,B2C,Médio,2024-02-23
+78,Amanda Costa,ES,Vitória,Sudeste,B2C,Grande,2023-09-15
+79,Aline Silva,PA,Marabá,Norte,B2C,Médio,2023-07-07
+80,Pedro Costa,CE,Sobral,Nordeeste,B2C,Médio,2023-12-22
+81,Thiago Santos,MS,Dourados,Centro-Oeste,B2B,Pequeno,2024-02-23
+82,Mateus Santos,MG,Belo Horizonte,Sudeste,B2B,Pequeno,2024-04-28
+83,Larissa Souza,MT,Cuiabá,Centro-Oeste,B2C,Pequeno,2025-11-05
+84,Rafael Gomes,SP,São Paulo,Sudeste,B2C,Médio,2023-06-10
+85,Rafael Ribeiro,RS,Santa Maria,Sul,B2B,Grande,2025-05-22
+86,João Oliveira,RJ,Petrópolis,Sudeste,B2C,Pequeno,2025-08-14
+87,Aline Ribeiro,CE,Fortaleza,Nordeste,B2C,Grande,2024-09-29
+88,Bruno Pereira,RS,Santa Maria,Sul,B2C,Pequeno,2023-12-03
+89,Beatriz Carvalho,RJ,Niterói,Sudeste,B2C,Pequeno,2024-02-09
+90,Juliana Santos,MT,Sinop,Centro-Oeste,B2B,Médio,2024-05-16
+91,Renata Santos,BA,Ilhéus,Nordeste,B2C,Pequeno,2025-05-18
+92,Thiago Almeida,BA,Salvador,Nordeste,B2C,Pequeno,2023-12-28
+93,Camila Gomes,SC,Joinville,Sul,B2B,Médio,2024-05-24
+94,Beatriz Gomes,RS,Pelotas,Sul,B2B,Grande,2024-09-12
+95,Pedro Santos,BA,Feira de Santana,Nordeste,B2C,Pequeno,2024-08-07
+96,André Souza,PA,Santarém,Norte,B2B,Médio,2025-07-07
+97,Mariana Silva,MS,Dourados,Centro-Oeste,B2C,Pequeno,2024-02-17
+98,Larissa Ribeiro,RJ,Niterói,Sudeste,B2C,Médio,2024-07-10
+99,André Carvalho,SC,Florianópolis,Sul,B2B,Grande,2025-09-12
+100,André Silva,ES,Cariacica,Sudeste,B2C,Grande,2023-06-13
+101,Rafael Silva,RJ,Petrópolis,Sudeste,B2C,Médio,2025-01-06
+102,André Souza,SC,Blumenau,Sul,B2C,Médio,2025-03-26
+103,  MATEUS COSTA ,MT,Sinop,Centro-Oeste,B2C,Médio,2025-02-12
+104,Rafael Ribeiro,RS,Pelotas,Sul,B2B,Grande,2023-12-10
+105,André Pereira,MT,Várzea Grande,Centro-Oeste,B2B,Pequeno,2025-08-22
+106,Aline Santos,MS,Campo Grande,Centro-Oeste,B2C,Grande,2025-06-22
+107,Renata Oliveira,MS,Dourados,Centro-Oeste,B2B,Médio,2025-05-15
+108,Larissa Carvalho,CE,Juazeiro do Norte,Nordeste,B2C,Médio,2025-10-31
+109,  aline santos ,MT,Cuiabá,Centro-Oeste,B2C,Grande,2025-06-06
+110,Aline Almeida,PE,Caruaru,Nordeste,B2C,Médio,2023-11-16
+111,Carlos Souza,ES,Vitória,Sudeste,B2C,Grande,2025-09-14
+112,Pedro Almeida,GO,Aparecida de Goiânia,Centro-Oeste,B2C,Médio,2023-02-10
+113,Camila Almeida,MT,Sinop,Centro-Oeste,B2B,Pequeno,2025-02-20
+114,Juliana Gomes,CE,Crato,Nordeste,B2C,Pequeno,2025-05-25
+115,Mateus Souza,PR,Curitiba,Sul,B2B,Médio,2023-06-20
+116,Mateus Almeida,PA,Ananindeua,Norte,B2B,Grande,2024-09-06
+117,Mariana Souza,RJ,Niterói,Sudeste,B2C,Pequeno,2023-11-09
+118,André Santos,MS,Dourados,Centro-Oeste,B2C,Grande,2023-12-26
+119,Carlos Ribeiro,PR,Foz do Iguaçu,Sul,B2C,Médio,2024-06-10
+120,Patrícia Oliveira,CE,Crato,Nordeste,B2C,Grande,2025-02-18
+121,Juliana Oliveira,SC,Chapecó,Sul,B2C,Pequeno,2025-08-07
+122,Felipe Gomes,GO,Aparecida de Goiânia,Centro-Oeste,B2B,Grande,2024-09-18
+123,  André Souza ,ES,Vitória,Sudeste,B2C,Grande,2025-07-17
+124,Patrícia Ribeiro,ES,Vitória,Sudeste,B2C,Médio,2024-08-03
+125,Pedro Silva,ES,Vila Velha,Sudeste,B2B,Médio,2025-02-07
+126,Renata Silva,PA,Marabá,Norte,B2B,Médio,2025-09-11
+127,Rafael Santos,GO,Anápolis,Centro-Oeste,B2C,Pequeno,2023-05-28
+128,Bruno Almeida,PA,Belém,Norte,B2B,Pequeno,2024-11-13
+129,Aline Gomes,MS, dourados ,Centro-Oeste,B2C,Médio,2023-10-07
+130,Carlos Almeida,PA,Santarém,Norte,B2B,Médio,2025-08-19
+131,  Mateus Oliveira ,SP,São Paulo,Sudeste,B2B,Pequeno,2024-02-05
+132,Fernanda Silva,go,Rio Verde,Centro-Oeste,B2C,Pequeno,2023-11-13
+133,Fernanda Pereira,PE,Recife,Nordeste,B2B,Pequeno,2024-01-24
+134,Patrícia Pereira,GO,Anápolis,Centro-Oeste,B2B,Pequeno,2023-01-09
+135,Juliana Ribeiro,CE,Fortaleza,Nordeste,B2B,Médio,2023-01-27
+136,Aline Oliveira,SP,Santos,Sudeste,B2B,Pequeno,2025-10-22
+137,Carlos Pereira,ES,Serra,Sudeste,B2B,Médio,2025-02-05
+138,Carlos Silva,CE,Fortaleza,Nordeste,B2B,Grande,2025-10-03
+139,Larissa Ribeiro,CE,Fortaleza,Nordeste,B2C,Grande,2025-04-08
+140,Mateus Costa,MS,Campo Grande,Centro-Oeste,B2C,Pequeno,2025-05-01
+141,Mateus Silva,DF,Brasília,Centro-Oeste,B2B,Grande,2025-03-19
+142,Larissa Gomes,MG,Uberlândia,Sudeste,B2C,Grande,2025-02-03
+143,Beatriz Ribeiro,SP,Campinas,Sudeste,B2C,Grande,2025-02-25
+144,Bruno Silva,CE,Sobral,Nordeste,B2C,Pequeno,2025-09-29
+145,Beatriz Souza,MG,Uberlândia,Sudeste,B2B,Pequeno,2024-09-22
+146,Bruno Souza,MG,Contagem,Sudeste,B2C,Grande,2023-05-26
+147,Amanda Souza,SP,Santos,Sudeste,B2B,Médio,2025-04-17
+148,André Almeida,DF,Brasília,Centro-Oeste,B2C,Grande,2023-03-21
+149,Pedro Carvalho,PR,Curitiba,Sul,B2B,Pequeno,2023-09-12
+150,André Carvalho,SC,Blumenau,Sul,B2B,Pequeno,2025-02-27
+151,Amanda Silva,PE,Caruaru,Nordeste,B2C,Pequeno,2023-11-29
+152,Amanda Souza,SC,Blumenau,Sul,B2C,Grande,2024-02-02
+153,Juliana Carvalho,GO,Aparecida de Goiânia,Centro-Oeste,B2B,Médio,2025-06-12
+154,Larissa Ribeiro,ES,Vitória,Sudeste,B2C,Pequeno,2024-06-06
+155,Mariana Pereira,PE,Petrolina,Nordeste,B2C,Pequeno,2024-12-14
+156,Carlos Costa,GO,Goiânia,Centro-Oeste,B2C,Grande,2025-11-09
+157,André Pereira,CE,Sobral,Nordeste,B2B,Médio,2025-09-27
+158,Fernanda Oliveira,ES,Cariacica,Sudeste,B2B,Grande,2025-01-24
+159,Thiago Gomes,RJ,Niterói,Sudeste,B2C,Pequeno,2023-04-29
+160,Mariana Souza,SP,São Paulo,Sudeste,B2C,Médio,2025-02-28
+161,Lucas Gomes,PE,Caruaru,Nordeste,B2C,Médio,2025-05-18
+162,Amanda Carvalho,PE,Caruaru,Nordeste,B2B,Pequeno,2024-05-20
+163,Pedro Souza,MT,Sinop,Centro-Oeste,B2B,Médio,2024-05-11
+164,Renata Santos,CE,Juazeiro do Norte,Nordeste,B2C,Médio,2025-09-05
+165,Beatriz Pereira,PR,Londrina,Sul,B2C,Grande,2023-03-12
+166,João Costa,MG,Belo Horizonte,Sudeste,B2C,Pequeno,2025-01-10
+167,Rafael Santos,ES,Vitória,Sudeste,B2C,Pequeno,2023-02-27
+168,Camila Pereira,CE,Fortaleza,Nordeste,B2C,Pequeno,2023-10-30
+169,Bruno Gomes,BA,Ilhéus,Nordeste,B2C,Pequeno,2024-06-19
+170,Renata Pereira,DF,Brasília,Centro-Oeste,B2B,Pequeno,2025-07-21
+171,Amanda Ribeiro,MG,Contagem,Sudeste,B2C,Médio,2023-10-29
+172,Lucas Ribeiro,SP,Santos,Sudeste,B2B,Grande,2024-06-04
+173,Thiago Souza,MG,Juiz de Fora,Sudeste,B2C,Pequeno,2024-05-21
+174,João Pereira,PR,Maringá,Sul,B2C,Grande,2023-11-27
+175,Pedro Souza,MS,Dourados,Centro-Oeste,B2B,Grande,2023-01-26
+176,Renata Oliveira,MT,Sinop,Centro-Oeste,B2B,Médio,2023-08-28
+177,Felipe Pereira,MG,Contagem,Sudeste,B2B,Pequeno,2023-07-09
+178,Amanda Santos,SP,Ribeirão Preto,Sudeste,B2B,Médio,2025-02-26
+179,Mariana Santos,PR,Londrina,Sul,B2C,Pequeno,2025-03-25
+180,Felipe Ribeiro,SC,Joinville,Sul,B2B,Médio,2023-06-14
+181,Aline Pereira,PE,Caruaru,Nordeste,B2C,Grande,2025-11-27
+182,Mateus Souza,MS,Dourados,Centro-Oeste,B2B,Pequeno,2024-01-22
+183,Juliana Pereira,MT,Cuiabá,Centro-Oeste,B2C,Grande,2025-05-16
+184,Mateus Silva,PE,Recife,Nordeste,B2C,Grande,2023-12-06
+185,Mariana Oliveira,DF,Brasília,Centro-Oeste,B2C,Médio,2025-05-24
+186,Felipe Oliveira,GO,Aparecida de Goiânia,Centro-Oeste,B2C,Pequeno,2024-06-01
+187,Patrícia Ribeiro,MS,Campo Grande,Centro-Oeste,B2C,Grande,2024-09-10
+188,Juliana Ribeiro,MS,Dourados,Centro-Oeste,B2C,Médio,2025-10-22
+189,Lucas Souza,SC,Chapecó,Sul,B2B,Pequeno,2025-12-27
+190,Rafael Oliveira,SC,Chapecó,Sul,B2C,Pequeno,2025-02-22
+191,Renata Silva,ES,Vitória,Sudeste,B2B,Grande,2024-09-22
+192,Camila Carvalho,PA,Marabá,Norte,B2B,Pequeno,2025-04-22
+193,Renata Oliveira,MG,Juiz de Fora,Sudeste,B2C,Grande,2023-07-02
+194,Juliana Oliveira,MS,Dourados,Centro-Oeste,B2B,Pequeno,2023-08-12
+195,Mateus Pereira,PE,Recife,Nordeste,B2C,Médio,2024-12-06
+196,Camila Silva,SP,Campinas,Sudeste,B2B,Grande,2023-10-20
+197,Camila Santos,RS,Pelotas,Sul,B2C,Grande,2024-07-04
+198,André Souza,PA,Marabá,Norte,B2B,Pequeno,2024-03-05
+199,Camila Ribeiro,RS,Porto Alegre,Sul,B2C,Pequeno,2025-03-26
+200,Juliana Carvalho,MT,Rondonópolis,Centro-Oeste,B2C,Grande,2024-09-22
+201,João Santos,PR,Maringá,Sul,B2C,Pequeno,2023-01-14
+202,Bruno Oliveira,PE,Caruaru,Nordeste,B2C,Médio,2023-12-11
+203,Juliana Silva,PE,Recife,Nordeste,B2B,Pequeno,2025-10-04
+204,Bruno Costa,PA,Belém,Norte,B2C,Médio,2023-01-04
+205,Juliana Santos,MS,Três Lagoas,Centro-Oeste,B2B,Médio,2023-07-18
+206,Felipe Oliveira,DF,Brasília,Centro-Oeste,B2B,Médio,2023-05-24
+207,Pedro Almeida,PA,Ananindeua,Norte,B2B,Médio,2025-05-05
+208,Mateus Gomes,RS,Porto Alegre,Sul,B2C,Médio,2025-12-11
+209,André Santos,PA,Santarém,Norte,B2B,Pequeno,2025-05-03
+210,Patrícia Costa,PE,Olinda,Nordeste,B2B,Médio,2024-08-13
+211,Thiago Santos,DF,Brasília,Centro-Oeste,B2B,Pequeno,2025-06-01
+212,André Silva,MG,Juiz de Fora,Sudeste,B2C,Médio,2023-12-16
+213,Carlos Almeida,BA,Ilhéus,Nordeste,B2C,Grande,2023-12-28
+214,Mariana Pereira,ES,Cariacica,Sudeste,B2B,Médio,2025-02-06
+215,Rafael Pereira,RJ,Rio de Janeiro,Sudeste,B2C,Grande,2024-01-17
+216,Camila Ribeiro,SC,Joinville,Sul,B2C,Médio,2023-10-03
+217,Fernanda Ribeiro,PA,Ananindeua,Norte,B2B,Médio,2024-02-10
+218,Mariana Silva,MT,Várzea Grande,Centro-Oeste,B2B,Médio,2025-09-23
+219,Pedro Pereira,GO,Aparecida de Goiânia,Centro-Oeste,B2C,Grande,2024-01-08
+220,Bruno Carvalho,PR,Maringá,Sul,B2B,Grande,2025-10-26
+221,Felipe Silva,BA,Ilhéus,Nordeste,B2C,Médio,2023-08-14
+222,Pedro Carvalho,ES,Cariacica,Sudeste,B2C,Pequeno,2025-07-11
+223,Juliana Costa,ES,Vitória,Sudeste,B2C,Médio,2024-03-11
+224,Mariana Almeida,ES,Serra,Sudeste,B2C,Grande,2024-01-16
+225,Amanda Ribeiro,ES,Serra,Sudeste,B2C,Médio,2024-02-16
+226,Pedro Almeida,RS,Porto Alegre,Sul,B2C,Grande,2023-05-01
+227,Larissa Santos,MT,Várzea Grande,Centro-Oeste,B2B,Grande,2024-01-10
+228,Felipe Silva,MT,Rondonópolis,Centro-Oeste,B2B,Grande,2024-01-28
+229,Juliana Silva,DF,Brasília,Centro-Oeste,B2C,Médio,2024-06-15
+230,Beatriz Ribeiro,sc,Florianópolis,Sul,B2C,Grande,2025-04-17
+231,Carlos Costa,PE,Olinda,Nordeste,B2C,Grande,2025-06-21
+232,Juliana Souza,ES,Serra,Sudeste,B2B,Médio,2023-08-12
+233,Mariana Carvalho,GO,Goiânia,Centro-Oeste,B2C,Grande,2023-12-07
+234,Mariana Souza,PE,Caruaru,Nordeste,B2B,Médio,2023-06-13
+235,Thiago Ribeiro,MT,Sinop,Centro-Oeste,B2C,Grande,2024-08-23
+236,Thiago Almeida,SP,Campinas,Sudeste,B2C,Pequeno,2023-06-25
+237,Mariana Almeida,SP,Ribeirão Preto,Sudeste,B2B,Pequeno,2025-02-12
+238,Thiago Ribeiro,GO,Anápolis,Centro Oeste,B2B,Grande,2023-09-13
+239,João Santos,DF,Brasília,Centro-Oeste,B2C,Pequeno,2024-07-20
+240,Juliana Almeida,MT,Rondonópolis,Centro-Oeste,B2C,Médio,2023-05-12
+241,Bruno Carvalho,GO,Rio Verde,Centro-Oeste,B2C,Pequeno,2024-12-01
+242,Larissa Pereira,RS, Porto Alegre ,Sul,B2B,Grande,2023-03-02
+243,Fernanda Ribeiro,PA,Marabá,Norte,B2B,Grande,2024-04-25
+244,Lucas Pereira,GO,Aparecida de Goiânia,Centro-Oeste,B2B,Médio,2025-09-05
+245,Thiago Santos,MG,Belo Horizonte,Sudeste,B2B,Grande,2025-09-20
+246,Juliana Carvalho,PE,Petrolina,Nordeste,B2B,Médio,2023-07-26
+247,Amanda Costa,BA,Feira de Santana,Nordeste,B2B,Pequeno,2023-01-20
+248,Patrícia Gomes,CE,Sobral,Nordeste,B2C,Pequeno,2023-05-06
+249,Patrícia Santos,DF,Brasília,Centro-Oeste,B2C,Médio,2024-06-28
+250,Beatriz Gomes,GO,Rio Verde,Centro-Oeste,B2B,Médio,2023-01-15
+251,Bruno Souza,MT,Várzea Grande,Centro-Oeste,B2C,Grande,2023-03-27
+252,Thiago Ribeiro,PR,Maringá,Sul,B2C,Pequeno,2023-07-18
+253,Amanda Costa,SP,Campinas,Sudeste,B2B,Médio,2024-03-08
+254,Rafael Santos,MG,Belo Horizonte,Sudeste,B2C,Pequeno,2025-12-05
+255,Thiago Santos,SC,Blumenau,Sul,B2B,Médio,2023-01-15
+256,Carlos Oliveira,ES,Vitória,Sudeste,B2B,Pequeno,2025-02-08
+257,Lucas Silva,CE,Juazeiro do Norte,Nordeste,B2C,Grande,2025-12-01
+258,André Gomes,MS,Campo Grande,Centro-Oeste,B2B,Pequeno,2024-06-28
+259,Amanda Souza,DF,Brasília,Centro-Oeste,B2B,Pequeno,2025-09-22
+260,Patrícia Almeida,BA,Salvador,Nordeste,B2B,Pequeno,2025-08-27
+261,Larissa Santos,CE,Crato,Nordeste,B2B,Pequeno,2024-11-21
+262,Fernanda Gomes,GO,Anápolis,Centro-Oeste,B2B,Pequeno,2025-05-29
+263,Fernanda Santos,RS,Caxias do Sul,Sul,B2B,Grande,2024-11-20
+264,João Silva,SP,Santos,Sudeste,B2B,Médio,2025-01-29
+265,Pedro Almeida,MT,Sinop,Centro-Oeste,B2B,Pequeno,2024-12-03
+266,André Oliveira,SP,Santos,Sudeste,B2C,Grande,2024-10-07
+267,Beatriz Gomes,SC,Blumenau,Sul,B2C,Pequeno,2024-05-05
+268,Mateus Ribeiro,RS,Caxias do Sul,Sul,B2C,Pequeno,2025-01-09
+269,André Souza,ES,Vitória,Sudeste,B2B,Médio,2025-03-27
+270,Patrícia Oliveira,MT,Várzea Grande,Centro-Oeste,B2B,Pequeno,2025-02-14
+271,Patrícia Ribeiro,PE,Olinda,Nordeste,B2C,Grande,2023-04-28
+272,Renata Carvalho,Rj,Rio de Janeiro,Sudeste,B2C,Grande,2024-12-30
+273,Mariana Gomes,MG,Contagem,Sudeste,B2C,Médio,2024-11-07
+274,Amanda Ribeiro,SP,Ribeirão Preto,Sudeste,B2B,Pequeno,2023-07-25
+275,Juliana Ribeiro,PR,Curitiba,Sul,B2C,Grande,2023-01-07
+276,Patrícia Oliveira,SP,São Paulo,Sudeste,B2C,Pequeno,2025-07-24
+277,Aline Gomes,CE, sobral ,Nordeste,B2B,Pequeno,2025-04-02
+278,Felipe Santos,SP,São Paulo,Sudeste,B2C,Pequeno,2023-10-12
+279,Felipe Ribeiro,DF,Brasília,Centro-Oeste,B2B,Médio,2023-02-22
+280,Aline Santos,SP,Santos,Sudeste,B2B,Pequeno,2023-09-09
+281,Felipe Gomes,RJ,Campos dos Goytacazes,Sudeste,B2B,Grande,2025-12-22
+282,Rafael Pereira,RJ,Rio de Janeiro,Sudeste,B2C,Pequeno,2024-07-26
+283,André Pereira,ES,Vitória,Sudeste,B2C,Grande,2024-05-24
+284,Mariana Costa,BA,Vitória da Conquista,Nordeste,B2B,Pequeno,2025-01-24
+285,Renata Souza,PE,Recife,Nordeste,B2C,Grande,2025-07-14
+286,João Oliveira,PR,Maringá,Sul,B2C,Grande,2025-08-31
+287,André Almeida,SP,Campinas,Sudeste,B2C,Pequeno,2025-11-20
+288,João Santos,SP,Santos,Sudeste,B2C,Pequeno,2025-04-26
+289,Rafael Almeida,MG,Uberlândia,Sudeste,B2B,Grande,2024-01-20
+290,Juliana Costa,MT,Várzea Grande,Centro-Oeste,B2C,Médio,2023-01-07
+291,Renata Gomes,RJ, petrópolis ,Sudeste,B2B,Pequeno,2024-10-21
+292,Juliana Silva,PR,Maringá,Sul,B2B,Médio,2023-02-04
+293,Carlos Almeida,Es,Serra,Sudeste,B2C,Pequeno,2025-01-07
+294,Fernanda Carvalho,SC,Chapecó,Sul,B2B,Pequeno,2023-04-04
+295,Lucas Carvalho,BA,Salvador,Nordeste,B2C,Pequeno,2024-10-28
+296,Fernanda Gomes,PE,Caruaru,Nordeste,B2C,Pequeno,2025-06-28
+297,Lucas Costa,RS,Caxias do Sul,Sul,B2B,Médio,2024-04-23
+298,Thiago Almeida,PE,Olinda,Nordeste,B2B,Pequeno,2025-09-19
+299,Juliana Ribeiro,DF,Brasília,Centro-Oeste,B2B,Grande,2025-03-30
+300,Renata Carvalho,CE,Fortaleza,Nordeste,B2B,Grande,2023-06-16
+301,André Gomes,DF,Brasília,Centro-Oeste,B2C,Médio,2024-12-14
+302,André Pereira,SP,São Paulo,Sudeste,B2C,Pequeno,2025-05-26
+303,Juliana Gomes,MS,Dourados,Centro-Oeste,B2C,Grande,2025-09-02
+304,Lucas Almeida,BA,Vitória da Conquista,Nordeste,B2B,Médio,2023-07-25
+305,Mariana Almeida,CE,Sobral,Nordeste,B2B,Pequeno,2025-02-27
+306,Bruno Gomes,PR,Maringá,Sul,B2B,Grande,2024-08-24
+307,João Carvalho,RS,Caxias do Sul,Sul,B2C,Grande,2024-02-04
+308,Renata Silva,RJ,Petrópolis,Sudeste,B2B,Médio,2023-10-21
+309,Fernanda Carvalho,BA,Feira de Santana,Nordeste,B2C,Pequeno,2025-12-01
+310,Larissa Silva,BA,Feira de Santana,Nordeste,B2B,Pequeno,2025-10-30
+311,Rafael Almeida,DF,Brasília,Centro-Oeste,B2C,Grande,2023-03-07
+312,João Gomes,MS,Três Lagoas,Centro-Oeste,B2C,Grande,2023-09-19
+313,Bruno Silva,SP,Santos,Sudeste,B2B,Grande,2025-10-16
+314,Felipe Almeida,GO,Aparecida de Goiânia,Centro-Oeste,B2B,Pequeno,2023-06-28
+315,Mariana Santos,ES,Vitória,Sudeste,B2C,Médio,2024-09-09
+316,Patrícia Costa,DF,Brasília,Centro-Oeste,B2C,Médio,2025-08-14
+317,Mariana Almeida,BA,Salvador,Nordeste,B2B,Pequeno,2023-12-11
+318,Felipe Almeida,PA,Ananindeua,Norte,B2B,Médio,2025-07-02
+319,Felipe Souza,MG,Belo Horizonte,Sudeste,B2C,Grande,2023-08-25
+320,Aline Silva,RS,Porto Alegre,Sul,B2B,Médio,2025-09-14
+321,Renata Silva,ES,Cariacica,Sudeste,B2C,Médio,2024-05-08
+322,Camila Santos,DF,Brasília,Centro-Oeste,B2C,Médio,2024-05-13
+323,Rafael Silva,RS,Porto Alegre,Sul,B2B,Grande,2024-03-09
+324,Lucas Santos,MG,Contagem,Sudeste,B2B,Pequeno,2023-12-16
+325,Carlos Silva,SC,Chapecó,Sul,B2B,Grande,2023-07-03
+326,Amanda Oliveira,MG,Uberlândia,Sudeste,B2B,Pequeno,2023-08-05
+327,André Oliveira,MS,Corumbá,Centro-Oeste,B2B,Pequeno,2025-06-09
+328,Aline Souza,MG,Juiz de Fora,Sudeste,B2C,Pequeno,2023-03-01
+329,Larissa Santos,RS,Pelotas,Sul,B2C,Médio,2023-11-25
+330,Patrícia Pereira,PE,Caruaru,Nordeste,B2B,Médio,2024-10-30
+331,Camila Oliveira,RS,Caxias do Sul,Sul,B2B,Pequeno,2025-02-24
+332,Amanda Carvalho,GO,Goiânia,Centro-Oeste,B2B,Pequeno,2024-07-28
+333,Pedro Oliveira,SP,Ribeirão Preto,Sudeste,B2C,Médio,2024-03-27
+334,Thiago Souza,CE,Juazeiro do Norte,Nordeste,B2B,Grande,2024-06-11
+335,Larissa Silva,PE,Recife,Nordeste,B2B,Pequeno,2025-09-02
+336,Thiago Carvalho,RJ,Campos dos Goytacazes,Sudeste,B2C,Grande,2023-09-10
+337,Fernanda Almeida,CE,Fortaleza,Nordeste,B2C,Médio,2023-10-06
+338,Carlos Souza,SP,Ribeirão Preto,Sudeste,B2B,Pequeno,2025-12-30
+339,Larissa Santos,DF,Brasília,Centro-Oeste,B2B,Grande,2025-10-04
+340,Pedro Pereira,ES,Cariacica,Sudeste,B2B,Grande,2023-07-05
+341,Amanda Souza,GO,Aparecida de Goiânia,Centro-Oeste,B2C,Grande,2024-11-12
+342,Larissa Silva,GO,Anápolis,Centro-Oeste,B2B,Médio,2024-04-03
+343,Camila Ribeiro,RJ,Niterói,Sudeste,B2B,Médio,2023-05-13
+344,Juliana Costa,PE,Olinda,Nordeste,B2B,Grande,2024-12-03
+345,Rafael Ribeiro,MS,Três Lagoas,Centro-Oeste,B2C,Grande,2025-02-11
+346,Mariana Silva,MT,Rondonópolis,Centro-Oeste,B2C,Médio,2025-02-20
+347,Juliana Gomes,SC,Chapecó,Sul,B2B,Grande,2025-06-13
+348,Pedro Almeida,MG,Uberlândia,Sudeste,B2B,Grande,2024-04-22
+349,Camila Gomes,PE,Caruaru,Nordeste,B2C,Médio,2024-04-02
+350,João Almeida,ES,Serra,Sudeste,B2C,Grande,2024-06-14
+351,Bruno Ribeiro,SC,Chapecó,Sul,B2C,Grande,2023-08-25
+352,Felipe Carvalho,GO,Aparecida de Goiânia,Centro-Oeste,B2C,Grande,2024-08-18
+353,Renata Gomes,RS,Porto Alegre,Sul,B2C,Médio,2023-06-29
+354,Patrícia Almeida,ES,Vitória,Sudeste,B2C,Grande,2023-08-17
+355,Larissa Pereira,SP,Ribeirão Preto,Sudeste,B2C,Médio,2023-07-02
+356,Mariana Santos,RJ,Rio de Janeiro,Sudeste,B2C,Médio,2024-11-27
+357,  RAFAEL PEREIRA ,SP,Santos,Sudeste,B2C,Pequeno,2024-01-21
+358,Patrícia Santos,MT,Sinop,Centro-Oeste,B2B,Pequeno,2023-08-26
+359,Patrícia Carvalho,ES,Cariacica,Sudeste,B2B,Grande,2025-01-23
+360,Amanda Almeida,PR,Londrina,Sul,B2B,Médio,2023-09-18
+361,Mariana Silva,PR,Maringá,Sul,B2C,Pequeno,2024-10-03
+362,Aline Costa,DF,Brasília,Centro-Oeste,B2B,Grande,2025-02-17
+363,Bruno Gomes,PE,Olinda,Nordeste,B2C,Pequeno,2023-01-04
+364,Carlos Costa,GO,Goiânia,Centro-Oeste,B2C,Pequeno,2024-09-28
+365,Felipe Costa,GO,Aparecida de Goiânia,Centro-Oeste,B2B,Médio,2023-05-07
+366,Felipe Carvalho,MG,Belo Horizonte,Sudeste,B2C,Médio,2024-01-24
+367,Felipe Ribeiro,MG,Juiz de Fora,Sudeste,B2B,Pequeno,2025-03-05
+368,Lucas Ribeiro,MG,Belo Horizonte,Sudeste,B2B,Pequeno,2025-05-17
+369,Carlos Souza,RS,Pelotas,Sul,B2B,Médio,2024-10-16
+370,André Almeida,CE,Crato,Nordeste,B2C,Grande,2025-01-17
+371,Aline Ribeiro,BA,Ilhéus,Nordeste,B2B,Médio,2023-09-16
+372,André Gomes,CE,Crato,Nordeste,B2C,Pequeno,2025-11-30
+373,Aline Gomes,SP,Campinas,Sudeste,B2B,Grande,2024-03-30
+374,Lucas Souza,CE,Juazeiro do Norte,Nordeste,B2B,Pequeno,2023-08-07
+375,Thiago Santos,RS,Caxias do Sul,Sul,B2B,Grande,2025-03-20
+376,Fernanda Santos,DF,Brasília,Centro-Oeste,B2C,Pequeno,2023-01-19
+377,Thiago Carvalho,SP,Ribeirão Preto,Sudeste,B2C,Grande,2025-08-01
+378,Camila Gomes,CE,Fortaleza,Nordeste,B2C,Grande,2024-10-09
+379,Renata Ribeiro,RS,Pelotas,Sul,B2B,Pequeno,2023-10-24
+380,Camila Almeida,BA,Feira de Santana,Nordeste,B2B,Grande,2024-08-30
+381,Renata Costa,CE,Crato,Nordeste,B2C,Médio,2024-03-24
+382,Camila Gomes,RS,Santa Maria,Sul,B2C,Pequeno,2025-10-20
+383,Felipe Pereira,MT,Rondonópolis,Centro-Oeste,B2C,Médio,2025-07-22
+384,  felipe santos ,MG,Uberlândia,Sudeste,B2C,Pequeno,2023-10-29
+385,Pedro Santos,MT,Várzea Grande,Centro-Oeste,B2C,Grande,2024-08-03
+386,Mariana Souza,GO,Goiânia,Centro-Oeste,B2C,Grande,2023-10-26
+387,Renata Oliveira,MG,Contagem,Sudeste,B2B,Grande,2023-03-12
+388,Carlos Santos,GO,Goiânia,Centro-Oeste,B2C,Pequeno,2024-10-17
+389,Aline Pereira,PA,Ananindeua,Norte,B2B,Médio,2024-09-24
+390,Larissa Ribeiro,RJ,Petrópolis,Sudeste,B2B,Médio,2025-10-25
+391,Amanda Pereira,MT,Cuiabá,Centro-Oeste,B2C,Pequeno,2023-09-10
+392,Pedro Santos,RJ,Campos dos Goytacazes,Sudeste,B2C,Pequeno,2024-07-14
+393,Thiago Santos,RJ,Niterói,Sudeste,B2B,Médio,2025-09-06
+394,Camila Oliveira,BA,Vitória da Conquista,Nordeste,B2C,Médio,2024-03-17
+395,Thiago Silva,MG,Contagem,Sudeste,B2C,Médio,2025-10-10
+396,Renata Oliveira,PA,Belém,Norte,B2B,Médio,2024-08-19
+397,Felipe Silva,GO,Goiânia,Centro-Oeste,B2B,Pequeno,2025-02-10
+398,Mateus Ribeiro,RS,Santa Maria,Sul,B2B,Pequeno,2023-05-01
+399,Thiago Oliveira,SP,Santos,Sudeste,B2C,Grande,2024-11-13
+400,Aline Souza,RS,Santa Maria,Sul,B2B,Médio,2023-11-09
+401,Lucas Carvalho,SP,São Paulo,Sudeste,B2C,Grande,2024-03-07
+402,Thiago Gomes,MT,Cuiabá,Centro-Oeste,B2B,Pequeno,2024-04-05
+403,Aline Gomes,PR,Londrina,Sul,B2B,Pequeno,2023-04-18
+404,Mariana Oliveira,RS,Caxias do Sul,Sul,B2B,Grande,2024-01-02
+405,Mateus Pereira,CE,Fortaleza,Nordeste,B2C,Médio,2025-09-25
+406,Aline Souza,CE,Juazeiro do Norte,Nordeste,B2C,Médio,2025-03-13
+407,Rafael Almeida,PE,Olinda,Nordeste,B2B,Médio,2024-09-04
+408,Aline Souza,MG,Contagem,Sudeste,B2B,Médio,2023-11-23
+409,Larissa Silva,SP,Santos,Sudeste,B2B,Grande,2023-02-14
+410,João Oliveira,SP,Ribeirão Preto,Sudeste,B2C,Grande,2025-03-14
+411,Larissa Pereira,ES,Cariacica,Sudeste,B2B,Pequeno,2024-11-22
+412,Rafael Santos,DF,Brasília,Centro-Oeste,B2C,Médio,2025-05-15
+413,Pedro Ribeiro,MG,Uberlândia,Sudeste,B2B,Médio,2025-08-27
+414,Juliana Carvalho,BA,Vitória da Conquista,Nordeste,B2B,Médio,2024-12-14
+415,Amanda Carvalho,PE,Caruaru,Nordeste,B2B,Grande,2025-03-12
+416,André Ribeiro,BA,Vitória da Conquista,Nordeste,B2B,Médio,2025-03-11
+417,Fernanda Gomes,MT,Sinop,Centro-Oeste,B2B,Grande,2023-05-28
+418,Patrícia Pereira,MT,Rondonópolis,Centro-Oeste,B2B,Médio,2025-12-17
+419,Larissa Almeida,BA,Salvador,Nordeste,B2C,Médio,2024-08-02
+420,  Thiago Carvalho ,BA,Salvador,Nordeste,B2B,Pequeno,2024-08-01
+421,Amanda Silva,PA,Ananindeua,Norte,B2C,Médio,2024-02-04
+422,Amanda Souza,MG,Uberlândia,Sudeste,B2B,Médio,2025-03-17
+423,Carlos Santos,BA,Vitória da Conquista,Nordeste,B2B,Pequeno,2023-07-19
+424,Felipe Souza,CE,Fortaleza,Nordeste,B2C,Grande,2023-09-26
+425,Bruno Santos,DF,Brasília,Centro-Oeste,B2B,Grande,2024-10-24
+426,Bruno Ribeiro,DF,Brasília,Centro-Oeste,B2C,Médio,2023-04-21
+427,Rafael Oliveira,RJ,Rio de Janeiro,Sudeste,B2C,Grande,2024-09-14
+428,Lucas Almeida,PR,Maringá,Sul,B2B,Médio,2025-07-26
+429,Patrícia Carvalho,MT,Cuiabá,Centro-Oeste,B2C,Pequeno,2023-12-02
+430,Aline Pereira,SP,Santos,Sudeste,B2C,Pequeno,2023-10-09
+431,Mateus Santos,ES,Vitória,Sudeste,B2B,Médio,2025-06-23
+432,Thiago Pereira,MS,Dourados,Centro-Oeste,B2C,Pequeno,2025-09-15
+433,Patrícia Souza,SP,Ribeirão Preto,Sudeste,B2B,Pequeno,2024-08-19
+434,André Pereira,PR,Foz do Iguaçu,Sul,B2B,Médio,2023-10-24
+435,Larissa Santos,ES,Serra,Sudeste,B2B,Médio,2024-03-05
+436,Juliana Souza,PA,Ananindeua,norte,B2B,Pequeno,2024-03-22
+437,Renata Santos,MG,Contagem,Sudeste,B2C,Grande,2024-02-05
+438,João Pereira,RS,Santa Maria,Sul,B2B,Grande,2023-01-19
+439,João Souza,MG,Contagem,Sudeste,B2B,Médio,2025-01-11
+440,Mateus Oliveira,SP,Campinas,Sudeste,B2C,Médio,2023-07-28
+441,Thiago Carvalho,SP,Campinas,Sudeste,B2B,Grande,2023-10-30
+442,Larissa Pereira,ES,Cariacica,Sudeste,B2B,Pequeno,2025-02-10
+443,Patrícia Souza,ES,Vila Velha,Sudeste,B2C,Grande,2025-05-24
+444,Patrícia Pereira,MT,Várzea Grande,Centro-Oeste,B2C,Grande,2023-12-11
+445,Fernanda Pereira,PA,Ananindeua,Norte,B2C,Grande,2023-04-26
+446,Beatriz Ribeiro,MT,Rondonópolis,Centro-Oeste,B2C,Grande,2023-07-16
+447,Aline Gomes,PR,Foz do Iguaçu,Sul,B2C,Médio,2024-12-29
+448,Rafael Carvalho,BA,Feira de Santana,Nordeste,B2C,Médio,2025-08-28
+449,Mateus Almeida,MG,Juiz de Fora,Sudeste,B2C,Pequeno,2024-01-03
+450,Mariana Carvalho,ES,Vila Velha,Sudeste,B2B,Pequeno,2023-04-18
+451,Felipe Silva,GO,Anápolis,Centro-Oeste,B2C,Pequeno,2023-08-29
+452,Rafael Santos,PR,Curitiba,Sul,B2C,Pequeno,2025-11-21
+453,Larissa Carvalho,CE,Fortaleza,Nordeste,B2C,Grande,2024-11-24
+454,Lucas Pereira,PA,Belém,Norte,B2B,Médio,2025-06-07
+455,Larissa Silva,SP,Campinas,Sudeste,B2B,Médio,2023-11-01
+456,Bruno Gomes,MT,Sinop,Centro-Oeste,B2C,Pequeno,2025-04-07
+457,  Beatriz Gomes ,PR,Foz do Iguaçu,Sul,B2C,Pequeno,2024-05-16
+458,Felipe Oliveira,MS,Dourados,Centro-Oeste,B2C,Grande,2023-03-11
+459,Larissa Almeida,MG,Belo Horizonte,Sudeste ,B2B,Grande,2023-09-01
+460,Aline Souza,ES,Vila Velha,Sudeste,B2B,Pequeno,2024-05-08
+461,Aline Costa,SP,Ribeirão Preto,Sudeste,B2C,Médio,2025-03-23
+462,Juliana Costa,RS,Santa Maria,Sul,B2B,Médio,2025-09-27
+463,Mariana Souza,MS,Corumbá,Centro-Oeste,B2C,Médio,2024-09-11
+464,Bruno Costa,PA,Santarém,Norte,B2B,Pequeno,2023-12-20
+465,Juliana Gomes,PR,Foz do Iguaçu,Sul,B2B,Médio,2025-02-07
+466,Thiago Almeida,PE,Petrolina,Nordeste,B2C,Grande,2023-07-03
+467,Renata Silva,SP,Ribeirão Preto,Sudeste,B2C,Grande,2025-08-07
+468,Patrícia Souza,MG,Contagem,Sudeste,B2C,Pequeno,2025-02-21
+469,Mariana Pereira,RJ,Petrópolis,Sudeste,B2C,Grande,2024-07-17
+470,Mariana Souza,GO,Anápolis,Centro-Oeste,B2B,Pequeno,2025-06-30
+471,Fernanda Ribeiro,SC,Joinville,Sul,B2B,Médio,2025-01-22
+472,Lucas Ribeiro,MS,Corumbá,Centro-Oeste,B2B,Médio,2023-01-24
+473,Patrícia Almeida,BA,Salvador,Nordeste,B2C,Médio,2023-09-03
+474,Mateus Santos,SC,Chapecó,Sul,B2B,Grande,2023-08-27
+475,Beatriz Costa,MG,Uberlândia,Sudeste,B2C,Pequeno,2023-06-19
+476,Amanda Gomes,CE,Sobral,Nordeste,B2B,Médio,2023-09-07
+477,Patrícia Silva,MT,Sinop,Centro-Oeste,B2C,Pequeno,2025-09-28
+478,Carlos Pereira,CE,Sobral,Nordeste,B2C,Médio,2025-11-09
+479,Renata Oliveira,RJ,Rio de Janeiro,Sudeste,B2B,Grande,2024-04-05
+480,Thiago Gomes,MS,Campo Grande,Centro-Oeste,B2C,Grande,2023-02-17
+481,Aline Souza,BA,Ilhéus,Nordeste,B2C,Pequeno,2025-09-09
+482,Lucas Carvalho,PE,Caruaru,Nordeste,B2B,Grande,2024-07-14
+483,André Oliveira,RJ,Rio de Janeiro,Sudeste,B2C,Grande,2023-07-13
+484,Thiago Ribeiro,MS,Corumbá,Centro-Oeste,B2C,Pequeno,2024-01-06
+485,Lucas Ribeiro,DF,Brasília,Centro-Oeste,B2C,Médio,2025-02-25
+486,Juliana Souza,SC,Joinville,Sul,B2B,Grande,2025-09-18
+487,André Souza,RJ,Petrópolis,Sudeste,B2B,Pequeno,2025-06-07
+488,Patrícia Souza,SC,Chapecó,Sul,B2C,Grande,2024-09-03
+489,João Gomes,SP,São Paulo,Sudeste,B2B,Grande,2023-09-14
+490,Thiago Ribeiro,CE,Fortaleza,Nordeste,B2C,Grande,2023-07-23
+491,Felipe Almeida,SP,Campinas,Sudeste,B2C,Grande,2024-10-28
+492,Aline Gomes,GO,Aparecida de Goiânia,Centro-Oeste,B2C,Pequeno,2023-05-11
+493,André Gomes,DF,Brasília,Centro-Oeste,B2C,Pequeno,2024-01-14
+494,Renata Oliveira,BA,Vitória da Conquista,Nordeste,B2C,Pequeno,2025-04-10
+495,Fernanda Santos,PE,Recife,Nordeste,B2B,Grande,2023-02-10
+496,Amanda Ribeiro,PA,Marabá,Norte,B2C,Grande,2025-03-17
+497,João Souza,SC,Florianópolis,Sul,B2B,Grande,2025-12-21
+498,Felipe Almeida,PE,Petrolina,Nordeste,B2B,Pequeno,2025-09-27
+499,Mariana Ribeiro,SC,Chapecó,Sul,B2C,Grande,2023-05-11
+500,Felipe Silva,MG,Contagem,Sudeste,B2C,Médio,2025-11-28
+501,Thiago Pereira,RJ,Petrópolis,Sudeste,B2B,Grande,2023-09-12
+502,Larissa Carvalho,GO,Aparecida de Goiânia,Centro-Oeste,B2B,Médio,2024-02-29
+503,Aline Oliveira,CE,Sobral,Nordeste,B2B,Grande,2023-08-29
+504,Patrícia Ribeiro,PA,Marabá,Norte,B2C,Pequeno,2024-01-06
+505,Aline Costa,ES,Serra,Sudeste,B2B,Grande,2024-01-04
+506,Mariana Ribeiro,SC,Joinville,Sul,B2C,Médio,2023-01-11
+507,Renata Almeida,PE,Recife,Nordeste,B2C,Médio,2025-07-04
+508,Patrícia Costa,GO,Rio Verde,Centro-Oeste,B2C,Grande,2024-10-05
+509,Carlos Santos,RS,Pelotas,Sul,B2B,Médio,2023-09-09
+510,Larissa Almeida,PA,Belém,Norte,B2C,Médio,2023-03-22
+511,André Almeida,RS,Santa Maria,Sul,B2C,Pequeno,2023-09-21
+512,Mateus Costa,SP,Campinas,Sudeste,B2C,Grande,2024-02-27
+513,Aline Almeida,CE,Fortaleza,Nordeste,B2C,Grande,2023-11-27
+514,Fernanda Oliveira,MT,Rondonópolis,Centro-Oeste,B2C,Grande,2023-06-29
+515,Aline Silva,MT,Cuiabá,Centro-Oeste,B2B,Médio,2024-06-09
+516,João Ribeiro,ES,Serra,Sudeste,B2C,Grande,2023-03-13
+517,Larissa Costa,MG,Contagem,Sudeste,B2C,Grande,2023-06-23
+518,Pedro Gomes,PE,Recife,Nordeste,B2B,Pequeno,2023-09-13
+519,Pedro Ribeiro,MS,Dourados,Centro-Oeste,B2C,Pequeno,2025-11-02
+520,Patrícia Silva,ES,Vitória,Sudeste,B2B,Pequeno,2024-09-03
+521,João Almeida,RJ,Petrópolis,Sudeste,B2C,Médio,2025-01-14
+522,João Souza,RJ,Petrópolis,Sudeste,B2B,Grande,2023-12-18
+523,Aline Pereira,PE,Olinda,Nordeste,B2B,Pequeno,2025-05-16
+524,Mariana Carvalho,MS,Três Lagoas,Centro-Oeste,B2C,Pequeno,2023-01-01
+525,Fernanda Souza,BA,Vitória da Conquista,Nordeste,B2C,Pequeno,2024-05-23
+526,Mariana Ribeiro,MG,Juiz de Fora,Sudeste,B2C,Grande,2024-09-07
+527,Fernanda Costa,GO,Goiânia,Centro-Oeste,B2B,Grande,2023-04-05
+528,Aline Ribeiro,SC,Florianópolis,Sul,B2B,Grande,2025-11-29
+529,Mateus Carvalho,MS,Dourados,Centro-Oeste,B2B,Médio,2024-08-23
+530,Rafael Santos,MT,Várzea Grande,Centro-Oeste,B2C,Médio,2025-12-29
+531,Thiago Santos,PA,Ananindeua,Norte,B2B,Pequeno,2025-06-30
+532,Rafael Almeida,BA,Vitória da Conquista,Nordeste,B2B,Grande,2023-10-14
+533,Pedro Souza,SC,Joinville,Sul,B2C,Pequeno,2025-10-01
+534,Patrícia Oliveira,SC,Blumenau,Sul,B2B,Grande,2024-10-02
+535,Thiago Silva,BA,Feira de Santana,Nordeste,B2B,Grande,2025-12-06
+536,Mateus Costa,SP,Ribeirão Preto,Sudeste,B2C,Grande,2024-12-22
+537,Mateus Pereira,RS,Caxias do Sul,Sul,B2B,Médio,2025-11-11
+538,Camila Costa,SC,Florianópolis,Sul,B2C,Médio,2024-03-05
+539,Juliana Oliveira,BA,Vitória da Conquista,Nordeste,B2C,Grande,2023-07-22
+540,André Ribeiro,MS,Campo Grande,Centro-Oeste,B2C,Pequeno,2023-04-02
+541,Juliana Carvalho,BA,Feira de Santana,Nordeste,B2C,Grande,2024-04-30
+542,Bruno Oliveira,DF, brasília ,Centro-Oeste,B2C,Grande,2023-03-17
+543,Bruno Souza,ES,Cariacica,Sudeste,B2B,Pequeno,2024-01-21
+544,Amanda Almeida,PR,Foz do Iguaçu,Sul,B2B,Grande,2023-10-18
+545,Amanda Santos,SP,Ribeirão Preto,Sudeste,B2C,Pequeno,2024-09-05
+546,Aline Carvalho,CE,Juazeiro do Norte,Nordeste,B2C,Médio,2024-03-16
+547,João Santos,PR,Foz do Iguaçu,Sul,B2B,Médio,2023-10-02
+548,Patrícia Pereira,ES,Vila Velha,Sudeste,B2C,Pequeno,2024-03-18
+549,Patrícia Pereira,ES,Vila Velha,Sudeste,B2C,Médio,2025-01-05
+550,Lucas Gomes,ES,Serra,Sudeste,B2C,Médio,2024-07-22
+551,Thiago Ribeiro,PR,Curitiba,Sul,B2B,Pequeno,2023-09-21
+552,Bruno Souza,PE,Caruaru,Nordeste,B2B,Médio,2025-05-14
+553,Patrícia Costa,RS,Porto Alegre,Sul,B2C,Grande,2023-06-02
+554,Larissa Pereira,BA,Salvador,Nordeste,B2C,Grande,2024-06-06
+555,Juliana Pereira,PA,Santarém,Norte,B2B,Pequeno,2024-06-17
+556,Patrícia Pereira,RS,Santa Maria,Sul,B2B,Médio,2025-02-20
+557,Carlos Almeida,MT,Sinop,Centro-Oeste,B2C,Grande,2023-12-01
+558,Aline Souza,MS,Corumbá,Centro-Oeste,B2C,Grande,2025-03-30
+559,André Almeida,MG,Juiz de Fora,Sudeste,B2B,Médio,2025-07-23
+560,Larissa Costa,PE,Petrolina,Nordeste,B2B,Médio,2023-06-20
+561,Larissa Pereira,CE,Juazeiro do Norte,Nordeste,B2B,Grande,2024-06-04
+562,Thiago Silva,RS,Santa Maria,Sul,B2C,Grande,2025-05-21
+563,Fernanda Pereira,PA,Ananindeua,Norte,B2B,Pequeno,2023-10-21
+564,Lucas Carvalho,RJ,Campos dos Goytacazes,Sudeste,B2C,Pequeno,2024-02-22
+565,Mateus Carvalho,ES,Serra,Sudeste,B2B,Grande,2023-05-25
+566,Aline Pereira,SC,Joinville,Sul,B2B,Pequeno,2024-07-05
+567,André Carvalho,MT,Sinop,Centro-Oeste,B2B,Grande,2024-01-30
+568,Camila Santos,MG,Belo Horizonte,Sudeste,B2B,Grande,2025-02-01
+569,Carlos Carvalho,SP,Santos,Sudeste,B2C,Pequeno,2025-11-13
+570,Felipe Oliveira,CE,Crato,Nordeste,B2C,Pequeno,2023-12-02
+571,Pedro Silva,MS,Corumbá,Centro-Oeste,B2B,Médio,2025-05-09
+572,  THIAGO GOMES ,MG,Juiz de Fora,Sudeste,B2C,Médio,2023-11-11
+573,Mateus Carvalho,ES,Vitória,Sudeste,B2B,Médio,2024-10-09
+574,Camila Oliveira,SC,Florianópolis,Sul,B2B,Grande,2025-06-07
+575,Rafael Pereira,PE,Caruaru,Nordeste,B2B,Pequeno,2025-02-15
+576,Mariana Almeida,SC,Chapecó,Sul,B2B,Grande,2023-02-23
+577,Bruno Santos,PR,Maringá,Sul,B2C,Pequeno,2024-05-21
+578,João Ribeiro,SC,Blumenau,Sul,B2B,Grande,2023-06-08
+579,Camila Ribeiro,PR,Maringá,Sul,B2B,Médio,2024-07-07
+580,Beatriz Pereira,MT,Rondonópolis,Centro-Oeste,B2C,Médio,2023-09-13
+581,Bruno Pereira,PE,Recife,Nordeste,B2B,Médio,2025-12-24
+582,Aline Pereira,MS,Três Lagoas,Centro-Oeste,B2B,Grande,2023-08-14
+583,Mariana Souza,GO,Aparecida de Goiânia,Centro-Oeste,B2B,Pequeno,2025-04-13
+584,Patrícia Souza,ES,Cariacica,Sudeste,B2C,Pequeno,2023-05-16
+585,João Santos,PR,Londrina,Sul,B2B,Médio,2024-11-05
+586,Fernanda Ribeiro,SP,Campinas,Sudeste,B2C,Médio,2023-07-02
+587,Camila Souza,SC,Blumenau,Sul,B2B,Médio,2025-01-13
+588,Fernanda Silva,SC,Joinville,Sul,B2B,Médio,2024-11-14
+589,Felipe Ribeiro,SP,Santos,Sudeste,B2C,Pequeno,2024-07-13
+590,Pedro Gomes,MS,Campo Grande,Centro-Oeste,B2B,Grande,2023-10-27
+591,Camila Pereira,RJ,Rio de Janeiro,Sudeste,B2B,Grande,2024-04-07
+592,Larissa Almeida,MT,Cuiabá,Centro-Oeste,B2C,Grande,2024-07-14
+593,Camila Souza,BA,Salvador,Nordeste,B2C,Grande,2023-01-21
+594,André Gomes,GO,Aparecida de Goiânia,Centro-Oeste,B2C,Médio,2023-07-20
+595,Lucas Carvalho,CE,Fortaleza,Nordeste,B2C,Médio,2025-02-11
+596,Renata Costa,PA,Belém,Norte,B2C,Médio,2024-03-31
+597,Amanda Santos,PR,Foz do Iguaçu,Sul,B2B,Grande,2025-02-14
+598,Rafael Gomes,SP,Santos,Sudeste,B2C,Médio,2023-08-04
+599,Thiago Almeida,PA,Santarém,Norte,B2B,Médio,2023-09-10
+600,Pedro Oliveira,PE,Caruaru,Nordeste,B2B,Pequeno,2023-12-26
+601,Mateus Silva,MS,Três Lagoas,Centro-Oeste,B2B,Pequeno,2025-12-14
+602,Thiago Gomes,PR,Londrina,Sul,B2C,Médio,2024-09-19
+603,Pedro Souza,BA,Salvador,Nordeste,B2C,Pequeno,2025-09-29
+604,André Ribeiro,PA,Belém,Norte,B2B,Pequeno,2023-07-15
+605,João Almeida,PE,Recife,Nordeste,B2C,Médio,2025-12-19
+606,Patrícia Costa,MG,Belo Horizonte,Sudeste,B2C,Médio,2024-12-15
+607,Renata Almeida,ES,Vila Velha,Sudeste,B2C,Médio,2024-07-31
+608,Larissa Oliveira,SC,Florianópolis,Sul,B2C,Médio,2024-07-09
+609,Juliana Souza,MG,Belo Horizonte,Sudeste,B2B,Grande,2023-07-22
+610,Aline Carvalho,PR,Curitiba,Sul,B2B,Grande,2023-04-09
+611,Juliana Pereira,BA,Feira de Santana,Nordeste,B2C,Médio,2023-12-16
+612,Mateus Costa,GO,Aparecida de Goiânia,Centro-Oeste,B2B,Pequeno,2024-10-13
+613,Carlos Gomes,PA,Santarém,Norte,B2C,Médio,2025-03-08
+614,Patrícia Santos,MT,Cuiabá,Centro-Oeste,B2C,Médio,2024-01-06
+615,Camila Souza,ES,Vila Velha,Sudeste,B2B,Pequeno,2024-12-07
+616,Camila Ribeiro,PR,Maringá,Sul,B2B,Grande,2025-12-24
+617,Camila Silva,MS,Três Lagoas,Centro-Oeste,B2B,Médio,2025-04-04
+618,Fernanda Pereira,SP,Ribeirão Preto,Sudeste,B2C,Médio,2025-09-03
+619,Carlos Souza,MT,Cuiabá,Centro-Oeste,B2B,Grande,2023-09-19
+620,Patrícia Souza,MT,Sinop,Centro-Oeste,B2C,Grande,2024-06-14
+621,Carlos Carvalho,MT,Rondonópolis,Centro-Oeste,B2B,Pequeno,2023-01-20
+622,Lucas Silva,RS,Santa Maria,Sul,B2B,Grande,2025-11-17
+623,Mariana Santos,PR,Maringá,Sul,B2C,Grande,2023-11-15
+624,João Carvalho,ES,Serra,Sudeste,B2C,Grande,2023-09-16
+625,Carlos Souza,SC,Joinville,Sul,B2C,Pequeno,2023-10-20
+626,Renata Santos,SC,Florianópolis,Sul,B2C,Grande,2025-02-14
+627,Larissa Santos,PR,Maringá,SUL,B2C,Grande,2024-07-01
+628,André Costa,PE,Recife,Nordeste,B2C,Pequeno,2023-04-19
+629,João Carvalho,RS,Santa Maria,Sul,B2C,Grande,2025-01-28
+630,Lucas Pereira,SP,Ribeirão Preto,Sudeste,B2C,Grande,2024-05-25
+631,João Oliveira,MT,Rondonópolis,Centro-Oeste,B2B,Pequeno,2025-05-06
+632,Renata Pereira,MT,Cuiabá,Centro-Oeste,B2C,Médio,2025-07-26
+633,Bruno Souza,PR,Maringá,Sul,B2C,Pequeno,2024-01-10
+634,Lucas Oliveira,PE,Caruaru,Nordeste,B2B,Grande,2025-06-17
+635,Lucas Costa,SC,Joinville,Sul,B2C,Grande,2024-12-25
+636,André Carvalho,SC,Chapecó,Sul,B2B,Grande,2025-08-17
+637,Mariana Silva,BA,Salvador,Nordeste,B2B,Pequeno,2025-10-25
+638,Bruno Pereira,PR,Foz do Iguaçu,Sul,B2C,Grande,2024-08-10
+639,Mateus Oliveira,RS,Caxias do Sul,Sul,B2B,Grande,2024-07-18
+640,Juliana Ribeiro,RJ,Campos dos Goytacazes,Sudeste,B2C,Pequeno,2025-05-26
+641,Pedro Souza,RS,Caxias do Sul,Sul,B2B,Médio,2025-12-02
+642,Aline Gomes,MS,Corumbá,Centro-Oeste,B2B,Médio,2024-04-13
+643,Camila Ribeiro,SC,Florianópolis,Sul,B2B,Grande,2024-09-17
+644,Larissa Souza,SC,Joinville,Sul,B2C,Pequeno,2023-06-28
+645,Patrícia Ribeiro,MG,Contagem,Sudeste,B2C,Grande,2024-09-17
+646,André Carvalho,SC,Joinville,Sul,B2B,Pequeno,2025-04-12
+647,Mateus Ribeiro,SP,São Paulo,Sudeste,B2B,Pequeno,2024-10-02
+648,Thiago Gomes,CE,Crato,Nordeste,B2C,Médio,2023-07-04
+649,Lucas Silva,PR,Maringá,Sul,B2C,Médio,2023-06-12
+650,Aline Almeida,PA,Belém,Norte,B2B,Pequeno,2023-06-07
+651,Juliana Souza,RS,Porto Alegre,Sul,B2B,Grande,2024-05-06
+652,Aline Gomes,CE,Fortaleza,Nordeste,B2C,Médio,2023-07-11
+653,Rafael Souza,PE,Recife,Nordeste,B2C,Grande,2023-12-05
+654,Mariana Carvalho,RJ,Petrópolis,Sudeste,B2C,Médio,2023-04-28
+655,João Souza,SP,Ribeirão Preto,Sudeste,B2C,Médio,2023-06-23
+656,João Pereira,ES,Vitória,Sudeste,B2C,Grande,2024-08-08
+657,Amanda Carvalho,DF,Brasília,Centro-Oeste,B2B,Médio,2025-10-06
+658,Renata Costa,RS,Caxias do Sul,Sul,B2C,Médio,2023-01-22
+659,Fernanda Carvalho,CE,Fortaleza,Nordeste,B2B,Grande,2025-05-18
+660,Beatriz Pereira,ES,Vitória,Sudeste,B2C,Médio,2025-11-07
+661,Patrícia Ribeiro,RJ,Campos dos Goytacazes,Sudeste,B2B,Médio,2023-10-07
+662,Amanda Almeida,MG,Juiz de Fora,Sudeste ,B2C,Médio,2025-09-09
+663,Pedro Souza,ES,Vila Velha,Sudeste,B2C,Grande,2025-10-16
+664,Renata Santos,SP,Santos,Sudeste,B2B,Pequeno,2025-11-20
+665,Juliana Gomes,SP,Ribeirão Preto,Sudeste,B2B,Grande,2025-12-26
+666,André Almeida,PA,Belém,Norte,B2C,Pequeno,2023-09-13
+667,Mariana Gomes,mg,Contagem,Sudeste,B2C,Médio,2025-04-10
+668,Fernanda Almeida,DF,Brasília,Centro-Oeste,B2C,Pequeno,2023-01-29
+669,Pedro Costa,PR,Foz do Iguaçu,Sul,B2C,Grande,2024-01-25
+670,Juliana Costa,es,Cariacica,Sudeste,B2C,Grande,2023-01-15
+671,Felipe Costa,MG,Belo Horizonte,Sudeste,B2B,Médio,2025-05-20
+672,João Gomes,SP,Campinas,Sudeste,B2B,Pequeno,2025-12-30
+673,Rafael Souza,SP,São Paulo,Sudeste,B2C,Médio,2024-12-07
+674,Rafael Souza,CE,Crato,Nordeste,B2B,Médio,2024-05-15
+675,Juliana Souza,SC,Chapecó,Sul,B2B,Grande,2025-12-17
+676,Camila Oliveira,DF,Brasília,Centro-Oeste,B2B,Pequeno,2023-03-28
+677,Renata Silva,ES,Serra,Sudeste,B2C,Pequeno,2025-07-07
+678,Larissa Ribeiro,PA,Marabá,Norte,B2B,Pequeno,2023-12-12
+679,Renata Costa,PA,Marabá,Norte,B2C,Pequeno,2025-12-08
+680,Pedro Almeida,ES,Cariacica,Sudeste,B2B,Médio,2024-04-05
+681,Camila Almeida,MS,Campo Grande,Centro-Oeste,B2C,Médio,2023-12-25
+682,Mateus Pereira,MT,Cuiabá,Centro-Oeste,B2B,Grande,2023-06-03
+683,Amanda Pereira,RJ,Petrópolis,Sudeste,B2C,Médio,2025-01-21
+684,Camila Souza,PA,Marabá,Norte,B2C,Médio,2023-10-01
+685,Larissa Ribeiro,MG,Belo Horizonte,Sudeste,B2B,Grande,2025-11-18
+686,Carlos Oliveira,RJ,Campos dos Goytacazes,Sudeste,B2C,Grande,2024-12-24
+687,Aline Santos,MG,Juiz de Fora,Sudeste,B2C,Grande,2023-04-15
+688,Pedro Costa,PE,Olinda,Nordeste,B2C,Médio,2025-05-15
+689,Renata Costa,SP,Campinas,Sudeste,B2C,Médio,2025-10-11
+690,Pedro Pereira,SC,Florianópolis,Sul,B2C,Grande,2025-02-15
+691,Larissa Santos,CE,Crato,Nordeste,B2C,Grande,2023-12-16
+692,Juliana Ribeiro,PA,Santarém,Norte,B2C,Grande,2025-02-03
+693,Amanda Carvalho,SC,Blumenau,Sul,B2C,Médio,2023-08-20
+694,Renata Silva,SC,Chapecó,Sul,B2B,Médio,2024-11-23
+695,Amanda Pereira,SC,Florianópolis,Sul,B2B,Pequeno,2024-05-26
+696,Lucas Oliveira,MT,Rondonópolis,Centro-Oeste,B2C,Médio,2023-08-30
+697,Felipe Pereira,RJ,Campos dos Goytacazes,Sudeste,B2C,Médio,2024-08-17
+698,Mariana Costa,MG,Belo Horizonte,Sudeste,B2B,Médio,2024-09-04
+699,Lucas Oliveira,GO,Aparecida de Goiânia,Centro-Oeste,B2B,Grande,2025-09-16
+700,João Carvalho,PE,Olinda,Nordeste,B2B,Médio,2024-08-24
+701,Fernanda Souza,RS,Caxias do Sul,Sul,B2C,Grande,2024-06-26
+702,João Silva,SC,Florianópolis,Sul,B2B,Pequeno,2024-03-12
+703,Rafael Ribeiro,PR,Londrina,Sul,B2C,Pequeno,2023-01-05
+704,Carlos Almeida,RJ,Rio de Janeiro,Sudeste,B2C,Grande,2025-03-17
+705,Juliana Gomes,PA,Santarém,Norte,B2B,Grande,2024-03-21
+706,Mariana Oliveira,DF,Brasília,Centro-Oeste,B2C,Grande,2024-09-16
+707,Camila Pereira,PA,Ananindeua,Norte,B2C,Médio,2025-11-21
+708,Mariana Carvalho,CE,Fortaleza,Nordeste,B2C,Pequeno,2023-03-14
+709,Amanda Souza,RS,Pelotas,Sul,B2C,Grande,2025-08-06
+710,Mateus Oliveira,GO,Aparecida de Goiânia,Centro-Oeste,B2B,Médio,2025-09-26
+711,Bruno Carvalho,PR,Foz do Iguaçu,Sul,B2B,Pequeno,2023-04-28
+712,Mateus Souza,PA,Belém,Norte,B2C,Médio,2024-12-29
+713,Felipe Gomes,GO,Goiânia,Centro-Oeste,B2C,Pequeno,2023-01-13
+714,Juliana Gomes,RS,Pelotas,Sul,B2B,Médio,2025-07-31
+715,Amanda Gomes,SC,Florianópolis,Sul,B2C,Pequeno,2024-11-03
+716,Juliana Pereira,PR,Maringá,Sul,B2B,Pequeno,2024-09-03
+717,Carlos Ribeiro,GO,Goiânia,Centro-Oeste,B2C,Médio,2024-12-25
+718,Pedro Costa,CE,Crato,Nordeste,B2C,Grande,2023-08-08
+719,Juliana Souza,MG,Belo Horizonte,Sudeste,B2B,Pequeno,2023-01-11
+720,Thiago Carvalho,SP,Campinas,Sudeste,B2B,Grande,2024-12-17
+721,Aline Ribeiro,MG,Contagem,Sudeste,B2B,Médio,2024-01-17
+722,Thiago Silva,RS,Caxias do Sul,Sul,B2B,Grande,2025-04-03
+723,André Almeida,RJ,Niterói,Sudeste,B2C,Grande,2024-12-27
+724,Amanda Silva,SP,São Paulo,Sudeste,B2B,Grande,2023-01-19
+725,Lucas Santos,PE,Recife,Nordeste,B2C,Grande,2023-07-27
+726,Thiago Santos,CE,Juazeiro do Norte,Nordeste,B2B,Grande,2025-06-01
+727,João Pereira,PE,Petrolina,Nordeste,B2B,Pequeno,2025-10-04
+728,Thiago Costa,MT,Cuiabá,Centro-Oeste,B2C,Pequeno,2024-02-09
+729,Pedro Silva,PR,Foz do Iguaçu,Sul,B2B,Pequeno,2023-06-23
+730,Aline Almeida,ES,Vitória,Sudeste,B2B,Médio,2025-12-19
+731,Bruno Oliveira,SP,Campinas,Sudeste,B2B,Grande,2025-11-19
+732,Fernanda Ribeiro,PE,Olinda,Nordeeste,B2B,Pequeno,2023-11-11
+733,André Ribeiro,PA,Belém,Norte,B2C,Médio,2025-04-21
+734,Renata Costa,PE,Olinda,Nordeste,B2C,Pequeno,2023-09-11
+735,Rafael Almeida,GO,Goiânia,Centro-Oeste,B2B,Pequeno,2025-09-25
+736,Mateus Almeida,MG,Juiz de Fora,Sudeste,B2B,Grande,2023-01-15
+737,Lucas Gomes,GO,Goiânia,Centro-Oeste,B2B,Médio,2023-11-15
+738,Rafael Costa,MT,Sinop,Centro-Oeste,B2C,Grande,2024-05-27
+739,Larissa Almeida,SP,Campinas,Sudeste,B2C,Grande,2024-04-08
+740,Larissa Almeida,SP,São Paulo,Sudeste,B2C,Pequeno,2025-08-21
+741,Juliana Pereira,MT,Cuiabá,Centro-Oeste,B2C,Grande,2025-03-20
+742,Pedro Almeida,RS,Porto Alegre,Sul,B2B,Médio,2025-02-05
+743,Lucas Costa,GO,Aparecida de Goiânia,Centro-Oeste,B2B,Grande,2024-09-04
+744,Bruno Carvalho,BA,Feira de Santana,Nordeste,B2B,Grande,2025-01-16
+745,Patrícia Costa,PA,Belém,Norte,B2C,Grande,2025-05-27
+746,Rafael Almeida,DF,Brasília,Centro-Oeste,B2B,Pequeno,2024-01-09
+747,Pedro Santos,MG,Contagem,Sudeste,B2C,Médio,2024-07-05
+748,Juliana Carvalho,SP,Santos,Sudeste,B2C,Pequeno,2023-08-11
+749,Fernanda Ribeiro,RS,Santa Maria,Sul,B2B,Pequeno,2025-06-17
+750,Rafael Almeida,ES,Serra,Sudeste,B2B,Pequeno,2025-06-18
+751,Thiago Costa,PA,Belém,Norte,B2B,Pequeno,2023-11-28
+752,André Costa,GO,Anápolis,Centro-Oeste,B2C,Pequeno,2023-10-14
+753,Bruno Souza,MG,Juiz de Fora,Sudeste,B2C,Médio,2024-12-25
+754,Beatriz Souza,ES,Vila Velha,Sudeste,B2B,Grande,2025-06-07
+755,Beatriz Ribeiro,GO,Goiânia,Centro-Oeste,B2B,Pequeno,2023-01-12
+756,Carlos Costa,PE,Olinda,Nordeste,B2C,Pequeno,2025-01-05
+757,Camila Oliveira,ES,Serra,Sudeste,B2B,Médio,2024-02-11
+758,André Souza,MT,Cuiabá,Centro-Oeste,B2C,Médio,2023-08-15
+759,João Pereira,MS,Campo Grande,Centro-Oeste,B2C,Grande,2024-01-24
+760,Carlos Oliveira,RS,Pelotas,Sul,B2B,Médio,2024-08-06
+761,Amanda Oliveira,MG,Uberlândia,Sudeste,B2B,Grande,2023-03-24
+762,Rafael Oliveira,SC,Chapecó,Sul,B2B,Pequeno,2023-10-01
+763,Aline Gomes,MS,Dourados,Centro-Oeste,B2B,Pequeno,2025-03-19
+764,Larissa Carvalho,PR,Maringá,Sul,B2C,Grande,2025-05-12
+765,Patrícia Carvalho,PR,Londrina,Sul,B2C,Médio,2024-11-09
+766,Amanda Costa,MG,Contagem,Sudeste,B2C,Grande,2023-03-06
+767,Mariana Oliveira,ES,Vila Velha,Sudeste,B2B,Médio,2023-11-25
+768,Patrícia Souza,GO,Goiânia,Centro-Oeste,B2C,Pequeno,2024-02-12
+769,Aline Gomes,RS,Caxias do Sul,Sul,B2B,Médio,2025-09-08
+770,Thiago Pereira,DF,Brasília,Centro-Oeste,B2B,Grande,2024-06-28
+771,Larissa Silva,PR,Foz do Iguaçu,Sul,B2B,Grande,2023-09-01
+772,Camila Ribeiro,RS,Caxias do Sul,Sul,B2B,Pequeno,2025-05-12
+773,Rafael Pereira,PR,Curitiba,Sul,B2B,Médio,2025-09-28
+774,Patrícia Gomes,PE,Petrolina,Nordeste,B2B,Médio,2025-10-11
+775,Mateus Silva,GO,Goiânia,Centro-Oeste,B2C,Médio,2023-09-18
+776,Camila Pereira,PE,Recife,Nordeste,B2B,Pequeno,2024-10-27
+777,Rafael Souza,PA,Belém,Norte,B2C,Médio,2025-03-29
+778,Amanda Carvalho,PR,Londrina,Sul,B2C,Grande,2025-10-24
+779,Beatriz Almeida,SC,Florianópolis,Sul,B2B,Médio,2025-03-07
+780,Patrícia Carvalho,SC, BLUMENAU ,Sul,B2B,Pequeno,2023-09-27
+781,Renata Silva,PE,Petrolina,Nordeste,B2B,Médio,2023-08-13
+782,Patrícia Carvalho,MT,Sinop,Centro-Oeste,B2C,Médio,2023-08-09
+783,Carlos Costa,MS,Dourados,Centro-Oeste,B2B,Grande,2023-02-13
+784,Amanda Gomes,SC,Joinville,Sul,B2C,Médio,2023-09-16
+785,Beatriz Oliveira,PR,Londrina,Sul,B2B,Grande,2023-11-15
+786,Mateus Gomes,MG,Juiz de Fora,Sudeste,B2B,Grande,2024-12-05
+787,Pedro Costa,PE,Petrolina,Nordeste,B2C,Pequeno,2025-10-21
+788,Rafael Ribeiro,PA,Ananindeua,Norte,B2C,Grande,2023-01-28
+789,Bruno Silva,DF,Brasília,Centro-Oeste,B2B,Grande,2024-04-29
+790,André Gomes,DF,Brasília,Centro-Oeste,B2C,Pequeno,2023-04-17
+791,Patrícia Ribeiro,RJ,Rio de Janeiro,Sudeste,B2C,Grande,2024-12-01
+792,Beatriz Carvalho,MS,Dourados,Centro-Oeste,B2C,Pequeno,2025-05-29
+793,Bruno Costa,ES,Cariacica,Sudeste,B2C,Médio,2023-01-17
+794,Camila Pereira,GO,Goiânia,Centro-Oeste,B2C,Pequeno,2025-06-08
+795,Fernanda Almeida,SC,Blumenau,Sul,B2B,Grande,2025-09-10
+796,Mariana Carvalho,SC,Blumenau,Sul,B2B,Pequeno,2024-08-15
+797,Mateus Costa,ES,Cariacica,Sudeste,B2C,Grande,2024-07-31
+798,Rafael Costa,SP,São Paulo,Sudeste,B2B,Médio,2025-09-22
+799,Pedro Ribeiro,PA,Santarém,Norte,B2B,Pequeno,2023-06-19
+800,Fernanda Pereira,BA,Feira de Santana,Nordeste,B2C,Médio,2025-05-28
+801,Felipe Carvalho,PE,Recife,Nordeste,B2B,Grande,2024-05-22
+802,João Costa,MT,Cuiabá,Centro-Oeste,B2C,Grande,2023-11-09
+803,Rafael Carvalho,PA,Marabá,Norte,B2C,Médio,2025-11-13
+804,João Costa,CE,Juazeiro do Norte,Nordeste,B2B,Pequeno,2024-01-18
+805,Thiago Almeida,SC,Chapecó,Sul,B2C,Pequeno,2024-05-25
+806,João Carvalho,GO,Anápolis,Centro-Oeste,B2C,Grande,2024-07-29
+807,Rafael Pereira,RJ,Petrópolis,Sudeste,B2C,Médio,2023-08-24
+808,Renata Almeida,DF,Brasília,Centro-Oeste,B2C,Médio,2024-06-23
+809,Mariana Oliveira,SC,Joinville,Sul,B2C,Pequeno,2024-05-21
+810,Beatriz Souza,RJ,Rio de Janeiro,Sudeste,B2B,Pequeno,2025-05-28
+811,Juliana Ribeiro,PR,Londrina,Sul,B2B,Pequeno,2024-02-11
+812,Camila Silva,PA,Ananindeua,Norte,B2C,Médio,2025-08-28
+813,Camila Pereira,PR,Foz do Iguaçu,Sul,B2C,Pequeno,2023-07-31
+814,Bruno Santos,BA,Feira de Santana,Nordeste,B2B,Pequeno,2025-10-25
+815,  mariana gomes ,MG,Uberlândia,Sudeste ,B2C,Grande,2024-01-07
+816,Carlos Santos,CE,Fortaleza,Nordeste,B2B,Pequeno,2024-01-22
+817,João Oliveira,PA,Belém,Norte,B2C,Pequeno,2023-11-01
+818,Rafael Pereira,SP,Santos,Sudeste,B2C,Médio,2024-04-14
+819,Pedro Ribeiro,BA,Vitória da Conquista,Nordeste,B2C,Médio,2023-09-04
+820,Renata Ribeiro,RS,Caxias do Sul,Sul,B2C,Grande,2023-09-28
+821,Mateus Costa,SP,Ribeirão Preto,Sudeste,B2C,Pequeno,2025-04-01
+822,Amanda Oliveira,MS,Três Lagoas,Centro-Oeste,B2C,Grande,2023-03-20
+823,Amanda Almeida,PE,Caruaru,Nordeste,B2C,Médio,2024-07-14
+824,João Oliveira,GO,Aparecida de Goiânia,Centro-Oeste,B2B,Grande,2024-01-29
+825,Bruno Carvalho,PA,Belém,Norte,B2B,Médio,2023-10-27
+826,Bruno Gomes,RS,Porto Alegre,Sul,B2B,Grande,2025-05-23
+827,Mateus Almeida,RS,Porto Alegre,Sul,B2C,Grande,2023-02-06
+828,Camila Santos,BA,Feira de Santana,Nordeste,B2C,Pequeno,2024-02-13
+829,Patrícia Carvalho,ES,Vila Velha,Sudeste,B2C,Grande,2023-07-06
+830,Thiago Gomes,MS,Campo Grande,Centro-Oeste,B2C,Pequeno,2023-04-15
+831,André Ribeiro,MG,Contagem,Sudeste,B2C,Pequeno,2025-02-17
+832,André Pereira,PA,Belém,Norte,B2C,Pequeno,2025-04-14
+833,Aline Santos,ES,Vitória,Sudeste,B2C,Pequeno,2025-12-11
+834,Camila Carvalho,BA,Feira de Santana,Nordeste,B2B,Grande,2024-09-19
+835,Patrícia Gomes,PE,Petrolina,Nordeste,B2C,Médio,2024-04-18
+836,Thiago Almeida,DF,Brasília,Centro-Oeste,B2B,Médio,2024-03-30
+837,Beatriz Ribeiro,SC,Chapecó,Sul,B2B,Médio,2024-11-19
+838,Juliana Oliveira,SC,Joinville,Sul,B2C,Grande,2025-05-22
+839,Carlos Carvalho,MG,Juiz de Fora,Sudeste,B2C,Pequeno,2025-09-08
+840,João Pereira,PE,Olinda,Nordeste,B2B,Médio,2023-05-06
+841,Mateus Gomes,MT,Cuiabá,Centro-Oeste,B2B,Grande,2025-11-10
+842,Camila Ribeiro,MG,Juiz de Fora,Sudeste,B2C,Pequeno,2025-05-24
+843,Pedro Ribeiro,PA,Santarém,Norte,B2C,Médio,2023-04-16
+844,Pedro Pereira,PA,Belém,Norte,B2B,Pequeno,2024-09-15
+845,Rafael Oliveira,RJ,Niterói,Sudeste,B2C,Médio,2023-08-14
+846,Felipe Gomes,ES,Cariacica,Sudeste,B2C,Médio,2024-07-05
+847,Beatriz Oliveira,MT,Várzea Grande,Centro-Oeste,B2C,Médio,2025-01-14
+848,Juliana Souza,SC,Chapecó,Sul,B2B,Pequeno,2024-07-28
+849,André Gomes,RS,Caxias do Sul,Sul,B2B,Grande,2024-12-19
+850,Camila Silva,ES,Vitória,Sudeste,B2B,Pequeno,2025-05-06
+851,Juliana Silva,CE,Crato,Nordeste,B2C,Médio,2024-05-20
+852,Fernanda Ribeiro,PA,Ananindeua,Norte,B2C,Pequeno,2024-10-17
+853,Camila Santos,MS,Campo Grande,Centro-Oeste,B2B,Grande,2023-04-08
+854,Fernanda Souza,GO,Aparecida de Goiânia,Centro-Oeste,B2B,Pequeno,2024-01-08
+855,Camila Santos,PE,Olinda,Nordeste,B2B,Grande,2023-03-25
+856,Lucas Costa,SP,Campinas,Sudeste,B2C,Grande,2023-01-02
+857,Pedro Costa,MG,Contagem,Sudeste,B2B,Pequeno,2023-04-17
+858,João Oliveira,PA,Santarém,Norte,B2B,Médio,2024-10-20
+859,Mateus Pereira,es,Cariacica,Sudeste,B2C,Grande,2024-03-10
+860,Aline Oliveira,MT,Rondonópolis,Centro-Oeste,B2C,Pequeno,2024-08-07
+861,Aline Gomes,GO,Anápolis,Centro-Oeste,B2C,Grande,2025-08-24
+862,Amanda Silva,MS,Corumbá,Centro-Oeste,B2B,Médio,2024-07-27
+863,Rafael Silva,ES,Vila Velha,Sudeste,B2C,Pequeno,2023-07-26
+864,Felipe Santos,SP,Santos,Sudeste,B2C,Pequeno,2025-06-01
+865,João Ribeiro,Go,Rio Verde,Centro-Oeste,B2B,Pequeno,2024-01-14
+866,Amanda Ribeiro,CE,Juazeiro do Norte,Nordeste,B2C,Médio,2024-05-31
+867,Juliana Souza,SP,Santos,Sudeste,B2B,Grande,2025-10-03
+868,Thiago Santos,BA,Feira de Santana,Nordeste,B2B,Pequeno,2025-01-14
+869,Thiago Souza,PR,Curitiba,Sul,B2C,Grande,2024-11-15
+870,Mateus Santos,BA,Salvador,Nordeste,B2C,Grande,2024-09-15
+871,Juliana Carvalho,SC,Blumenau,Sul,B2C,Médio,2023-08-17
+872,Patrícia Souza,ES,Vila Velha,Sudeste,B2C,Pequeno,2023-07-18
+873,Pedro Gomes,PA,Belém,Norte,B2C,Grande,2023-01-28
+874,Amanda Ribeiro,PA,Ananindeua,Norte,B2C,Pequeno,2023-09-24
+875,Lucas Ribeiro,PA,Ananindeua,Norte,B2B,Pequeno,2024-11-09
+876,Larissa Santos,MS,Corumbá,Centro-Oeste,B2B,Médio,2025-01-08
+877,João Pereira,PR,Londrina,Sul,B2C,Pequeno,2025-01-10
+878,Juliana Silva,BA, VITÓRIA DA CONQUISTA ,Nordeste,B2B,Pequeno,2025-12-19
+879,Amanda Costa,PR,Londrina,Sul,B2C,Grande,2025-01-31
+880,André Carvalho,DF,Brasília,Centro-Oeste,B2B,Médio,2024-05-02
+881,Juliana Oliveira,ES,Vila Velha,Sudeste,B2B,Pequeno,2024-07-19
+882,Rafael Ribeiro,PR,Londrina,Sul,B2B,Grande,2024-03-06
+883,Camila Souza,RS,Caxias do Sul,Sul,B2C,Médio,2025-02-25
+884,Beatriz Ribeiro,MG,Belo Horizonte,Sudeste,B2B,Médio,2023-06-28
+885,Beatriz Ribeiro,MG,Contagem,Sudeste,B2C,Grande,2023-08-06
+886,Renata Silva,RS,Santa Maria,Sul,B2B,Grande,2023-09-25
+887,Fernanda Gomes,GO,Anápolis,Centro-Oeste,B2B,Grande,2023-09-04
+888,Mateus Almeida,RJ,Campos dos Goytacazes,Sudeste,B2B,Grande,2023-03-26
+889,Camila Pereira,MS,Corumbá,Centro-Oeste,B2B,Grande,2024-01-26
+890,Lucas Costa,GO,Rio Verde,Centro-Oeste,B2B,Pequeno,2024-01-31
+891,Rafael Costa,SP,São Paulo,Sudeste,B2C,Pequeno,2025-07-01
+892,André Souza,MT,Sinop,Centro-Oeste,B2C,Médio,2023-07-22
+893,Larissa Costa,MS,Dourados,Centro-Oeste,B2B,Pequeno,2023-06-03
+894,João Silva,MS,Dourados,Centro-Oeste,B2B,Pequeno,2024-12-03
+895,Camila Ribeiro,SP,Santos,Sudeste,B2B,Pequeno,2024-09-09
+896,  Mariana Oliveira ,PR,Foz do Iguaçu,Sul,B2B,Grande,2025-08-29
+897,Patrícia Gomes,BA,Feira de Santana,Nordeste,B2C,Médio,2024-02-18
+898,Bruno Oliveira,BA,Feira de Santana,Nordeste,B2B,Médio,2025-12-28
+899,Rafael Gomes,MG,Belo Horizonte,Sudeste,B2C,Médio,2023-11-11
+900,Mateus Pereira,PE,Petrolina,Nordeste,B2B,Médio,2023-03-31
+901,Carlos Silva,GO,Goiânia,Centro-Oeste,B2C,Pequeno,2023-09-19
+902,Carlos Silva,DF,Brasília,Centro-Oeste,B2B,Pequeno,2024-01-28
+903,  MARIANA PEREIRA ,ES,Cariacica,Sudeste,B2B,Grande,2025-05-06
+904,Beatriz Almeida,SC,Florianópolis,Sul,B2C,Médio,2024-06-01
+905,Renata Gomes,CE,Crato,Nordeste,B2B,Pequeno,2024-12-12
+906,Felipe Silva,BA,Ilhéus,Nordeste,B2B,Pequeno,2025-01-19
+907,Carlos Pereira,ES,Cariacica,Sudeste,B2B,Grande,2025-07-07
+908,Camila Silva,CE,Fortaleza,Nordeste,B2C,Grande,2023-08-29
+909,Mariana Pereira,ES,Cariacica,Sudeste,B2B,Grande,2025-06-12
+910,Pedro Costa,PR,Foz do Iguaçu,Sul,B2B,Pequeno,2023-05-19
+911,Juliana Almeida,CE,Juazeiro do Norte,Nordeste,B2C,Pequeno,2025-09-15
+912,Patrícia Almeida,SC,Florianópolis,Sul,B2C,Grande,2025-05-08
+913,Mariana Oliveira,ES,Vitória,Sudeste,B2C,Médio,2025-12-08
+914,Aline Gomes,RS,Santa Maria,Sul,B2B,Grande,2025-10-28
+915,  camila ribeiro ,SC,Joinville,Sul,B2B,Grande,2023-02-14
+916,Felipe Souza,CE,Juazeiro do Norte,Nordeste,B2B,Grande,2023-12-08
+917,Juliana Souza,SC,Blumenau,Sul,B2C,Grande,2024-07-15
+918,Juliana Carvalho,ES,Serra,Sudeste,B2B,Pequeno,2023-09-22
+919,Bruno Ribeiro,RJ,Niterói,Sudeste,B2B,Médio,2024-08-16
+920,Thiago Costa,ES,Vitória,Sudeste,B2C,Grande,2023-04-04
+921,Pedro Souza,ES,Vitória,Sudeste,B2C,Médio,2023-05-05
+922,Mariana Pereira,PR,Foz do Iguaçu,Sul,B2C,Médio,2024-01-25
+923,Thiago Gomes,GO,Rio Verde,Centro-Oeste,B2C,Médio,2025-03-25
+924,Amanda Almeida,RS,Caxias do Sul,Sul,B2C,Grande,2025-10-10
+925,Bruno Gomes,DF,Brasília,Centro-Oeste,B2B,Pequeno,2025-12-26
+926,Camila Gomes,BA,Salvador,Nordeste,B2C,Grande,2025-11-17
+927,Mateus Costa,MS,Corumbá,Centro-Oeste,B2B,Médio,2023-06-03
+928,Amanda Almeida,SP,Ribeirão Preto,Sudeste,B2B,Médio,2023-12-05
+929,Felipe Silva,GO,Anápolis,Centro-Oeste,B2C,Pequeno,2025-06-15
+930,Rafael Almeida,SP,Ribeirão Preto,Sudeste,B2C,Grande,2025-11-09
+931,Camila Ribeiro,PR,Londrina,Sul,B2C,Médio,2025-02-25
+932,Bruno Silva,RS,Pelotas,Sul,B2B,Pequeno,2025-03-10
+933,João Carvalho,PA,Ananindeua,Norte,B2C,Médio,2025-03-31
+934,Patrícia Silva,ES,Vitória,Sudeste,B2C,Pequeno,2024-07-10
+935,João Souza,PA,Belém,Norte,B2C,Pequeno,2024-02-28
+936,André Costa,PA,Ananindeua,Norte,B2C,Grande,2024-01-12
+937,Camila Almeida,MT,Rondonópolis,Centro-Oeste,B2C,Médio,2023-01-08
+938,Larissa Silva,MG, BELO HORIZONTE ,Sudeste,B2B,Grande,2023-11-24
+939,Amanda Oliveira,PA,Marabá,Norte,B2B,Médio,2024-03-22
+940,Patrícia Costa,BA,Ilhéus,Nordeste,B2B,Grande,2023-01-19
+941,Camila Gomes,RJ,Petrópolis,Sudeste,B2C,Médio,2025-11-16
+942,Rafael Carvalho,MG,Uberlândia,Sudeste,B2C,Grande,2025-07-21
+943,João Ribeiro,PR,Curitiba,Sul,B2C,Pequeno,2025-10-28
+944,Camila Almeida,MS,Três Lagoas,Centro-Oeste,B2B,Médio,2025-12-11
+945,Mariana Pereira,GO,Goiânia,Centro-Oeste,B2C,Médio,2024-06-14
+946,André Souza,RJ,Petrópolis,Sudeste,B2C,Pequeno,2024-09-13
+947,Lucas Oliveira,SC,Florianópolis,Sul,B2C,Grande,2024-03-27
+948,Aline Ribeiro,CE,Fortaleza,Nordeste,B2B,Médio,2024-08-29
+949,Fernanda Ribeiro,MT,Sinop,Centro-Oeste,B2C,Médio,2024-07-03
+950,Pedro Pereira,RJ,Petrópolis,Sudeste,B2B,Grande,2023-09-01
+951,Felipe Gomes,DF,Brasília,Centro-Oeste,B2C,Pequeno,2023-12-17
+952,Carlos Carvalho,PA,Belém,Norte,B2B,Grande,2024-04-03
+953,  thiago gomes ,PR,Maringá,Sul,B2B,Grande,2023-04-04
+954,Carlos Souza,PE,Caruaru,Nordeste,B2B,Grande,2025-12-28
+955,João Souza,CE,Juazeiro do Norte,Nordeste,B2C,Médio,2024-05-02
+956,Patrícia Oliveira,SP,São Paulo,Sudeste,B2C,Pequeno,2024-08-20
+957,Patrícia Souza,BA,Feira de Santana,Nordeste,B2B,Pequeno,2023-03-22
+958,Mariana Costa,SP,Campinas,Sudeste,B2B,Grande,2023-10-31
+959,Rafael Ribeiro,RJ,Petrópolis,Sudeste,B2C,Médio,2024-07-22
+960,Renata Pereira,MS,Dourados,Centro-Oeste,B2C,Grande,2023-09-30
+961,Thiago Oliveira,SP,São Paulo,Sudeste,B2B,Médio,2024-07-07
+962,Bruno Costa,DF,Brasília,Centro-Oeste,B2C,Médio,2023-04-16
+963,Beatriz Santos,PR,Londrina,Sul,B2C,Médio,2024-05-24
+964,Pedro Santos,SC,Joinville,Sul,B2C,Médio,2024-03-06
+965,João Santos,MS,Três Lagoas,Centro-Oeste,B2C,Pequeno,2025-12-30
+966,Aline Silva,GO,Rio Verde,Centro-Oeste,B2B,Médio,2023-08-26
+967,Camila Ribeiro,BA,Vitória da Conquista,Nordeste,B2C,Médio,2023-01-03
+968,Larissa Costa,DF,Brasília,Centro-Oeste,B2C,Grande,2024-12-12
+969,Patrícia Ribeiro,DF,Brasília,Centro-Oeste,B2B,Grande,2025-01-25
+970,João Carvalho,SP,São Paulo,Sudeste,B2B,Pequeno,2024-10-26
+971,Rafael Souza,PA,Belém,Norte,B2C,Grande,2023-06-20
+972,Thiago Almeida,SP,Santos,Sudeste,B2C,Médio,2024-06-24
+973,Aline Ribeiro,RJ,Petrópolis,Sudeste,B2C,Grande,2023-10-01
+974,Juliana Almeida,GO,Aparecida de Goiânia,Centro-Oeste,B2C,Pequeno,2025-04-16
+975,Larissa Souza,MG, Contagem ,Sudeste,B2B,Grande,2024-08-26
+976,João Costa,MS,Campo Grande,Centro-Oeste,B2B,Grande,2024-10-26
+977,Rafael Gomes,SP,Ribeirão Preto,Sudeste,B2B,Pequeno,2023-04-28
+978,Patrícia Ribeiro,PR,Maringá,Sul,B2C,Pequeno,2023-01-22
+979,Camila Oliveira,PE,Petrolina,Nordeste,B2C,Médio,2024-12-29
+980,Renata Carvalho,BA,Vitória da Conquista,Nordeste,B2C,Grande,2024-03-25
+981,Bruno Oliveira,ES,Vitória,SUDESTE,B2C,Médio,2024-07-26
+982,Juliana Ribeiro,SP,Campinas,Sudeste,B2B,Grande,2023-12-28
+983,Mateus Souza,PR,Foz do Iguaçu,Sul,B2B,Grande,2024-06-08
+984,Beatriz Oliveira,MS,Campo Grande,Centro-Oeste,B2C,Médio,2023-02-02
+985,Thiago Oliveira,PR,Curitiba,Sul,B2B,Grande,2023-08-06
+986,Bruno Costa,BA,Ilhéus,Nordeste,B2C,Grande,2025-02-21
+987,André Costa,MG,Uberlândia,Sudeste ,B2C,Grande,2024-06-11
+988,Beatriz Pereira,PR,Maringá,Sul,B2B,Pequeno,2024-02-27
+989,Rafael Pereira,PE,Recife,Nordeste,B2C,Médio,2025-06-24
+990,Carlos Ribeiro,PR,Curitiba,Sul,B2C,Pequeno,2024-03-27
+991,Felipe Oliveira,PR,Londrina,Sul,B2B,Médio,2024-10-26
+992,Thiago Carvalho,PR,Maringá,Sul,B2C,Médio,2024-07-04
+993,Renata Souza,SC,Florianópolis,Sul,B2C,Grande,2024-02-22
+994,Beatriz Oliveira,SC,Joinville,Sul,B2B,Médio,2025-03-20
+995,Larissa Carvalho,MG,Contagem,Sudeste,B2C,Pequeno,2023-11-15
+996,João Oliveira,SP, CAMPINAS ,Sudeste,B2B,Pequeno,2025-07-02
+997,Amanda Carvalho,PR,Londrina,Sul,B2C,Pequeno,2024-04-19
+998,Mariana Carvalho,MT,Cuiabá,Centro-Oeste,B2B,Médio,2025-06-07
+999,Mateus Silva,GO,Rio Verde,Centro-Oeste,B2B,Pequeno,2025-01-24
+1000,Rafael Silva,MT,Sinop,Centro-Oeste,B2B,Médio,2023-10-31
+1001,Larissa Pereira,SP,Campinas,Sudeste,B2C,Pequeno,2025-09-08
+1002,Carlos Carvalho,MG,Contagem,Sudeste,B2B,Pequeno,2023-07-11
+1003,Juliana Carvalho,Pa,Marabá,Norte,B2B,Médio,2025-10-12
+1004,  Lucas Gomes ,PA,Ananindeua,Norte,B2B,Pequeno,2024-01-07
+1005,Renata Pereira,RS,Santa Maria,Sul,B2B,Grande,2025-07-29
+1006,Thiago Gomes,MT,Cuiabá,Centro-Oeste,B2B,Médio,2024-01-14
+1007,André Almeida,SP,Santos,Sudeste,B2C,Médio,2023-12-27
+1008,Thiago Gomes,SP,Campinas,Sudeste,B2C,Médio,2024-01-22
+1009,Rafael Silva,CE,Fortaleza,Nordeste,B2C,Grande,2025-10-01
+1010,Bruno Gomes,RJ,Rio de Janeiro,Sudeste,B2C,Médio,2024-01-05
+1011,Juliana Gomes,ES,Vila Velha,Sudeste,B2C,Pequeno,2024-07-31
+1012,Patrícia Santos,MS,Três Lagoas,Centro-Oeste,B2C,Pequeno,2023-02-13
+1013,Mariana Carvalho,CE,Crato,Nordeste,B2C,Pequeno,2024-09-27
+1014,João Costa,PE,Caruaru,Nordeste,B2B,Médio,2023-11-30
+1015,Mariana Costa,SC,Blumenau,Sul,B2C,Pequeno,2023-12-30
+1016,Fernanda Oliveira,SC,Chapecó,Sul,B2B,Médio,2025-03-18
+1017,Camila Ribeiro,RJ,Campos dos Goytacazes,Sudeste,B2B,Pequeno,2024-01-20
+1018,Renata Souza,BA,Ilhéus,Nordeste,B2C,Grande,2023-05-23
+1019,Mariana Santos,BA,Vitória da Conquista,Nordeste,B2B,Grande,2023-10-21
+1020,Patrícia Souza,MG,Uberlândia,Sudeste,B2B,Grande,2023-05-28
+1021,Felipe Gomes,DF,Brasília,Centro-Oeste,B2B,Grande,2025-05-23
+1022,André Oliveira,RJ,Niterói,Sudeste,B2B,Médio,2024-05-17
+1023,Pedro Silva,ES,Serra,Sudeste,B2C,Pequeno,2025-07-20
+1024,Thiago Almeida,SP,Campinas,Sudeste,B2C,Grande,2025-04-04
+1025,Amanda Almeida,BA,Ilhéus,Nordeste,B2C,Médio,2023-07-25
+1026,André Oliveira,ES,Serra,Sudeste,B2C,Grande,2025-12-14
+1027,Mariana Carvalho,PR,Maringá,Sul,B2C,Grande,2023-10-09
+1028,Mariana Santos,MT,Cuiabá,Centro-Oeste,B2C,Médio,2023-01-25
+1029,Bruno Gomes,MT,Várzea Grande,Centro-Oeste,B2C,Médio,2023-07-24
+1030,Beatriz Gomes,DF,Brasília,Centro-Oeste,B2C,Pequeno,2025-02-12
+1031,Aline Pereira,GO,Rio Verde,Centro-Oeste,B2C,Pequeno,2025-02-25
+1032,Aline Silva,SP,Ribeirão Preto,Sudeste,B2C,Grande,2023-02-12
+1033,Rafael Almeida,MS,Dourados,Centro-Oeste,B2B,Grande,2023-08-14
+1034,Beatriz Gomes,MS,Dourados,Centro-Oeste,B2C,Pequeno,2023-01-28
+1035,André Santos,PE,Caruaru,Nordeste,B2B,Pequeno,2023-03-31
+1036,Larissa Costa,MS,Dourados,Centro-Oeste,B2B,Médio,2023-09-28
+1037,Mateus Silva,PR,Londrina,Sul,B2B,Pequeno,2024-05-23
+1038,Thiago Gomes,PR,Londrina,Sul,B2B,Pequeno,2023-06-21
+1039,Amanda Gomes,MT,Várzea Grande,Centro-Oeste,B2C,Grande,2024-07-02
+1040,Thiago Ribeiro,RJ,Niterói,Sudeste,B2B,Pequeno,2023-10-20
+1041,Lucas Souza,DF,Brasília,Centro-Oeste,B2C,Grande,2023-01-28
+1042,Juliana Oliveira,MG,Belo Horizonte,Sudeste,B2C,Pequeno,2023-01-20
+1043,Felipe Costa,PE,Caruaru,Nordeste,B2B,Médio,2023-08-06
+1044,Fernanda Costa,BA,Feira de Santana,Nordeste,B2C,Pequeno,2024-11-24
+1045,Mateus Almeida,ES,Cariacica,Sudeste,B2B,Pequeno,2023-06-24
+1046,Mateus Carvalho,RJ,Petrópolis,Sudeste,B2B,Pequeno,2024-02-19
+1047,Renata Santos,BA,Vitória da Conquista,Nordeste,B2C,Grande,2023-10-13
+1048,Camila Ribeiro,RJ,Niterói,Sudeste,B2C,Médio,2025-09-10
+1049,Thiago Souza,RJ,Niterói,Sudeste,B2B,Pequeno,2025-06-28
+1050,Fernanda Ribeiro,RJ,Rio de Janeiro,Sudeste,B2C,Grande,2023-12-01
+1051,Patrícia Ribeiro,MT,Rondonópolis,Centro-Oeste,B2C,Médio,2024-09-21
+1052,Felipe Carvalho,MS,Três Lagoas,Centro-Oeste,B2C,Grande,2024-11-10
+1053,Amanda Souza,DF,Brasília,Centro-Oeste,B2B,Grande,2025-09-07
+1054,João Souza,MG,Juiz de Fora,Sudeste,B2B,Médio,2023-11-13
+1055,Fernanda Costa,MS,Corumbá,Centro-Oeste,B2C,Pequeno,2024-05-14
+1056,Mariana Ribeiro,RJ,Niterói,Sudeste,B2C,Grande,2023-04-25
+1057,Camila Oliveira,RS,Pelotas,Sul,B2C,Grande,2024-07-01
+1058,Carlos Carvalho,GO,Goiânia,Centro-Oeste,B2C,Pequeno,2023-09-10
+1059,Beatriz Almeida,BA,Salvador,Nordeste,B2C,Pequeno,2023-02-13
+1060,Beatriz Silva,SP,Ribeirão Preto,Sudeste,B2B,Médio,2023-04-02
+1061,Mateus Silva,CE,Crato,Nordeste,B2C,Médio,2023-07-30
+1062,João Costa,MS,Dourados,Centro-Oeste,B2B,Médio,2024-08-30
+1063,Aline Ribeiro,ES,Cariacica,Sudeste,B2C,Pequeno,2023-07-30
+1064,Patrícia Oliveira,MT,Rondonópolis,Centro-Oeste,B2B,Grande,2025-11-13
+1065,Amanda Ribeiro,PE,Olinda,Nordeste,B2C,Grande,2025-04-30
+1066,João Costa,SC,Florianópolis,Sul,B2B,Médio,2023-10-18
+1067,Amanda Costa,MG,Juiz de Fora,Sudeste,B2C,Pequeno,2023-01-03
+1068,Bruno Almeida,SP,Santos,Sudeste,B2B,Grande,2024-04-04
+1069,Amanda Pereira,PR,Foz do Iguaçu,Sul,B2B,Médio,2023-02-19
+1070,Larissa Costa,PA,Marabá,Norte,B2B,Grande,2024-04-09
+1071,Beatriz Ribeiro,RS,Caxias do Sul,Sul,B2B,Grande,2025-05-24
+1072,Renata Gomes,SC,Chapecó,Sul,B2B,Pequeno,2025-02-28
+1073,Larissa Pereira,CE,Sobral,Nordeste,B2B,Pequeno,2023-10-29
+1074,Aline Silva,SP,São Paulo,Sudeste,B2C,Grande,2024-12-24
+1075,Camila Costa,SC,Chapecó,Sul,B2B,Médio,2024-08-10
+1076,Pedro Almeida,SP,São Paulo,Sudeste,B2C,Pequeno,2024-04-07
+1077,Larissa Pereira,ES,Vila Velha,Sudeste,B2C,Grande,2025-02-26
+1078,Lucas Carvalho,RS,Porto Alegre,Sul,B2C,Pequeno,2023-08-19
+1079,Aline Pereira,CE,Sobral,Nordeste,B2C,Pequeno,2025-10-04
+1080,Larissa Carvalho,PR,Curitiba,Sul,B2C,Pequeno,2023-12-14
+1081,André Silva,RJ,Campos dos Goytacazes,Sudeste,B2B,Grande,2023-08-14
+1082,Larissa Gomes,BA,Feira de Santana,Nordeste,B2B,Médio,2024-04-04
+1083,Bruno Ribeiro,PR,Foz do Iguaçu,Sul,B2B,Médio,2023-07-28
+1084,Amanda Almeida,RJ,Petrópolis,Sudeste,B2C,Médio,2024-07-31
+1085,João Santos,PA,Belém,Norte,B2B,Pequeno,2025-01-01
+1086,Mateus Carvalho,MT,Rondonópolis,Centro-Oeste,B2B,Grande,2023-06-06
+1087,Pedro Santos,DF,Brasília,Centro-Oeste,B2B,Pequeno,2024-11-14
+1088,Lucas Gomes,DF,Brasília,Centro-Oeste,B2B,Médio,2023-08-31
+1089,Mariana Almeida,DF,Brasília,Centro-Oeste,B2B,Médio,2025-01-08
+1090,João Almeida,MG,Juiz de Fora,Sudeste,B2C,Grande,2023-06-23
+1091,Carlos Almeida,MS,Dourados,Centro-Oeste,B2B,Pequeno,2023-03-30
+1092,Beatriz Carvalho,GO,Goiânia,Centro-Oeste,B2C,Médio,2023-11-06
+1093,Aline Silva,PE,Recife,Nordeste,B2C,Grande,2023-12-31
+1094,João Ribeiro,pe,Petrolina,Nordeste,B2C,Pequeno,2025-05-27
+1095,Carlos Ribeiro,MS,Campo Grande,Centro-Oeste,B2C,Pequeno,2025-12-22
+1096,Mariana Gomes,DF,Brasília,Centro-Oeste,B2C,Médio,2024-11-16
+1097,Beatriz Almeida,ba,Feira de Santana,Nordeste,B2B,Médio,2024-01-07
+1098,Mariana Oliveira,CE,Crato,Nordeste,B2B,Pequeno,2025-05-20
+1099,Patrícia Ribeiro,RS,Pelotas,Sul,B2B,Pequeno,2023-11-04
+1100,Mariana Ribeiro,CE,Fortaleza,Nordeste,B2C,Médio,2024-09-09
+1101,Camila Pereira,RS,Pelotas,Sul,B2B,Pequeno,2024-08-10
+1102,Amanda Gomes,CE,Crato,Nordeste,B2B,Médio,2024-12-14
+1103,Carlos Santos,GO,Anápolis,Centro-Oeste,B2C,Pequeno,2023-08-01
+1104,Felipe Ribeiro,MG,Contagem,Sudeste,B2C,Médio,2024-07-09
+1105,Thiago Santos,MG,Juiz de Fora,Sudeste,B2C,Grande,2025-10-19
+1106,Thiago Pereira,Df,Brasília,Centro-Oeste,B2C,Médio,2025-01-25
+1107,Carlos Gomes,PA,Marabá,Norte,B2B,Médio,2024-06-27
+1108,Mariana Gomes,RJ,Rio de Janeiro,Sudeste,B2C,Grande,2023-06-06
+1109,Camila Ribeiro,PA,Marabá,Norte,B2C,Pequeno,2023-01-05
+1110,Felipe Pereira,SC,Blumenau,Sul,B2B,Grande,2023-11-01
+1111,Pedro Carvalho,MG,Juiz de Fora,Sudeste,B2B,Médio,2023-10-28
+1112,Renata Almeida,MG,Juiz de Fora,Sudeste,B2C,Pequeno,2024-10-17
+1113,Fernanda Costa,PR,Foz do Iguaçu,Sul,B2B,Grande,2023-10-30
+1114,João Pereira,PR,Curitiba,Sul,B2C,Pequeno,2025-03-10
+1115,Mateus Pereira,RJ,Niterói,Sudeste,B2C,Pequeno,2025-07-03
+1116,Rafael Costa,ES,Cariacica,Sudeste,B2B,Grande,2025-09-06
+1117,Patrícia Pereira,SC,Chapecó,Sul,B2B,Pequeno,2023-05-18
+1118,Aline Santos,PA,Ananindeua,Norte,B2C,Grande,2023-08-20
+1119,Carlos Ribeiro,BA,Vitória da Conquista,Nordeste,B2C,Médio,2025-05-25
+1120,Felipe Ribeiro,PR,Londrina,Sul,B2C,Pequeno,2024-07-24
+1121,Felipe Oliveira,BA,Ilhéus,Nordeste,B2B,Médio,2023-10-24
+1122,Pedro Carvalho,SP,Ribeirão Preto,Sudeste,B2C,Médio,2023-07-05
+1123,Larissa Santos,PR,Londrina,Sul,B2C,Pequeno,2024-10-23
+1124,André Silva,GO,Goiânia,Centro-Oeste,B2C,Grande,2023-09-19
+1125,Beatriz Santos,ES,Vila Velha,Sudeste,B2C,Pequeno,2024-01-08
+1126,André Silva,SC,Joinville,Sul,B2C,Médio,2025-02-27
+1127,  Pedro Almeida ,MT,Rondonópolis,Centro-Oeste,B2B,Médio,2024-12-23
+1128,Mariana Gomes,RJ,Campos dos Goytacazes,Sudeste,B2C,Grande,2024-10-15
+1129,Pedro Oliveira,SP,Santos,Sudeste,B2C,Pequeno,2025-10-09
+1130,Lucas Ribeiro,MT,Cuiabá,Centro-Oeste,B2C,Médio,2025-05-18
+1131,Bruno Almeida,SC,Chapecó,Sul,B2C,Médio,2025-09-12
+1132,Aline Gomes,PA,Belém,Norte,B2B,Médio,2025-04-27
+1133,Carlos Pereira,DF,Brasília,Centro-Oeste,B2B,Grande,2024-11-13
+1134,Mariana Pereira,GO,Aparecida de Goiânia,Centro-Oeste,B2B,Médio,2023-10-11
+1135,Mateus Souza,SC,Blumenau,Sul,B2C,Médio,2024-05-18
+1136,Larissa Santos,GO,Aparecida de Goiânia,Centro-Oeste,B2C,Pequeno,2025-02-23
+1137,Renata Silva,MS,Dourados,Centro-Oeste,B2B,Pequeno,2025-05-07
+1138,Bruno Almeida,GO,Aparecida de Goiânia,Centro-Oeste,B2B,Médio,2025-10-15
+1139,Bruno Silva,BA,Feira de Santana,Nordeste,B2B,Médio,2025-12-29
+1140,Fernanda Gomes,MS,Dourados,Centro-Oeste,B2C,Pequeno,2025-10-05
+1141,Bruno Pereira,CE, JUAZEIRO DO NORTE ,Nordeste,B2C,Grande,2025-12-26
+1142,Mateus Silva,MT,Sinop,Centro-Oeste,B2B,Grande,2024-04-16
+1143,Thiago Carvalho,DF,Brasília,Centro-Oeste,B2B,Grande,2025-02-26
+1144,Amanda Souza,MS,Corumbá,Centro-Oeste,B2B,Grande,2023-06-21
+1145,Mariana Pereira,PA,Belém,Norte,B2C,Grande,2025-05-13
+1146,Patrícia Ribeiro,SP,Santos,Sudeste,B2C,Grande,2025-12-15
+1147,Beatriz Gomes,SC,Blumenau,Sul,B2C,Grande,2024-03-25
+1148,João Ribeiro,RS,Santa Maria,Sul,B2B,Grande,2023-06-28
+1149,Patrícia Pereira,SP,Ribeirão Preto,Sudeste,B2B,Pequeno,2024-04-26
+1150,Carlos Souza,CE,Juazeiro do Norte,Nordeste,B2C,Grande,2025-01-10
+1151,Mariana Oliveira,SP,São Paulo,Sudeste,B2B,Grande,2023-01-06
+1152,Patrícia Pereira,MG,Belo Horizonte,Sudeste,B2C,Grande,2024-02-21
+1153,Bruno Silva,PA,Santarém,Norte,B2B,Médio,2023-02-05
+1154,Mariana Pereira,RS,Pelotas,Sul,B2B,Pequeno,2025-01-12
+1155,Larissa Santos,MS,Três Lagoas,Centro-Oeste,B2B,Pequeno,2025-08-28
+1156,Bruno Carvalho,MS,Corumbá,Centro-Oeste,B2B,Pequeno,2023-10-01
+1157,Fernanda Almeida,MS,Campo Grande,Centro-Oeste,B2C,Grande,2023-08-14
+1158,Beatriz Costa,CE,Sobral,Nordeste,B2B,Grande,2023-05-03
+1159,Rafael Almeida,BA,Ilhéus,Nordeste,B2C,Médio,2024-12-16
+1160,Pedro Oliveira,MT,Várzea Grande,Centro-Oeste,B2C,Pequeno,2025-01-09
+1161,João Gomes,SC,Chapecó,Sul,B2C,Grande,2023-10-13
+1162,Mariana Santos,ES,Vila Velha,Sudeste,B2B,Pequeno,2024-08-26
+1163,Lucas Pereira,PE,Recife,Nordeste,B2C,Médio,2025-07-31
+1164,Fernanda Santos,MT,Cuiabá,Centro-Oeste,B2C,Médio,2023-10-23
+1165,Patrícia Pereira,CE,Sobral,Nordeste,B2C,Médio,2025-05-12
+1166,Mariana Pereira,RJ,Campos dos Goytacazes,Sudeste,B2B,Pequeno,2024-05-11
+1167,Larissa Carvalho,PA,Belém,Norte,B2B,Grande,2024-03-07
+1168,Lucas Pereira,SC,Blumenau,Sul,B2C,Grande,2024-04-04
+1169,Camila Santos,MT,Sinop,Centro-Oeste,B2B,Médio,2023-04-25
+1170,Mateus Souza,DF,Brasília,Centro-Oeste,B2C,Grande,2023-10-10
+1171,Patrícia Pereira,CE,Sobral,Nordeste,B2C,Médio,2023-08-29
+1172,Bruno Almeida,MG,Contagem,Sudeste,B2B,Pequeno,2023-10-21
+1173,Beatriz Pereira,PE,Recife,Nordeste,B2C,Médio,2025-02-12
+1174,Pedro Pereira,MG,Juiz de Fora,Sudeste,B2B,Pequeno,2023-02-23
+1175,Camila Carvalho,MS,Campo Grande,Centro-Oeste,B2B,Médio,2025-05-19
+1176,André Santos,PE,Caruaru,Nordeste,B2C,Grande,2025-01-31
+1177,João Gomes,MT,Várzea Grande,Centro-Oeste,B2B,Grande,2023-04-21
+1178,João Gomes,DF,Brasília,Centro-Oeste,B2B,Médio,2023-08-06
+1179,Amanda Costa,MS,Dourados,Centro-Oeste,B2C,Grande,2023-06-01
+1180,Juliana Ribeiro,ES,Serra,Sudeste,B2C,Grande,2025-09-03
+1181,Aline Ribeiro,PA,Ananindeua,Norte,B2B,Grande,2023-11-20
+1182,Carlos Santos,RJ,Niterói,Sudeste,B2B,Pequeno,2023-03-03
+1183,Amanda Souza,SC,Blumenau,Sul,B2C,Grande,2023-10-28
+1184,Beatriz Gomes,BA,Feira de Santana,Nordeste,B2B,Pequeno,2025-01-18
+1185,Beatriz Costa,MG,Belo Horizonte,Sudeste,B2B,Médio,2023-10-17
+1186,Rafael Carvalho,MG,Juiz de Fora,Sudeste,B2B,Grande,2023-06-11
+1187,Pedro Silva,MS,Três Lagoas,Centro-Oeste,B2B,Grande,2024-05-16
+1188,Renata Ribeiro,GO,Aparecida de Goiânia,Centro-Oeste,B2B,Grande,2023-06-07
+1189,Carlos Carvalho,PE,Caruaru,Nordeste,B2B,Médio,2023-01-26
+1190,Renata Oliveira,PR,Curitiba,Sul,B2B,Pequeno,2025-05-02
+1191,Bruno Costa,ES,Serra,Sudeste,B2C,Pequeno,2023-11-03
+1192,Beatriz Gomes,SC,Blumenau,Sul,B2C,Grande,2024-01-09
+1193,Pedro Santos,PE,Recife,Nordeste,B2C,Médio,2025-08-20
+1194,Larissa Gomes,GO,Anápolis,Centro-Oeste,B2C,Médio,2023-10-14
+1195,Rafael Ribeiro,SP,Campinas,Sudeste,B2C,Médio,2025-12-16
+1196,Patrícia Silva,PE,Recife,Nordeste,B2B,Médio,2024-09-05
+1197,Patrícia Oliveira,BA,Feira de Santana,Nordeste,B2B,Médio,2025-08-20
+1198,Beatriz Almeida,SC,Blumenau,Sul,B2B,Pequeno,2025-04-22
+1199,Patrícia Carvalho,MT,Rondonópolis,Centro-Oeste,B2B,Pequeno,2024-11-21
+1200,Mateus Ribeiro,ES,Serra,Sudeste,B2C,Pequeno,2025-06-28
+1201,Patrícia Pereira,GO,Rio Verde,Centro-Oeste,B2B,Grande,2023-01-28
+1202,Lucas Almeida,SP,Santos,Sudeste,B2B,Médio,2024-08-10
+1203,Felipe Silva,PA,Belém,Norte,B2C,Grande,2023-08-16
+1204,Carlos Carvalho,RS,Pelotas,Sul,B2B,Médio,2023-11-16
+1205,Rafael Silva,GO,Anápolis,Centro-Oeste,B2B,Pequeno,2023-05-03
+1206,Juliana Costa,RS,Porto Alegre,Sul,B2C,Grande,2023-03-07
+1207,Rafael Ribeiro,SC,Joinville,Sul,B2B,Pequeno,2023-12-22
+1208,Mateus Souza,MG,Juiz de Fora,Sudeste,B2B,Médio,2025-10-27
+1209,Aline Silva,GO,Rio Verde,Centro-Oeste,B2B,Médio,2023-11-25
+1210,Thiago Almeida,PA,Ananindeua,Norte,B2B,Médio,2023-01-23
+1211,Bruno Oliveira,RJ,Campos dos Goytacazes,Sudeste,B2B,Pequeno,2025-03-22
+1212,Juliana Costa,MS,Três Lagoas,Centro-Oeste,B2C,Médio,2025-05-17
+1213,Fernanda Gomes,RS,Caxias do Sul,Sul,B2C,Pequeno,2025-07-19
+1214,Fernanda Almeida,MS,Campo Grande,Centro-Oeste,B2C,Grande,2024-06-12
+1215,Rafael Ribeiro,BA,Feira de Santana,Nordeste,B2C,Médio,2025-10-24
+1216,João Costa,RJ,Niterói,Sudeste,B2C,Médio,2024-09-18
+1217,Pedro Oliveira,MS,Dourados,Centro-Oeste,B2C,Médio,2024-04-10
+1218,Renata Almeida,CE,Juazeiro do Norte,Nordeste,B2B,Grande,2025-05-17
+1219,Beatriz Oliveira,CE,Fortaleza,Nordeste,B2C,Médio,2023-11-18
+1220,André Silva,SP,Ribeirão Preto,Sudeste,B2C,Pequeno,2024-07-10
+1221,Lucas Pereira,ES,Cariacica,Sudeste,B2B,Pequeno,2023-07-08
+1222,Patrícia Ribeiro,MG,Belo Horizonte,Sudeste,B2B,Médio,2025-12-04
+1223,Juliana Ribeiro,SC,Florianópolis,Sul ,B2C,Médio,2025-02-12
+1224,Fernanda Santos,GO,Anápolis,Centro-Oeste,B2B,Grande,2023-09-14
+1225,André Gomes,PR,Curitiba,Sul,B2C,Grande,2024-03-09
+1226,Camila Oliveira,BA,Ilhéus,Nordeste,B2B,Grande,2025-03-31
+1227,Felipe Santos,RS,Pelotas,Sul,B2C,Médio,2023-04-25
+1228,Pedro Silva,SC,Blumenau,Sul,B2B,Grande,2024-03-24
+1229,Juliana Carvalho,RJ,Petrópolis,Sudeste,B2B,Grande,2025-03-14
+1230,Lucas Santos,DF,Brasília,Centro-Oeste,B2C,Pequeno,2024-01-12
+1231,Carlos Souza,CE,Crato,Nordeste,B2C,Grande,2023-06-08
+1232,Pedro Carvalho,DF,Brasília,Centro-Oeste,B2C,Pequeno,2025-08-17
+1233,Mateus Gomes,PA,Santarém,Norte,B2C,Pequeno,2025-09-04
+1234,Amanda Silva,BA,Vitória da Conquista,Nordeste,B2C,Grande,2024-10-03
+1235,André Silva,PR,Curitiba,Sul,B2B,Pequeno,2025-04-09
+1236,Fernanda Gomes,GO,Goiânia,Centro-Oeste,B2C,Médio,2025-02-18
+1237,André Ribeiro,SP,Campinas,Sudeste,B2C,Médio,2023-12-04
+1238,Carlos Silva,PR,Londrina,Sul,B2B,Grande,2023-04-22
+1239,João Ribeiro,BA,Feira de Santana,Nordeste,B2B,Médio,2025-01-30
+1240,Thiago Santos,PR,Londrina,Sul,B2C,Pequeno,2025-05-18
+1241,Larissa Costa,BA,Vitória da Conquista,Nordeste,B2B,Médio,2024-02-03
+1242,Larissa Carvalho,BA,Feira de Santana,Nordeste,B2B,Grande,2024-07-06
+1243,Mariana Santos,PE,Olinda,Nordeste,B2C,Grande,2023-08-11
+1244,Thiago Oliveira,RS,Caxias do Sul,Sul,B2B,Pequeno,2023-08-02
+1245,Beatriz Santos,MT,Cuiabá,Centro-Oeste,B2B,Grande,2023-06-09
+1246,Juliana Pereira,DF,Brasília,Centro-Oeste,B2C,Médio,2025-01-12
+1247,Felipe Silva,MT,Cuiabá,Centro-Oeste,B2C,Grande,2024-11-18
+1248,Renata Carvalho,MT,Cuiabá,Centro-Oeste,B2B,Pequeno,2023-02-27
+1249,Bruno Almeida,MT,Cuiabá,Centro-Oeste,B2B,Grande,2024-05-05
+1250,Renata Gomes,MS,Corumbá,Centro-Oeste,B2C,Médio,2024-07-31
+1251,Mateus Costa,CE,Crato,Nordeste,B2B,Pequeno,2023-11-30
+1252,Fernanda Ribeiro,PE,Recife,Nordeste,B2B,Médio,2023-08-07
+1253,Mariana Almeida,GO,Anápolis,Centro-Oeste,B2B,Pequeno,2023-05-14
+1254,Juliana Oliveira,PE,Recife,Nordeste,B2C,Grande,2024-03-09
+1255,Thiago Almeida,MG,Belo Horizonte,Sudeste,B2B,Pequeno,2023-01-23
+1256,Bruno Ribeiro,MG,Belo Horizonte,Sudeste,B2B,Pequeno,2024-09-25
+1257,Aline Santos,MS,Corumbá,Centro-Oeste,B2C,Grande,2024-01-20
+1258,André Pereira,CE,Fortaleza,Nordeste,B2B,Médio,2024-02-18
+1259,João Gomes,PR,Maringá,Sul,B2B,Grande,2023-03-08
+1260,Mateus Ribeiro,RS,Porto Alegre,Sull,B2C,Pequeno,2024-05-07
+1261,Juliana Almeida,CE,Fortaleza,Nordeste,B2C,Grande,2024-07-05
+1262,Renata Ribeiro,MS,Três Lagoas,Centro-Oeste,B2C,Pequeno,2023-06-24
+1263,João Almeida,BA,Salvador,Nordeste,B2C,Grande,2023-04-02
+1264,André Pereira,RJ,Rio de Janeiro,Sudeste,B2B,Grande,2025-09-17
+1265,Carlos Costa,RS,Porto Alegre,Sul,B2B,Médio,2023-04-04
+1266,Rafael Gomes,ES,Vila Velha,Sudeste,B2C,Pequeno,2023-04-09
+1267,Camila Souza,DF,Brasília,Centro-Oeste,B2C,Médio,2024-10-06
+1268,Renata Santos,RS,Caxias do Sul,Sul,B2B,Pequeno,2023-07-10
+1269,Mateus Pereira,MS,Três Lagoas,Centro-Oeste,B2C,Grande,2024-09-24
+1270,Fernanda Carvalho,BA,Salvador,Nordeste,B2B,Pequeno,2023-01-18
+1271,Amanda Silva,BA,Salvador,Nordeste,B2C,Médio,2024-12-31
+1272,Rafael Santos,SP,Campinas,Sudeste,B2B,Médio,2024-08-01
+1273,Larissa Ribeiro,MT,Rondonópolis,Centro-Oeste,B2C,Médio,2025-03-26
+1274,Carlos Gomes,CE,Sobral,Nordeste,B2C,Pequeno,2025-10-21
+1275,Carlos Costa,BA,Vitória da Conquista,Nordeste,B2B,Médio,2024-02-04
+1276,Thiago Silva,MG,Uberlândia,Sudeste,B2C,Médio,2024-10-06
+1277,Carlos Santos,MT,Várzea Grande,Centro-Oeste,B2B,Médio,2025-03-11
+1278,Pedro Gomes,GO,Goiânia,Centro-Oeste,B2B,Grande,2024-12-29
+1279,André Carvalho,RJ,Rio de Janeiro,Sudeste,B2B,Grande,2023-09-23
+1280,Carlos Almeida,MS,Campo Grande,Centro-Oeste,B2B,Pequeno,2023-07-19
+1281,André Ribeiro,DF,Brasília,Centro-Oeste,B2B,Pequeno,2024-11-09
+1282,Mariana Pereira,CE,Juazeiro do Norte,Nordeste,B2C,Médio,2025-04-14
+1283,Fernanda Gomes,SC,Blumenau,Sul,B2C,Grande,2025-10-28
+1284,Renata Costa,MG,Uberlândia,Sudeste,B2B,Médio,2023-07-26
+1285,Thiago Pereira,PA,Belém,Norte,B2C,Médio,2025-10-25
+1286,Camila Ribeiro,ES,Vitória,Sudeste,B2B,Grande,2023-11-04
+1287,Aline Gomes,PR,Londrina,Sul,B2C,Grande,2023-02-18
+1288,Pedro Gomes,BA,Ilhéus,Nordeste,B2C,Grande,2025-02-21
+1289,Mariana Santos,SC,Blumenau,Sul,B2C,Pequeno,2025-09-03
+1290,Camila Costa,BA,Feira de Santana,Nordeste,B2C,Pequeno,2023-03-18
+1291,Juliana Silva,RS,Santa Maria,Sul,B2B,Médio,2024-08-17
+1292,Larissa Santos,MG,Belo Horizonte,Sudeste,B2B,Pequeno,2023-11-27
+1293,João Silva,RS,Caxias do Sul,Sul,B2C,Grande,2023-11-07
+1294,Felipe Ribeiro,SP,Santos,Sudeste,B2C,Grande,2025-08-06
+1295,Larissa Carvalho,RS,Santa Maria,Sul,B2B,Pequeno,2023-06-11
+1296,Juliana Pereira,SP,Ribeirão Preto,Sudeste,B2C,Médio,2023-07-11
+1297,João Santos,ES,Vila Velha,Sudeste,B2B,Médio,2024-04-19
+1298,Mariana Santos,MS,Dourados,Centro-Oeste,B2B,Pequeno,2024-03-17
+1299,Fernanda Carvalho,SP,Ribeirão Preto,Sudeste,B2B,Médio,2023-10-16
+1300,André Gomes,SC,Florianópolis,Sul,B2C,Médio,2023-11-26
+1301,Renata Costa,MT,Rondonópolis,Centro-Oeste,B2B,Médio,2025-10-24
+1302,Felipe Gomes,BA,Salvador,Nordeste,B2C,Grande,2025-11-23
+1303,Aline Gomes,PR,Foz do Iguaçu,Sul,B2B,Grande,2025-12-07
+1304,Bruno Costa,MT,Cuiabá,Centro-Oeste,B2C,Pequeno,2024-11-30
+1305,Bruno Oliveira,DF,Brasília,Centro-Oeste,B2C,Grande,2025-07-05
+1306,Renata Gomes,MS,Corumbá,Centro-Oeste,B2C,Médio,2023-09-26
+1307,Bruno Ribeiro,RS,Pelotas,Sul,B2B,Grande,2024-11-25
+1308,Mateus Ribeiro,PA,Marabá,Norte,B2B,Pequeno,2024-08-18
+1309,Mateus Souza,DF,Brasília,Centro-Oeste,B2C,Grande,2025-01-07
+1310,Mateus Silva,MG,Belo Horizonte,Sudeste,B2C,Médio,2025-06-01
+1311,Juliana Oliveira,SP,Santos,Sudeste,B2C,Médio,2023-03-23
+1312,André Souza,BA,Ilhéus,Nordeste,B2B,Pequeno,2025-03-04
+1313,João Silva,RJ,Rio de Janeiro,Sudeste,B2B,Grande,2024-05-04
+1314,Carlos Ribeiro,CE,Crato,Nordeste,B2B,Grande,2024-03-03
+1315,Patrícia Costa,SC,Blumenau,Sul,B2B,Grande,2023-06-03
+1316,Mateus Carvalho,PR,Foz do Iguaçu,Sul,B2C,Médio,2023-11-09
+1317,Amanda Gomes,PE,Caruaru,Nordeste,B2C,Pequeno,2025-10-15
+1318,Aline Silva,SC,Chapecó,Sul,B2B,Grande,2023-07-19
+1319,Lucas Ribeiro,ES,Vila Velha,Sudeste,B2B,Médio,2023-01-31
+1320,Renata Almeida,RJ,Campos dos Goytacazes,Sudeste,B2C,Médio,2023-10-20
+1321,Lucas Silva,PA,Marabá,Norte,B2B,Médio,2024-09-25
+1322,Beatriz Pereira,CE,Crato,Nordeste,B2B,Grande,2023-06-28
+1323,Renata Pereira,RJ,Niterói,Sudeste,B2B,Grande,2025-10-18
+1324,Lucas Ribeiro,RS,Porto Alegre,Sul,B2B,Grande,2023-07-12
+1325,Juliana Oliveira,SP,Ribeirão Preto,Sudeste,B2B,Grande,2025-07-20
+1326,Pedro Souza,MS,Três Lagoas,Centro-Oeste,B2B,Grande,2024-10-04
+1327,Beatriz Oliveira,PR,Londrina,Sul,B2C,Grande,2023-12-14
+1328,André Santos,GO,Goiânia,centro-oeste,B2B,Grande,2024-08-28
+1329,Amanda Ribeiro,Sp,Ribeirão Preto,Sudeste,B2B,Grande,2023-11-27
+1330,Felipe Costa,GO,Goiânia,Centro-Oeste,B2C,Grande,2023-05-20
+1331,Felipe Almeida,DF,Brasília,Centro-Oeste,B2C,Médio,2024-07-27
+1332,Rafael Costa,MS,Corumbá,Centro-Oeste,B2C,Grande,2025-01-14
+1333,Fernanda Gomes,CE,Fortaleza,Nordeste,B2B,Pequeno,2024-12-24
+1334,Larissa Santos,BA,Salvador,Nordeste,B2C,Médio,2023-07-02
+1335,André Pereira,PE,Olinda,Nordeste,B2B,Grande,2023-05-26
+1336,Rafael Silva,MG,Contagem,Sudeste,B2B,Pequeno,2024-01-02
+1337,Rafael Almeida,MT,Sinop,Centro-Oeste,B2B,Grande,2025-08-01
+1338,Fernanda Almeida,MS,Campo Grande,Centro-Oeste,B2C,Pequeno,2024-06-12
+1339,Renata Gomes,SP,Campinas,Sudeste,B2C,Pequeno,2025-08-27
+1340,Mateus Silva,PR,Curitiba,Sul,B2C,Pequeno,2024-06-08
+1341,Bruno Souza,MT,Rondonópolis,Centro-Oeste,B2C,Pequeno,2025-06-24
+1342,Aline Almeida,ES,Vila Velha,Sudeste,B2C,Médio,2023-10-15
+1343,Mariana Carvalho,ES,Serra,Sudeste,B2B,Médio,2023-09-11
+1344,Pedro Ribeiro,RJ,Niterói,Sudeste,B2B,Pequeno,2025-09-26
+1345,Mateus Santos,MT,Sinop,Centro-Oeste,B2B,Grande,2023-03-23
+1346,Carlos Carvalho,PR,Curitiba,Sul,B2B,Pequeno,2025-01-14
+1347,Aline Pereira,CE,Juazeiro do Norte,Nordeste,B2C,Médio,2024-08-10
+1348,Mateus Souza,DF,Brasília,Centro-Oeste,B2C,Grande,2025-04-01
+1349,Felipe Ribeiro,GO,Aparecida de Goiânia,Centro-Oeste,B2B,Médio,2025-04-17
+1350,Larissa Silva,RJ,Petrópolis,Sudeste,B2C,Médio,2023-09-22
+1351,Bruno Costa,ES,Serra,Sudeste,B2C,Grande,2025-06-21
+1352,Lucas Santos,MG,Contagem,Sudeste,B2B,Pequeno,2025-01-21
+1353,Larissa Oliveira,MG,Juiz de Fora,Sudeste,B2B,Pequeno,2025-11-15
+1354,Fernanda Souza,SP, RIBEIRÃO PRETO ,Sudeste,B2C,Pequeno,2024-10-04
+1355,Thiago Oliveira,CE,Crato,Nordeste,B2C,Pequeno,2025-02-04
+1356,Larissa Santos,BA,Ilhéus,Nordeste,B2B,Grande,2023-06-20
+1357,Larissa Almeida,ES,Serra,Sudeste,B2B,Grande,2025-04-26
+1358,Renata Costa,PA,Santarém,Norte,B2B,Grande,2025-11-02
+1359,Fernanda Oliveira,CE,Crato,Nordeste,B2C,Médio,2025-07-10
+1360,Rafael Ribeiro,DF,Brasília,Centro-Oeste,B2B,Grande,2024-06-22
+1361,Camila Silva,GO,Goiânia,Centro-Oeste,B2B,Pequeno,2023-03-29
+1362,Pedro Almeida,PR,Maringá,Sul,B2C,Médio,2023-04-27
+1363,André Souza,MT,Sinop,Centro-Oeste,B2C,Pequeno,2024-05-16
+1364,Mariana Carvalho,ES,Cariacica,Sudeste,B2C,Pequeno,2023-01-17
+1365,Amanda Carvalho,MT,Várzea Grande,Centro-Oeste,B2C,Grande,2023-11-13
+1366,Fernanda Costa,MG,Uberlândia,Sudeste,B2C,Grande,2023-08-04
+1367,Lucas Pereira,PR,Curitiba,Sul,B2B,Pequeno,2024-08-18
+1368,Patrícia Gomes,PR,Curitiba,Sul,B2B,Pequeno,2025-02-08
+1369,André Costa,PR,Curitiba,Sul,B2C,Médio,2023-11-21
+1370,Renata Almeida,MG,Belo Horizonte,Sudeste,B2C,Grande,2025-03-28
+1371,Juliana Oliveira,DF,Brasília,Centro-Oeste,B2C,Médio,2023-05-30
+1372,Larissa Almeida,MT,Cuiabá,Centro-Oeste,B2C,Médio,2024-04-01
+1373,Rafael Carvalho,SC,Joinville,Sul,B2C,Médio,2025-03-06
+1374,Thiago Santos,MT,Sinop,Centro-Oeste,B2B,Pequeno,2025-08-04
+1375,Rafael Souza,RS,Pelotas,Sul,B2B,Médio,2023-07-11
+1376,Felipe Oliveira,GO,Anápolis,Centro-Oeste,B2B,Médio,2024-12-15
+1377,Fernanda Oliveira,PA,Marabá,Norte,B2B,Pequeno,2025-08-12
+1378,Fernanda Costa,SC,Florianópolis,Sul,B2C,Grande,2025-08-17
+1379,Camila Souza,GO,Goiânia,Centro-Oeste,B2B,Grande,2025-12-31
+1380,Rafael Silva,RJ,Campos dos Goytacazes,Sudeste,B2C,Médio,2025-08-10
+1381,Thiago Gomes,CE,Crato,Nordeste,B2C,Pequeno,2023-08-12
+1382,Camila Pereira,CE,Juazeiro do Norte,Nordeste,B2C,Grande,2023-06-25
+1383,Pedro Oliveira,PE,Caruaru,Nordeste,B2B,Médio,2024-01-05
+1384,Rafael Oliveira,CE,Crato,Nordeste,B2C,Médio,2023-08-10
+1385,Juliana Gomes,MT,Sinop,Centro-Oeste,B2B,Pequeno,2025-03-23
+1386,Renata Ribeiro,MG,Juiz de Fora,Sudeste,B2B,Médio,2025-06-06
+1387,Beatriz Almeida,PA,Marabá,Norte,B2C,Grande,2024-02-13
+1388,Pedro Silva,BA,Salvador,Nordeste,B2C,Pequeno,2025-04-02
+1389,Rafael Costa,SP,São Paulo,Sudeste,B2C,Grande,2024-11-04
+1390,Renata Souza,PE,Petrolina,Nordeste,B2B,Grande,2023-05-13
+1391,Amanda Carvalho,MS,Campo Grande,Centro-Oeste,B2C,Grande,2024-10-11
+1392,Mariana Almeida,MS,Corumbá,Centro-Oeste,B2B,Médio,2024-12-02
+1393,Lucas Pereira,SP,Ribeirão Preto,Sudeste,B2C,Médio,2025-09-22
+1394,Juliana Almeida,GO,Rio Verde,Centro-Oeste,B2C,Grande,2024-03-11
+1395,Rafael Ribeiro,SP,Ribeirão Preto,Sudeste,B2B,Grande,2025-09-02
+1396,André Carvalho,SP,Ribeirão Preto,Sudeste,B2B,Pequeno,2023-08-23
+1397,Beatriz Oliveira,MS,Corumbá,Centro-Oeste,B2B,Pequeno,2024-07-24
+1398,Fernanda Oliveira,PE,Recife,Nordeste,B2B,Médio,2025-07-19
+1399,João Pereira,RJ,Rio de Janeiro,Sudeste,B2B,Médio,2023-03-20
+1400,Thiago Pereira,MT,Várzea Grande,Centro-Oeste,B2B,Pequeno,2023-11-15
+1401,Aline Oliveira,PR,Maringá,Sul,B2C,Grande,2025-08-20
+1402,Rafael Oliveira,CE,Juazeiro do Norte,Nordeste,B2C,Médio,2023-10-26
+1403,Juliana Pereira,CE,Crato,Nordeste,B2B,Grande,2024-03-13
+1404,Juliana Pereira,MG,Contagem,Sudeste,B2C,Pequeno,2024-10-17
+1405,Aline Souza,PE,Olinda,Nordeste,B2B,Médio,2023-03-06
+1406,Camila Pereira,MG,Juiz de Fora,Sudeste,B2C,Médio,2025-02-17
+1407,André Gomes,BA,Ilhéus,Nordeste,B2C,Pequeno,2023-05-08
+1408,Amanda Carvalho,BA,Ilhéus,Nordeste,B2B,Médio,2025-01-10
+1409,Carlos Gomes,MG,Belo Horizonte,Sudeste,B2B,Pequeno,2025-05-30
+1410,Pedro Oliveira,PE,Petrolina,Nordeste,B2B,Médio,2025-08-27
+1411,Thiago Silva,MG,Contagem,Sudeste,B2C,Pequeno,2024-03-13
+1412,Fernanda Costa,CE,Crato,Nordeste,B2B,Médio,2023-04-21
+1413,Amanda Almeida,SC,Joinville,Sul,B2C,Grande,2024-03-09
+1414,Mariana Gomes,RS,Porto Alegre,Sul,B2B,Grande,2023-02-16
+1415,Mariana Almeida,MS,Corumbá,Centro-Oeste,B2C,Grande,2025-05-16
+1416,Amanda Oliveira,MS,Três Lagoas,Centro-Oeste,B2C,Médio,2024-07-06
+1417,Thiago Costa,PA,Ananindeua,Norte,B2B,Médio,2024-05-31
+1418,Amanda Santos,SP,Ribeirão Preto,Sudeste,B2C,Grande,2023-12-27
+1419,Aline Costa,RS,Pelotas,Sul,B2C,Grande,2023-06-21
+1420,Bruno Almeida,MT,Rondonópolis,Centro-Oeste,B2B,Pequeno,2023-10-18
+1421,Mariana Pereira,PE,Caruaru,Nordeste,B2C,Pequeno,2023-05-22
+1422,Aline Carvalho,DF,Brasília,Centro-Oeste,B2B,Pequeno,2024-07-14
+1423,André Costa,RS,Porto Alegre,Sul,B2B,Grande,2025-04-09
+1424,Fernanda Pereira,PA,Belém,Norte,B2B,Grande,2023-06-17
+1425,Fernanda Costa,BA,Feira de Santana,Nordeste,B2B,Grande,2024-09-02
+1426,Pedro Carvalho,GO,Rio Verde,Centro-Oeste,B2C,Pequeno,2025-07-13
+1427,Carlos Carvalho,SP,Santos,Sudeste,B2C,Médio,2025-05-09
+1428,Renata Oliveira,PA,Belém,Norte,B2C,Grande,2025-12-10
+1429,Renata Silva,PR,Maringá,Sul,B2B,Médio,2024-03-14
+1430,Patrícia Santos,DF,Brasília,Centro-Oeste,B2C,Médio,2024-06-15
+1431,Patrícia Pereira,PE,Recife,Nordeste,B2C,Médio,2024-01-12
+1432,Rafael Almeida,SP,Ribeirão Preto,Sudeste,B2B,Pequeno,2023-04-21
+1433,Aline Oliveira,MT,Rondonópolis,Centro-Oeste,B2B,Médio,2023-07-09
+1434,Thiago Santos,RS,Pelotas,Sul,B2C,Grande,2025-05-27
+1435,Felipe Oliveira,BA,Ilhéus,Nordeste,B2B,Pequeno,2024-12-01
+1436,Juliana Almeida,RJ,Petrópolis,Sudeste,B2B,Grande,2024-08-31
+1437,Rafael Gomes,SC,Florianópolis,Sul,B2B,Grande,2023-12-03
+1438,Amanda Gomes,PR,Londrina,Sul,B2B,Pequeno,2024-02-11
+1439,Larissa Almeida,DF,Brasília,Centro-Oeste,B2C,Grande,2024-12-16
+1440,Renata Ribeiro,SC,Joinville,Sul,B2B,Grande,2025-05-08
+1441,Juliana Ribeiro,SP,Santos,Sudeste,B2B,Pequeno,2025-09-13
+1442,Mateus Costa,BA,Salvador,Nordeste,B2B,Grande,2025-08-31
+1443,Renata Carvalho,BA,Salvador,Nordeste,B2B,Médio,2023-11-26
+1444,Rafael Souza,PA,Marabá,Norte,B2B,Grande,2025-06-13
+1445,André Costa,MS,Campo Grande,Centro-Oeste,B2B,Médio,2024-12-27
+1446,Bruno Carvalho,MS,Três Lagoas,Centro-Oeste,B2B,Grande,2025-03-07
+1447,Mateus Carvalho,RS,Caxias do Sul,Sul,B2B,Pequeno,2023-01-21
+1448,Fernanda Costa,PA,Belém,Norte,B2C,Pequeno,2024-02-11
+1449,Juliana Souza,CE,Sobral,Nordeste,B2B,Grande,2023-06-09
+1450,Lucas Souza,RS,Porto Alegre,Sul,B2C,Pequeno,2023-10-24
+1451,Felipe Santos,CE,Crato,Nordeste,B2B,Grande,2024-10-25
+1452,Beatriz Ribeiro,MS,Corumbá,Centro-Oeste,B2B,Pequeno,2024-10-10
+1453,Renata Carvalho,PA,Ananindeua,Norte,B2B,Médio,2023-01-30
+1454,Larissa Santos,CE,Sobral,Nordeste,B2B,Grande,2023-11-05
+1455,Patrícia Costa,PR,Curitiba,Sul,B2C,Médio,2025-07-28
+1456,Fernanda Gomes,PA,Ananindeua,Norte,B2B,Médio,2023-10-30
+1457,Larissa Ribeiro,MS,Campo Grande,Centro-Oeste,B2B,Grande,2025-10-19
+1458,João Costa,RS,Pelotas,Sul,B2C,Médio,2024-10-10
+1459,Lucas Gomes,ES,Cariacica,Sudeste,B2C,Grande,2023-08-21
+1460,Pedro Pereira,PA,Ananindeua,Norte,B2B,Médio,2025-04-12
+1461,Juliana Souza,RJ,Petrópolis,Sudeste,B2C,Grande,2024-06-22
+1462,Pedro Oliveira,DF,Brasília,Centro-Oeste,B2C,Grande,2025-12-02
+1463,Camila Pereira,MS,Corumbá,Centro-Oeste,B2C,Pequeno,2023-01-08
+1464,Mariana Gomes,MG,Belo Horizonte,Sudeste,B2B,Grande,2025-07-11
+1465,Carlos Ribeiro,MG,Uberlândia,Sudeste,B2B,Grande,2023-09-15
+1466,Aline Costa,RS,Pelotas,Sul,B2B,Médio,2025-07-09
+1467,Aline Souza,RS,Santa Maria,Sul,B2C,Grande,2023-07-19
+1468,Patrícia Gomes,SC,Blumenau,Sul,B2B,Pequeno,2023-03-16
+1469,Mariana Souza,DF,Brasília,Centro-Oeste,B2C,Médio,2024-03-23
+1470,Thiago Silva,DF,Brasília,Centro-Oeste,B2B,Médio,2024-01-20
+1471,Pedro Silva,PR,Maringá,Sul,B2B,Pequeno,2025-05-10
+1472,Mariana Souza,RS,Santa Maria,Sul,B2C,Médio,2023-12-07
+1473,Bruno Santos,DF,Brasília,Centro-Oeste,B2B,Médio,2025-02-12
+1474,Beatriz Oliveira,MT,Sinop,Centro-Oeste,B2C,Médio,2024-03-18
+1475,Renata Oliveira,SC,Florianópolis,Sul,B2C,Médio,2024-12-13
+1476,Mariana Ribeiro,CE,Juazeiro do Norte,Nordeste,B2B,Pequeno,2024-03-05
+1477,Juliana Gomes,BA,Vitória da Conquista,Nordeste,B2C,Pequeno,2024-01-27
+1478,André Almeida,BA,Vitória da Conquista,Nordeste,B2B,Médio,2023-01-30
+1479,Bruno Oliveira,CE,Fortaleza,Nordeste,B2B,Médio,2025-01-28
+1480,Juliana Almeida,PE,Caruaru,Nordeste,B2C,Pequeno,2025-01-15
+1481,Lucas Carvalho,MS,Corumbá,Centro-Oeste,B2B,Pequeno,2023-02-03
+1482,Carlos Gomes,SC,Joinville,Sul,B2C,Pequeno,2024-09-10
+1483,Larissa Almeida,MT,Cuiabá,Centro-Oeste,B2B,Médio,2024-09-20
+1484,Fernanda Silva,DF,Brasília,Centro-Oeste,B2B,Médio,2025-10-25
+1485,Carlos Santos,ES,Serra,Sudeste,B2B,Grande,2023-09-13
+1486,Felipe Souza,SC,Blumenau,Sul,B2B,Pequeno,2025-10-19
+1487,Larissa Souza,PA,Belém,Nortee,B2B,Médio,2025-07-22
+1488,Renata Oliveira,CE,Crato,Nordeste,B2C,Pequeno,2025-04-27
+1489,Camila Costa,MT,Sinop,Centro-Oeste,B2C,Médio,2025-04-20
+1490,Carlos Gomes,RJ,Niterói,Sudeste,B2C,Pequeno,2024-12-21
+1491,Pedro Pereira,GO,Rio Verde,Centro-Oeste,B2C,Médio,2024-12-22
+1492,Aline Ribeiro,SP,São Paulo,Sudeste,B2C,Grande,2025-05-22
+1493,Mariana Carvalho,MS,Três Lagoas,Centro-Oeste,B2C,Grande,2025-12-07
+1494,Fernanda Carvalho,CE,Sobral,Nordeste,B2B,Pequeno,2024-11-18
+1495,Fernanda Carvalho,Es,Cariacica,Sudeste,B2B,Médio,2023-08-21
+1496,Pedro Costa,DF,Brasília,Centro-Oeste,B2C,Médio,2023-12-27
+1497,Camila Gomes,ES,Vila Velha,Sudeste,B2C,Pequeno,2025-07-28
+1498,Amanda Oliveira,ES,Cariacica,Sudeste,B2B,Médio,2025-05-27
+1499,Thiago Carvalho,RS,Santa Maria,Sul,B2B,Pequeno,2025-02-03
+1500,Larissa Souza,RS,Pelotas,Sul,B2B,Médio,2023-12-29
+1501,João Costa,PR,Foz do Iguaçu,Sul,B2C,Pequeno,2023-11-30
+1502,Pedro Santos,CE,Juazeiro do Norte,Nordeste,B2C,Médio,2025-06-11
+1503,Thiago Souza,PR,Curitiba,Sul,B2C,Pequeno,2025-02-20
+1504,Bruno Costa,CE,Juazeiro do Norte,Nordeste,B2B,Médio,2024-08-06
+1505,João Ribeiro,MS,Corumbá,Centro-Oeste,B2B,Grande,2025-06-14
+1506,Fernanda Almeida,SC,Joinville,Sul,B2C,Médio,2024-08-03
+1507,Amanda Oliveira,SP,Ribeirão Preto,Sudeste,B2C,Pequeno,2023-07-23
+1508,Larissa Almeida,ES,Serra,Sudeste,B2B,Grande,2023-06-29
+1509,Juliana Oliveira,MS,Corumbá,Centro-Oeste,B2B,Médio,2023-08-01
+1510,Aline Ribeiro,SC,Florianópolis,Sul,B2B,Grande,2023-07-03
+1511,Bruno Ribeiro,GO,Anápolis,Centro-Oeste,B2B,Médio,2023-02-03
+1512,Bruno Gomes,BA,Vitória da Conquista,Nordeste,B2C,Grande,2025-04-22
+1513,Thiago Oliveira,MG,Contagem,Sudeste,B2B,Pequeno,2023-08-01
+1514,Bruno Costa,PA,Santarém,Norte,B2B,Médio,2025-10-13
+1515,Patrícia Carvalho,MT,Várzea Grande,Centro-Oeste,B2B,Médio,2023-07-24
+1516,Mateus Costa,CE,Juazeiro do Norte,Nordeste,B2C,Pequeno,2025-06-28
+1517,Lucas Gomes,GO,Rio Verde,Centro-Oeste,B2C,Grande,2025-10-27
+1518,João Santos,BA,Ilhéus,Nordeste,B2B,Pequeno,2023-03-08
+1519,Fernanda Ribeiro,DF,Brasília,Centro-Oeste,B2B,Pequeno,2024-08-16
+1520,Beatriz Gomes,PE,Caruaru,Nordeste,B2B,Grande,2025-05-11
+1521,Juliana Gomes,SP,São Paulo,Sudeste,B2C,Pequeno,2024-03-09
+1522,Juliana Gomes,MT,Várzea Grande,Centro-Oeste,B2C,Médio,2024-04-01
+1523,Aline Oliveira,PR,Foz do Iguaçu,Sul,B2C,Médio,2025-07-20
+1524,Rafael Carvalho,PR,Maringá,Sul,B2B,Médio,2025-02-19
+1525,Lucas Santos,SC,Blumenau,Sul,B2C,Pequeno,2023-08-23
+1526,Thiago Silva,MT,Várzea Grande,Centro-Oeste,B2B,Médio,2024-02-05
+1527,Felipe Santos,RS,Pelotas,Sul,B2B,Médio,2025-08-19
+1528,Renata Pereira,BA,Feira de Santana,Nordeste,B2B,Médio,2023-09-12
+1529,Bruno Gomes,PE,Petrolina,Nordeste,B2C,Médio,2024-12-19
+1530,Larissa Gomes,GO,Anápolis,Centro-Oeste,B2B,Médio,2025-08-08
+1531,Renata Ribeiro,SP,São Paulo,Sudeste,B2C,Médio,2025-04-25
+1532,Pedro Carvalho,MS,Dourados,centro-oeste,B2C,Pequeno,2025-03-21
+1533,Pedro Pereira,BA,Feira de Santana,Nordeste,B2B,Médio,2023-01-16
+1534,Renata Costa,PE,Recife,Nordeste,B2B,Médio,2025-02-06
+1535,Renata Silva,MG,Uberlândia,Sudeste,B2C,Grande,2024-04-03
+1536,Patrícia Ribeiro,CE,Sobral,Nordeste,B2B,Pequeno,2025-11-05
+1537,Carlos Almeida,MS,Corumbá,Centro-Oeste,B2C,Pequeno,2024-08-03
+1538,Pedro Santos,PR,Foz do Iguaçu,Sul,B2B,Pequeno,2024-07-02
+1539,Thiago Silva,MS,Corumbá,Centro-Oeste,B2C,Pequeno,2024-06-25
+1540,Patrícia Pereira,GO,Aparecida de Goiânia,Centro-Oeste,B2C,Médio,2024-09-21
+1541,Camila Souza,PR,Curitiba,Sul,B2C,Médio,2025-04-29
+1542,Patrícia Souza,GO,Anápolis,Centro-Oeste,B2C,Grande,2024-05-09
+1543,André Santos,SC,Joinville,Sul,B2B,Grande,2023-01-09
+1544,Larissa Costa,RS,Pelotas,Sul,B2B,Pequeno,2025-04-29
+1545,Amanda Almeida,GO,Anápolis,Centro-Oeste,B2C,Grande,2023-03-08
+1546,Bruno Carvalho,PR,Curitiba,Sul,B2C,Grande,2023-02-01
+1547,João Santos,SC,Blumenau,Sul,B2B,Pequeno,2023-02-23
+1548,Carlos Silva,GO,Rio Verde,Centro-Oeste,B2B,Pequeno,2023-11-11
+1549,Larissa Costa,MG,Uberlândia,Sudeste,B2B,Grande,2025-02-05
+1550,Renata Pereira,MS,Campo Grande,Centro-Oeste,B2B,Médio,2025-11-28
+1551,Amanda Ribeiro,RS,Santa Maria,Sul,B2B,Grande,2024-10-12
+1552,Bruno Costa,GO,Goiânia,Centro-Oeste,B2B,Grande,2024-11-17
+1553,Thiago Pereira,SC,Florianópolis,Sul,B2C,Médio,2023-12-16
+1554,Larissa Pereira,DF,Brasília,Centro-Oeste,B2B,Médio,2025-05-30
+1555,Beatriz Souza,ba,Vitória da Conquista,Nordeste,B2B,Pequeno,2024-05-10
+1556,João Almeida,RJ,Petrópolis,Sudeste,B2C,Pequeno,2025-03-12
+1557,Mateus Pereira,PE,Recife,Nordeste,B2B,Grande,2024-01-30
+1558,João Oliveira,RJ,Campos dos Goytacazes,Sudeste,B2B,Médio,2025-03-16
+1559,André Oliveira,DF,Brasília,Centro-Oeste,B2B,Pequeno,2023-04-16
+1560,Mariana Santos,RJ,Rio de Janeiro,Sudeste,B2B,Grande,2025-05-28
+1561,Fernanda Gomes,DF,Brasília,Centro-Oeste,B2B,Médio,2023-09-21
+1562,João Carvalho,SP,Campinas,Sudeste,B2C,Grande,2025-03-10
+1563,Felipe Almeida,DF,Brasília,Centro-Oeste,B2B,Pequeno,2023-12-22
+1564,Fernanda Gomes,DF,Brasília,Centro-Oeste,B2C,Pequeno,2025-04-05
+1565,Rafael Souza,ES,Vitória,Sudeste,B2C,Médio,2024-10-13
+1566,Fernanda Ribeiro,DF,Brasília,Centro-Oeste,B2B,Grande,2025-11-25
+1567,Felipe Costa,MG,Contagem,Sudeste,B2C,Médio,2023-11-21
+1568,Patrícia Gomes,BA,Salvador,Nordeste,B2B,Pequeno,2025-06-14
+1569,Mariana Carvalho,CE,Juazeiro do Norte,Nordeste,B2C,Pequeno,2024-04-18
+1570,Lucas Souza,GO,Goiânia,Centro-Oeste,B2C,Grande,2023-07-23
+1571,Patrícia Costa,PE,Caruaru,Nordeste,B2B,Grande,2023-09-16
+1572,Rafael Ribeiro,RS,Pelotas,Sul,B2B,Grande,2025-10-29
+1573,Fernanda Santos,BA,Ilhéus,Nordeste,B2B,Médio,2023-08-31
+1574,Juliana Santos,PR,Londrina,Sul,B2B,Grande,2025-03-13
+1575,Aline Pereira,CE,Crato,Nordeste,B2B,Grande,2024-06-16
+1576,Mariana Pereira,SP,Campinas,Sudeste,B2C,Pequeno,2023-11-22
+1577,Mariana Ribeiro,SP,Campinas,Sudeste,B2C,Pequeno,2024-10-22
+1578,Larissa Oliveira,PA,Belém,Norte,B2C,Grande,2024-02-22
+1579,Larissa Gomes,MS,Dourados,Centro-Oeste,B2C,Grande,2023-07-10
+1580,Mariana Silva,DF,Brasília,Centro-Oeste,B2C,Pequeno,2023-07-11
+1581,Mateus Souza,BA,Vitória da Conquista,Nordeste,B2C,Grande,2023-02-22
+1582,Patrícia Silva,SC,Chapecó,Sul,B2C,Médio,2025-06-14
+1583,Pedro Oliveira,ES,Cariacica,Sudeste,B2B,Médio,2023-01-24
+1584,Patrícia Gomes,RJ,Petrópolis,Sudeste,B2B,Médio,2023-11-10
+1585,Lucas Almeida,PR,Curitiba,Sul,B2C,Grande,2023-02-26
+1586,Carlos Oliveira,SP,Ribeirão Preto,Sudeste,B2C,Pequeno,2023-06-11
+1587,Thiago Oliveira,PE,Caruaru,Nordeste,B2B,Grande,2025-02-22
+1588,Felipe Souza,SP,São Paulo,Sudeste,B2B,Grande,2023-02-21
+1589,Camila Pereira,RS,Pelotas,Sul,B2B,Pequeno,2023-09-25
+1590,Rafael Costa,GO,Aparecida de Goiânia,Centro-Oeste,B2B,Pequeno,2025-07-18
+1591,Bruno Silva,SP,Ribeirão Preto,Sudeste,B2C,Pequeno,2025-01-03
+1592,Fernanda Pereira,RS,Caxias do Sul,Sul,B2B,Médio,2024-01-18
+1593,André Almeida,BA,Vitória da Conquista,Nordeste,B2C,Grande,2024-05-05
+1594,Rafael Souza,BA,Feira de Santana,Nordeste,B2C,Pequeno,2024-03-30
+1595,Lucas Santos,ES,Serra,Sudeste,B2C,Grande,2024-08-31
+1596,Aline Souza,MS,Corumbá,Centro-Oeste,B2B,Médio,2024-02-01
+1597,João Carvalho,PA,Marabá,Norte,B2B,Médio,2024-05-17
+1598,André Ribeiro,CE,Sobral,Nordeste,B2C,Pequeno,2025-02-13
+1599,Patrícia Silva,SP,São Paulo,Sudeste,B2C,Pequeno,2024-06-17
+1600,Lucas Costa,PE,Recife,Nordeste,B2C,Grande,2023-04-16
+1601,Pedro Almeida,SP,São Paulo,Sudeste,B2B,Pequeno,2024-07-17
+1602,João Gomes,PA,Santarém,Norte,B2C,Grande,2023-06-19
+1603,Rafael Santos,MT,Rondonópolis,Centro-Oeste,B2B,Pequeno,2023-10-22
+1604,Fernanda Souza,PE,Petrolina,Nordeste,B2C,Grande,2023-02-17
+1605,Pedro Souza,MG,Juiz de Fora,Sudeste,B2C,Grande,2023-07-31
+1606,Mariana Costa,DF,Brasília,Centro-Oeste,B2C,Grande,2023-08-16
+1607,Thiago Oliveira,CE,Fortaleza,Nordeste,B2B,Grande,2025-07-29
+1608,Fernanda Oliveira,MG,Uberlândia,Sudeste,B2B,Médio,2023-09-09
+1609,João Souza,MT,Sinop,Centro-Oeste,B2C,Grande,2023-08-08
+1610,Beatriz Carvalho,MT,Sinop,Centro-Oeste,B2B,Pequeno,2023-10-18
+1611,Lucas Carvalho,PA,Belém,Norte,B2C,Médio,2024-08-01
+1612,Bruno Gomes,SP,Ribeirão Preto,Sudeste,B2B,Médio,2024-06-20
+1613,Camila Santos,PA,Marabá,Norte,B2B,Grande,2024-01-05
+1614,João Almeida,PA,Marabá,Norte,B2B,Médio,2023-07-10
+1615,Amanda Gomes,MT,Cuiabá,Centro-Oeste,B2C,Grande,2023-06-08
+1616,Carlos Souza,CE,Juazeiro do Norte,Nordeste,B2B,Pequeno,2025-10-09
+1617,Pedro Oliveira,MG,Juiz de Fora,Sudeste,B2B,Grande,2025-01-10
+1618,Pedro Carvalho,RJ,Niterói,Sudeste,B2C,Médio,2024-03-01
+1619,Fernanda Costa,SP,Campinas,Sudeste,B2C,Pequeno,2025-03-11
+1620,Juliana Costa,MT,Sinop,Centro-Oeste,B2C,Grande,2023-07-26
+1621,João Santos,MG,Juiz de Fora,Sudeste,B2C,Pequeno,2025-10-02
+1622,Felipe Souza,MS,Corumbá,Centro-Oeste,B2B,Pequeno,2023-02-14
+1623,André Ribeiro,RJ,Rio de Janeiro,Sudeste,B2B,Médio,2025-04-27
+1624,Amanda Carvalho,RJ,Petrópolis,Sudeste,B2B,Pequeno,2023-05-31
+1625,Amanda Pereira,BA,Salvador,Nordeste,B2B,Médio,2025-09-23
+1626,Lucas Pereira,ES,Cariacica,Sudeste,B2B,Pequeno,2023-06-06
+1627,Carlos Ribeiro,SP,Ribeirão Preto,Sudeste,B2C,Grande,2024-03-06
+1628,Amanda Ribeiro,RJ,Campos dos Goytacazes,Sudeste,B2B,Pequeno,2025-05-09
+1629,Carlos Almeida,MT,Rondonópolis,Centro-Oeste,B2B,Grande,2025-02-07
+1630,Thiago Silva,BA,Ilhéus,Nordeste,B2B,Grande,2024-10-04
+1631,André Gomes,MG,Belo Horizonte,Sudeste,B2C,Pequeno,2025-07-12
+1632,Fernanda Souza,MS,Dourados,Centro-Oeste,B2C,Grande,2023-11-26
+1633,André Gomes,RS,Pelotas,Sul,B2B,Pequeno,2024-01-04
+1634,Amanda Souza,SP,São Paulo,Sudeste,B2C,Pequeno,2024-09-03
+1635,Beatriz Silva,CE,Sobral,Nordeste,B2C,Grande,2023-01-21
+1636,Camila Costa,PA,Ananindeua,Norte,B2C,Grande,2024-01-01
+1637,João Almeida,PE,Caruaru,Nordeste,B2C,Médio,2023-03-06
+1638,Larissa Almeida,PE,Petrolina,Nordeste,B2C,Grande,2023-08-29
+1639,Camila Ribeiro,MG,Belo Horizonte,Sudeste,B2C,Médio,2024-12-03
+1640,Bruno Gomes,SC,Florianópolis,Sul,B2C,Grande,2024-12-11
+1641,Rafael Silva,SC,Joinville,Sul,B2B,Pequeno,2025-09-18
+1642,Larissa Souza,MG,Contagem,Sudeste,B2B,Grande,2023-01-11
+1643,Lucas Pereira,MT,Várzea Grande,Centro-Oeste,B2C,Pequeno,2023-11-21
+1644,Carlos Silva,rj,Rio de Janeiro,Sudeste,B2B,Pequeno,2025-12-04
+1645,Mateus Almeida,ES,Cariacica,Sudeste,B2B,Pequeno,2024-06-05
+1646,Beatriz Pereira,SP,Campinas,Sudeste,B2C,Médio,2023-09-07
+1647,Beatriz Almeida,PE,Caruaru,Nordeste,B2B,Grande,2024-01-30
+1648,Juliana Almeida,PE,Caruaru,Nordeste,B2C,Pequeno,2023-03-02
+1649,Rafael Ribeiro,ES,Vitória,Sudeste,B2C,Pequeno,2023-02-17
+1650,Renata Carvalho,RJ,Rio de Janeiro,Sudeste,B2C,Médio,2025-11-26
+1651,João Pereira,PE,Olinda,Nordeste,B2B,Grande,2025-11-14
+1652,Rafael Pereira,PA,Santarém,Norte,B2B,Grande,2023-11-09
+1653,Rafael Ribeiro,CE,Juazeiro do Norte,Nordeste,B2B,Médio,2024-03-18
+1654,Carlos Oliveira,SP,Ribeirão Preto,Sudeste,B2B,Médio,2025-01-17
+1655,Renata Costa,GO,Rio Verde,Centro-Oeste,B2C,Grande,2023-08-24
+1656,Fernanda Carvalho,PE,Petrolina,Nordeste,B2C,Médio,2024-03-20
+1657,Rafael Pereira,MG,Contagem,Sudeste,B2B,Grande,2023-03-02
+1658,Juliana Santos,CE,Juazeiro do Norte,Nordeste,B2C,Grande,2024-11-01
+1659,Mateus Santos,PE,Caruaru,Nordeste,B2C,Pequeno,2023-10-11
+1660,Rafael Almeida,DF,Brasília,Centro-Oeste,B2B,Pequeno,2024-03-26
+1661,Pedro Gomes,MS,Três Lagoas,Centro-Oeste,B2C,Grande,2023-06-20
+1662,Amanda Carvalho,PA,Marabá,Norte,B2B,Grande,2023-09-17
+1663,Mateus Pereira,CE,Juazeiro do Norte,Nordeste,B2C,Grande,2024-07-02
+1664,Bruno Souza,BA,Salvador,Nordeste,B2B,Grande,2024-07-14
+1665,Lucas Oliveira,GO,Aparecida de Goiânia,Centro-Oeste,B2C,Grande,2025-09-13
+1666,Lucas Oliveira,MS,Três Lagoas,Centro-Oeste,B2C,Grande,2024-02-13
+1667,Aline Costa,PR,Londrina,Sul,B2B,Médio,2023-07-08
+1668,Beatriz Ribeiro,MG, contagem ,Sudeste,B2B,Grande,2024-12-14
+1669,Felipe Oliveira,MG,Contagem,Sudeste,B2B,Médio,2024-08-25
+1670,Camila Oliveira,SP,Campinas,Sudeste,B2B,Médio,2025-08-14
+1671,Felipe Souza,ES,Vitória,Sudeste,B2C,Grande,2025-10-12
+1672,Lucas Costa,MS,Campo Grande,Centro-Oeste,B2C,Grande,2025-06-12
+1673,Juliana Pereira,CE,Juazeiro do Norte,Nordeste,B2B,Médio,2025-11-15
+1674,Beatriz Souza,RJ,Rio de Janeiro,Sudeste,B2C,Médio,2025-03-30
+1675,Felipe Carvalho,MG,Contagem,Sudeste,B2B,Grande,2024-01-31
+1676,Rafael Gomes,CE,Juazeiro do Norte,Nordeste,B2B,Grande,2024-05-27
+1677,Patrícia Ribeiro,MT,Rondonópolis,Centro-Oeste,B2C,Médio,2023-12-21
+1678,Camila Silva,CE,Juazeiro do Norte,Nordeste,B2C,Médio,2024-02-10
+1679,Aline Carvalho,MT,Cuiabá,Centro-Oeste,B2B,Médio,2024-07-29
+1680,Bruno Costa,DF,Brasília,Centro-Oeste,B2B,Pequeno,2025-03-15
+1681,Bruno Pereira,RS,Santa Maria,Sul,B2B,Médio,2023-07-30
+1682,Pedro Carvalho,RS,Pelotas,Sul,B2C,Pequeno,2024-09-30
+1683,Pedro Santos,PR,Londrina,Sul,B2C,Grande,2023-12-06
+1684,Beatriz Silva,BA,Salvador,Nordeste,B2C,Grande,2024-02-26
+1685,Mateus Silva,PR,Maringá,Sul,B2C,Médio,2025-09-26
+1686,André Silva,MT,Várzea Grande,Centro-Oeste,B2B,Grande,2025-06-06
+1687,Aline Costa,MS,Campo Grande,Centro-Oeste,B2B,Grande,2025-07-02
+1688,Fernanda Oliveira,PE,Recife,Nordeste,B2B,Grande,2025-05-17
+1689,Bruno Silva,RJ,Campos dos Goytacazes,Sudeste,B2B,Grande,2024-07-10
+1690,Renata Almeida,PE,Petrolina,Nordeste,B2B,Pequeno,2024-10-14
+1691,André Costa,SC,Chapecó,Sul,B2B,Pequeno,2023-08-09
+1692,André Almeida,PE,Recife,Nordeste,B2C,Médio,2025-02-23
+1693,Mariana Pereira,SP,Campinas,Sudeste,B2C,Médio,2025-05-29
+1694,Rafael Carvalho,PE,Olinda,Nordeste,B2B,Médio,2024-02-14
+1695,Camila Souza,PR,Londrina,Sul,B2B,Grande,2024-12-23
+1696,Beatriz Silva,MG,Juiz de Fora,Sudeste,B2C,Grande,2025-02-04
+1697,Bruno Santos,PA,Marabá,Norte,B2C,Pequeno,2023-05-12
+1698,Beatriz Silva,MG,Contagem,Sudeste,B2C,Pequeno,2025-07-09
+1699,Fernanda Souza,RS,Santa Maria,Sul,B2C,Médio,2023-12-09
+1700,Patrícia Pereira,PA,Santarém,Norte,B2B,Pequeno,2023-03-11
+1701,Thiago Costa,ES,Cariacica,Sudeste,B2B,Pequeno,2025-11-13
+1702,Rafael Ribeiro,RJ,Niterói,Sudeste,B2B,Pequeno,2024-06-02
+1703,Patrícia Silva,RJ,Niterói,Sudeste,B2B,Pequeno,2025-04-19
+1704,Camila Santos,SP,Santos,Sudeste,B2B,Pequeno,2024-08-24
+1705,Thiago Carvalho,MS,Dourados,Centro-Oeste,B2C,Médio,2025-12-22
+1706,Thiago Carvalho,PR,Foz do Iguaçu,Sul,B2B,Médio,2024-12-22
+1707,André Gomes,RS,Caxias do Sul,Sul,B2C,Pequeno,2025-03-26
+1708,Camila Carvalho,DF,Brasília,Centro-Oeste,B2B,Médio,2023-03-03
+1709,Aline Santos,SC,Joinville,Sul,B2B,Grande,2023-08-23
+1710,Renata Santos,MS,Campo Grande,Centro-Oeste,B2B,Pequeno,2024-01-04
+1711,João Silva,RJ,Petrópolis,Sudeste,B2B,Grande,2024-10-22
+1712,Juliana Silva,MG,Juiz de Fora,Sudeste,B2B,Médio,2025-05-29
+1713,André Ribeiro,PE,Olinda,Nordeste,B2C,Médio,2024-01-16
+1714,Camila Silva,PE,Petrolina,Nordeste,B2C,Grande,2025-01-02
+1715,Mariana Silva,ES,Vila Velha,Sudeste,B2C,Médio,2024-05-17
+1716,Fernanda Pereira,RS,Pelotas,Sul,B2B,Pequeno,2023-05-29
+1717,Pedro Santos,PR,Foz do Iguaçu,Sul,B2B,Grande,2024-03-16
+1718,Beatriz Santos,PR,Curitiba,Sul,B2C,Pequeno,2025-01-31
+1719,  JULIANA GOMES ,BA,Salvador,Nordeste,B2B,Grande,2025-01-31
+1720,Mateus Oliveira,MT,Sinop,Centro-Oeste,B2B,Médio,2023-10-25
+1721,Felipe Souza,GO,Anápolis,Centro-Oeste,B2C,Grande,2024-10-05
+1722,Mateus Santos,RJ,Petrópolis,Sudeste,B2B,Grande,2023-09-08
+1723,Beatriz Almeida,PR,Foz do Iguaçu,Sul,B2C,Pequeno,2023-01-20
+1724,Camila Gomes,ES,Vila Velha,Sudeste,B2B,Médio,2024-10-14
+1725,Rafael Carvalho,MG,Contagem,Sudeste,B2C,Pequeno,2023-01-23
+1726,Pedro Ribeiro,RS,Santa Maria,Sul,B2B,Médio,2024-11-04
+1727,João Almeida,SC,Blumenau,Sul,B2B,Pequeno,2024-03-13
+1728,Rafael Carvalho,BA,Salvador,Nordeste,B2C,Grande,2025-08-11
+1729,  larissa silva ,ES,Vitória,Sudeste,B2B,Pequeno,2024-10-20
+1730,Juliana Oliveira,CE,Fortaleza,Nordeste,B2B,Médio,2024-04-21
+1731,André Pereira,SP,São Paulo,Sudeste,B2C,Médio,2023-05-16
+1732,Felipe Costa,SC,Blumenau,Sul,B2B,Grande,2025-02-28
+1733,Fernanda Costa,MT,Várzea Grande,Centro-Oeste,B2C,Médio,2024-08-03
+1734,Mariana Gomes,CE,Crato,Nordeste,B2B,Pequeno,2024-03-10
+1735,Felipe Santos,DF,Brasília,Centro-Oeste,B2B,Grande,2025-12-15
+1736,Rafael Santos,MT,Cuiabá,Centro-Oeste,B2B,Médio,2024-03-21
+1737,João Carvalho,PE,Recife,Nordeste,B2B,Médio,2023-07-30
+1738,Pedro Oliveira,SP,Santos,Sudeste,B2C,Pequeno,2024-07-23
+1739,Pedro Oliveira,RJ,Campos dos Goytacazes,Sudeste,B2B,Pequeno,2023-06-03
+1740,Patrícia Gomes,MG,Juiz de Fora,Sudeste,B2C,Grande,2025-05-13
+1741,Mariana Almeida,SP,Ribeirão Preto,Sudeste,B2B,Médio,2025-06-10
+1742,Pedro Ribeiro,MT,Rondonópolis,Centro-Oeste,B2B,Pequeno,2024-10-12
+1743,Camila Santos,GO,Anápolis,Centro-Oeste,B2B,Grande,2024-10-17
+1744,Patrícia Pereira,CE,Fortaleza,Nordeste,B2B,Médio,2024-02-10
+1745,Patrícia Pereira,RJ,Niterói,Sudeste,B2C,Médio,2024-02-08
+1746,Pedro Souza,PA,Marabá,Norte,B2C,Grande,2023-04-12
+1747,Bruno Pereira,GO,Anápolis,Centro-Oeste,B2C,Grande,2025-10-08
+1748,Amanda Silva,PE,Petrolina,Nordeste,B2C,Pequeno,2025-10-18
+1749,Carlos Costa,GO,Rio Verde,Centro-Oeste,B2B,Médio,2023-04-06
+1750,João Souza,BA,Ilhéus,Nordeste,B2C,Médio,2024-07-16
+1751,André Costa,BA,Feira de Santana,Nordeste,B2C,Médio,2025-05-12
+1752,Fernanda Ribeiro,DF,Brasília,Centro-Oeste,B2B,Grande,2023-09-02
+1753,Mateus Pereira,MT,Rondonópolis,Centro-Oeste,B2B,Pequeno,2023-09-12
+1754,Felipe Oliveira,RS,Santa Maria,Sul,B2B,Médio,2025-07-16
+1755,Lucas Almeida,SC,Joinville,Sul,B2B,Grande,2023-12-17
+1756,Patrícia Ribeiro,SC,Blumenau,Sul,B2C,Médio,2024-10-31
+1757,Renata Santos,PA,Belém,Norte,B2C,Pequeno,2025-02-23
+1758,Pedro Gomes,PA,Marabá,Norte,B2B,Médio,2024-04-29
+1759,Pedro Oliveira,RJ,Rio de Janeiro,Sudeste,B2B,Pequeno,2023-02-13
+1760,Pedro Silva,PE,Olinda,Nordeste,B2B,Pequeno,2024-08-06
+1761,Mateus Santos,PR,Foz do Iguaçu,Sul,B2C,Médio,2023-02-06
+1762,João Santos,DF,Brasília,Centro-Oeste,B2C,Médio,2023-01-10
+1763,Fernanda Costa,BA,Vitória da Conquista,Nordeste,B2B,Pequeno,2025-08-03
+1764,Rafael Carvalho,RJ,Campos dos Goytacazes,Sudeste,B2B,Grande,2024-08-05
+1765,Larissa Pereira,PR,Maringá,Sul,B2C,Pequeno,2023-09-26
+1766,Rafael Silva,SC,Blumenau,Sul,B2B,Médio,2025-04-04
+1767,Rafael Santos,RS,Pelotas,Sul,B2B,Médio,2023-03-17
+1768,Patrícia Oliveira,GO,Rio Verde,Centro-Oeste,B2C,Grande,2025-12-28
+1769,Rafael Costa,BA,Ilhéus,Nordeste,B2B,Pequeno,2025-12-16
+1770,Pedro Silva,RJ,Niterói,Sudeste,B2C,Pequeno,2023-03-22
+1771,Patrícia Silva,SP,Santos,Sudeste,B2B,Pequeno,2024-11-21
+1772,Bruno Carvalho,PR,Foz do Iguaçu,Sul,B2B,Médio,2023-02-03
+1773,Juliana Almeida,GO,Anápolis,Centro-Oeste,B2C,Pequeno,2023-05-23
+1774,Aline Silva,BA,Ilhéus,Nordeste,B2C,Grande,2025-08-20
+1775,Fernanda Almeida,SC,Florianópolis,Sul,B2B,Médio,2023-07-14
+1776,Bruno Costa,ES,Vila Velha,Sudeste,B2C,Médio,2025-04-30
+1777,Carlos Oliveira,PE,Olinda,Nordeste,B2B,Pequeno,2024-09-08
+1778,Felipe Pereira,PR,Curitiba,Sul,B2B,Grande,2024-07-16
+1779,Patrícia Oliveira,SC,Joinville,Sul,B2C,Médio,2024-10-11
+1780,Mateus Carvalho,BA,Feira de Santana,Nordeste,B2B,Médio,2024-12-09
+1781,Amanda Carvalho,PR,Curitiba,Sul,B2B,Pequeno,2025-03-30
+1782,André Pereira,DF,Brasília,Centro-Oeste,B2C,Pequeno,2023-06-13
+1783,Aline Almeida,GO,Rio Verde,Centro-Oeste,B2C,Grande,2024-10-03
+1784,Renata Gomes,MS,Dourados,Centro-Oeste,B2B,Pequeno,2025-10-08
+1785,Mateus Souza,BA,Ilhéus,Nordeste,B2C,Grande,2023-04-07
+1786,Felipe Almeida,DF,Brasília,Centro-Oeste,B2C,Médio,2025-03-16
+1787,João Almeida,CE,Fortaleza,Nordeste,B2C,Grande,2024-09-03
+1788,Carlos Ribeiro,RJ,Campos dos Goytacazes,Sudeste,B2C,Grande,2025-07-19
+1789,André Ribeiro,ES,Vitória,Sudeste,B2B,Grande,2025-10-07
+1790,Lucas Almeida,PA,Ananindeua,Norte,B2B,Médio,2023-09-06
+1791,Camila Gomes,GO,Rio Verde,Centro-Oeste,B2B,Pequeno,2025-02-04
+1792,Renata Gomes,PR,Foz do Iguaçu,Sul,B2C,Médio,2023-07-30
+1793,Camila Carvalho,PE,Petrolina,Nordeste,B2C,Pequeno,2023-03-01
+1794,Beatriz Costa,SC,Chapecó,Sul,B2C,Grande,2024-04-03
+1795,Fernanda Pereira,PA,Belém,Norte,B2C,Grande,2023-04-08
+1796,Bruno Silva,SP,Campinas,Sudeste,B2C,Grande,2023-01-22
+1797,Mariana Carvalho,SC,Florianópolis,Sul,B2C,Grande,2023-10-12
+1798,André Silva,PR,Maringá,Sul,B2C,Grande,2023-08-04
+1799,Felipe Silva,ES,Vitória,Sudeste,B2B,Pequeno,2024-10-23
+1800,Aline Ribeiro,MT,Várzea Grande,Centro-Oeste,B2B,Pequeno,2025-06-11
+1801,Camila Carvalho,SC,Blumenau,Sul,B2C,Grande,2024-04-08
+1802,André Oliveira,MT,Várzea Grande,Centro-Oeste,B2C,Médio,2023-12-15
+1803,Pedro Santos,RJ,Niterói,Sudeste,B2C,Médio,2023-06-30
+1804,André Pereira,ES,Serra,Sudeste,B2B,Grande,2024-01-27
+1805,Renata Silva,BA,Feira de Santana,Nordeste,B2B,Pequeno,2025-01-25
+1806,André Carvalho,DF,Brasília,Centro-Oeste,B2C,Médio,2023-01-11
+1807,Fernanda Costa,SP,Campinas,Sudeste,B2C,Médio,2023-04-18
+1808,Bruno Oliveira,MG,Contagem,Sudeste,B2B,Médio,2024-06-15
+1809,André Carvalho,PR,Curitiba,Sul,B2B,Grande,2023-03-30
+1810,Mariana Costa,RS,Caxias do Sul,Sul,B2B,Médio,2023-08-15
+1811,Larissa Silva,MG,Contagem,Sudeste,B2B,Médio,2023-04-09
+1812,Camila Carvalho,SC,Florianópolis,Sul,B2C,Médio,2024-09-15
+1813,Larissa Oliveira,PA,Marabá,Norte,B2B,Médio,2023-06-03
+1814,Larissa Santos,PR,Curitiba,Sul,B2B,Pequeno,2024-06-24
+1815,Aline Ribeiro,DF,Brasília,Centro-Oeste,B2C,Grande,2024-11-05
+1816,Thiago Oliveira,CE,Fortaleza,Nordeste,B2B,Grande,2025-02-16
+1817,Aline Silva,DF,Brasília,Centro-Oeste,B2B,Pequeno,2024-07-06
+1818,Rafael Silva,RS,Pelotas,Sul,B2B,Pequeno,2023-12-15
+1819,André Carvalho,SP,São Paulo,Sudeste,B2C,Grande,2023-10-10
+1820,André Silva,DF,Brasília,Centro-Oeste,B2B,Médio,2025-08-01
+1821,Beatriz Gomes,PE,Olinda,Nordeste,B2C,Médio,2023-09-03
+1822,Lucas Costa,CE,Fortaleza,Nordeste,B2C,Grande,2023-09-16
+1823,Amanda Santos,MG,Belo Horizonte,Sudeste,B2B,Médio,2024-10-15
+1824,João Costa,BA,Ilhéus,Nordeste,B2B,Pequeno,2023-10-31
+1825,Bruno Costa,RJ,Campos dos Goytacazes,Sudeste,B2B,Médio,2025-04-26
+1826,Mateus Silva,PE,Petrolina,Nordeste,B2B,Médio,2025-07-04
+1827,João Carvalho,MS,Três Lagoas,Centro-Oeste,B2C,Médio,2023-09-08
+1828,João Souza,CE,Fortaleza,Nordeste,B2B,Grande,2025-12-04
+1829,Beatriz Costa,BA,Vitória da Conquista,Nordeste,B2B,Pequeno,2025-12-16
+1830,Rafael Costa,BA,Salvador,Nordeste,B2B,Médio,2024-05-07
+1831,Fernanda Carvalho,PR,Foz do Iguaçu,Sul,B2C,Grande,2025-09-05
+1832,Pedro Costa,CE,Sobral,Nordeste,B2B,Médio,2025-09-30
+1833,Thiago Costa,SP,Campinas,Sudeste,B2B,Pequeno,2024-07-28
+1834,João Oliveira,SC,Joinville,Sul,B2C,Médio,2024-10-21
+1835,Juliana Gomes,RS,Porto Alegre,Sul,B2C,Pequeno,2025-09-15
+1836,Mariana Oliveira,MS,Três Lagoas,Centro-Oeste,B2B,Médio,2024-04-07
+1837,Renata Carvalho,RS,Pelotas,Sul,B2B,Pequeno,2023-07-08
+1838,Camila Santos,MG,Belo Horizonte,Sudeste,B2B,Médio,2024-06-24
+1839,Larissa Oliveira,MG,Belo Horizonte,Sudeste,B2B,Pequeno,2024-08-29
+1840,  FERNANDA PEREIRA ,RS,Santa Maria,Sul,B2B,Médio,2023-06-19
+1841,Thiago Oliveira,DF,Brasília,Centro-Oeste,B2C,Médio,2024-12-23
+1842,Bruno Silva,SP,Ribeirão Preto,Sudeste,B2C,Grande,2024-05-11
+1843,Larissa Almeida,MT,Rondonópolis,Centro-Oeste,B2B,Grande,2024-02-26
+1844,Larissa Silva,DF,Brasília,Centro-Oeste,B2B,Pequeno,2023-06-09
+1845,Bruno Carvalho,PA,Santarém,Norte,B2C,Médio,2023-06-03
+1846,Mariana Carvalho,DF,Brasília,Centro-Oeste,B2B,Pequeno,2025-10-09
+1847,André Carvalho,RJ,Rio de Janeiro,Sudeste,B2B,Grande,2023-05-04
+1848,Pedro Gomes,GO,Goiânia,Centro-Oeste,B2B,Pequeno,2024-03-11
+1849,João Costa,SC,Joinville,Sul,B2B,Pequeno,2023-01-27
+1850,Rafael Santos,RJ,Niterói,Sudeste,B2B,Grande,2024-03-18
+1851,Camila Costa,PR,Foz do Iguaçu,Sul,B2C,Médio,2025-08-16
+1852,Bruno Souza,GO,Aparecida de Goiânia,Centro-Oeste,B2B,Pequeno,2025-02-27
+1853,Mariana Gomes,GO,Rio Verde,Centro-Oeste,B2B,Grande,2024-01-20
+1854,Lucas Pereira,CE,Juazeiro do Norte,Nordeste,B2B,Médio,2025-09-25
+1855,Carlos Santos,SP,São Paulo,Sudeste,B2C,Grande,2023-08-03
+1856,Rafael Costa,SP,Santos,Sudeste,B2C,Pequeno,2024-11-28
+1857,Felipe Souza,GO,Aparecida de Goiânia,Centro-Oeste,B2C,Médio,2024-03-03
+1858,Lucas Silva,pa,Ananindeua,Norte,B2C,Médio,2025-12-16
+1859,Fernanda Gomes,DF,Brasília,Centro-Oeste,B2B,Grande,2025-11-18
+1860,Juliana Oliveira,CE,Juazeiro do Norte,Nordeste,B2C,Grande,2024-10-03
+1861,Juliana Gomes,SC,Blumenau,Sul,B2B,Grande,2024-09-30
+1862,Fernanda Costa,GO,Goiânia,Centro-Oeste,B2B,Médio,2025-07-18
+1863,Renata Almeida,PE,Caruaru,Nordeste,B2C,Médio,2023-11-12
+1864,Pedro Gomes,MG,Uberlândia,Sudeste,B2C,Pequeno,2025-10-30
+1865,Larissa Santos,MG,Contagem,Sudeste,B2C,Médio,2023-08-05
+1866,Bruno Gomes,RJ,Campos dos Goytacazes,Sudeste,B2C,Pequeno,2023-09-24
+1867,Rafael Silva,PR,Foz do Iguaçu,Sul,B2C,Grande,2024-03-24
+1868,Thiago Silva,ES,Cariacica,Sudeste,B2B,Grande,2025-01-14
+1869,Mariana Pereira,ES,Serra,Sudeste,B2C,Médio,2025-02-28
+1870,Pedro Souza,MG,Contagem,Sudeste,B2C,Grande,2025-07-15
+1871,Mariana Oliveira,MT,Cuiabá,Centro-Oeste,B2C,Grande,2025-11-17
+1872,Fernanda Oliveira,BA,Ilhéus,Nordeste,B2B,Médio,2024-02-20
+1873,Rafael Ribeiro,RJ,Petrópolis,Sudeste,B2C,Pequeno,2025-03-30
+1874,Rafael Costa,ES,Vila Velha,Sudeste,B2B,Médio,2024-01-20
+1875,Amanda Carvalho,MG,Contagem,Sudeste,B2C,Pequeno,2023-05-21
+1876,Aline Silva,PR,Foz do Iguaçu,Sul,B2C,Médio,2024-07-23
+1877,Juliana Oliveira,ES,Vitória,Sudeste,B2B,Médio,2025-05-16
+1878,Amanda Almeida,DF,Brasília,Centro-Oeste,B2C,Grande,2023-12-03
+1879,Bruno Silva,DF,Brasília,Centro-Oeste,B2B,Médio,2024-09-21
+1880,Pedro Costa,SP,Ribeirão Preto,Sudeste,B2B,Médio,2023-07-29
+1881,Carlos Santos,PA,Santarém,Norte,B2B,Pequeno,2023-10-29
+1882,Juliana Ribeiro,SP,Campinas,Sudeste,B2C,Grande,2025-08-02
+1883,Renata Pereira,SC,Chapecó,Sul,B2C,Pequeno,2023-08-08
+1884,Thiago Pereira,GO,Goiânia,Centro-Oeste,B2C,Pequeno,2023-08-14
+1885,André Souza,PE,Caruaru,Nordeste,B2B,Grande,2024-05-07
+1886,Mateus Almeida,SP,Ribeirão Preto,Sudeste,B2C,Grande,2023-02-03
+1887,Larissa Ribeiro,MS,Corumbá,Centro-Oeste,B2B,Grande,2025-08-01
+1888,Aline Oliveira,ES,Vitória,Sudeste,B2C,Médio,2024-01-19
+1889,Mateus Costa,MT,Sinop,Centro-Oeste,B2B,Grande,2024-06-30
+1890,Lucas Almeida,CE,Sobral,Nordeste,B2B,Grande,2023-02-28
+1891,Rafael Pereira,MG,Uberlândia,Sudeste,B2B,Grande,2025-09-02
+1892,Amanda Gomes,CE,Juazeiro do Norte,Nordeste,B2C,Pequeno,2025-12-23
+1893,Carlos Souza,MS,Três Lagoas,Centro-Oeste,B2B,Pequeno,2025-07-16
+1894,Lucas Santos,PR,Londrina,Sul,B2B,Médio,2024-12-21
+1895,Bruno Pereira,SP,Ribeirão Preto,Sudeste,B2B,Pequeno,2024-06-27
+1896,Rafael Gomes,PE,Caruaru,Nordeste,B2B,Médio,2023-08-31
+1897,Pedro Pereira,PR,Curitiba,Sul,B2B,Pequeno,2023-06-22
+1898,Fernanda Gomes,BA,Salvador,Nordeste,B2B,Grande,2024-12-26
+1899,Aline Pereira,BA,Salvador,Nordeste,B2C,Pequeno,2025-06-02
+1900,Rafael Ribeiro,CE,Fortaleza,Nordeste,B2C,Médio,2024-03-10
+1901,Fernanda Oliveira,GO,Aparecida de Goiânia,Centro-Oeste,B2B,Pequeno,2023-11-05
+1902,Camila Almeida,RJ,Campos dos Goytacazes,Sudeste,B2C,Grande,2025-03-23
+1903,Camila Oliveira,GO,Goiânia,Centro-Oeste,B2C,Médio,2025-10-25
+1904,Patrícia Silva,ES,Cariacica,Sudeste,B2B,Grande,2025-06-01
+1905,Felipe Gomes,MS,Três Lagoas,Centro-Oeste,B2B,Grande,2025-11-06
+1906,Patrícia Pereira,DF,Brasília,Centro-Oeste,B2B,Médio,2024-11-14
+1907,André Pereira,SC,Blumenau,Sul,B2C,Grande,2023-04-19
+1908,Larissa Silva,GO,Goiânia,Centro-Oeste,B2B,Grande,2025-06-22
+1909,João Souza,PA,Belém,Norte,B2C,Pequeno,2024-07-12
+1910,Rafael Costa,SC,Florianópolis,Sul,B2B,Grande,2025-01-27
+1911,Renata Almeida,MS,Corumbá,Centro-Oeste,B2C,Grande,2023-07-20
+1912,Larissa Santos,SC,Joinville,Sul,B2B,Grande,2023-04-11
+1913,Renata Silva,PE,Olinda,Nordeste,B2B,Grande,2025-02-22
+1914,Fernanda Ribeiro,SP,Ribeirão Preto,Sudeste,B2C,Médio,2025-05-15
+1915,Juliana Ribeiro,PE,Recife,Nordeste,B2C,Pequeno,2024-02-02
+1916,Aline Carvalho,SC,Florianópolis,Sul,B2C,Grande,2024-08-25
+1917,André Gomes,PR,Foz do Iguaçu,Sul,B2C,Grande,2024-01-23
+1918,Thiago Souza,BA,Vitória da Conquista,Nordeste,B2C,Médio,2025-04-04
+1919,Fernanda Silva,SC,Blumenau,Sul,B2C,Grande,2023-12-28
+1920,Beatriz Carvalho,PE,Petrolina,Nordeste,B2B,Médio,2024-07-19
+1921,Beatriz Carvalho,MT,Sinop,Centro-Oeste,B2C,Pequeno,2025-12-20
+1922,Amanda Oliveira,MS,Três Lagoas,Centro-Oeste,B2B,Pequeno,2025-10-07
+1923,Pedro Gomes,PR,Maringá,Sul,B2B,Grande,2025-11-28
+1924,Bruno Oliveira,PE,Olinda,Nordeste,B2C,Grande,2025-06-06
+1925,Carlos Santos,GO,Anápolis,Centro-Oeste,B2B,Grande,2023-08-12
+1926,João Silva,MG,Uberlândia,Sudeste,B2C,Médio,2023-04-13
+1927,Juliana Souza,CE,Fortaleza,Nordeste,B2C,Grande,2024-05-24
+1928,Juliana Santos,RJ,Petrópolis,Sudeste,B2B,Grande,2023-08-16
+1929,João Carvalho,DF,Brasília,Centro-Oeste,B2B,Pequeno,2024-03-25
+1930,Felipe Costa,PE,Petrolina,Nordeste,B2C,Grande,2023-08-24
+1931,Rafael Souza,PA,Belém,Norte,B2C,Pequeno,2023-04-19
+1932,Fernanda Ribeiro,RJ,Rio de Janeiro,Sudeste,B2B,Grande,2023-03-15
+1933,Fernanda Ribeiro,MS,Corumbá,Centro-Oeste,B2B,Pequeno,2024-06-29
+1934,Mariana Pereira,MT,Cuiabá,Centro-Oeste,B2B,Grande,2024-05-03
+1935,Beatriz Gomes,RS,Porto Alegre,Sul,B2B,Pequeno,2023-05-15
+1936,Lucas Carvalho,PE,Olinda,Nordeste,B2C,Médio,2025-12-25
+1937,Larissa Ribeiro,MG, Contagem ,Sudeste,B2C,Pequeno,2023-07-26
+1938,Juliana Souza,RJ, campos dos goytacazes ,Sudeste,B2C,Pequeno,2024-07-18
+1939,Juliana Oliveira,DF,Brasília,Centro-Oeste,B2C,Pequeno,2024-04-08
+1940,João Carvalho,SC,Chapecó,Sul,B2B,Grande,2025-04-08
+1941,Larissa Carvalho,PE,Caruaru,Nordeste,B2B,Grande,2025-03-13
+1942,Pedro Souza,SP,Santos,Sudeste,B2C,Grande,2025-03-15
+1943,Larissa Souza,MT,Sinop,Centro-Oeste,B2C,Médio,2023-07-27
+1944,Thiago Ribeiro,MS,Três Lagoas,Centro-Oeste,B2C,Médio,2024-03-26
+1945,Camila Almeida,CE,Fortaleza,Nordeste,B2C,Pequeno,2024-07-03
+1946,Felipe Almeida,MG,Uberlândia,Sudeste,B2C,Médio,2025-10-11
+1947,Aline Carvalho,ES,Vila Velha,Sudeste,B2C,Pequeno,2024-02-26
+1948,Amanda Gomes,ES,Vitória,Sudeste,B2C,Pequeno,2023-12-17
+1949,Mateus Oliveira,PA,Santarém,Norte,B2C,Pequeno,2024-02-21
+1950,Felipe Almeida,RJ,Rio de Janeiro,Sudeste,B2C,Médio,2024-12-12
+1951,João Carvalho,MG,Belo Horizonte,Sudeste,B2B,Grande,2024-08-12
+1952,Amanda Almeida,PR,Londrina,Sul,B2C,Médio,2024-08-12
+1953,Mateus Almeida,DF,Brasília,Centro-Oeste,B2B,Pequeno,2023-01-07
+1954,Mariana Santos,CE,Juazeiro do Norte,Nordeste,B2B,Pequeno,2023-07-13
+1955,Mateus Gomes,SC,Chapecó,Sul,B2C,Médio,2024-01-15
+1956,Felipe Costa,PE,Olinda,Nordeste,B2C,Pequeno,2025-10-27
+1957,Lucas Costa,PE,Olinda,Nordeste,B2B,Pequeno,2025-09-03
+1958,Thiago Pereira,ES,Cariacica,Sudeste,B2B,Médio,2024-09-17
+1959,Felipe Gomes,PE,Olinda,Nordeste,B2C,Médio,2024-05-03
+1960,Pedro Santos,MS,Campo Grande,Centro-Oeste,B2B,Médio,2023-12-15
+1961,João Pereira,CE,Sobral,Nordeste,B2C,Pequeno,2024-10-07
+1962,Patrícia Costa,SP,Ribeirão Preto,Sudeste,B2C,Pequeno,2023-05-23
+1963,Felipe Almeida,RS,Caxias do Sul,Sul,B2C,Grande,2023-12-08
+1964,Amanda Souza,PA,Ananindeua,Norte,B2B,Grande,2024-01-19
+1965,Carlos Gomes,BA,Ilhéus,Nordeste,B2B,Médio,2024-11-11
+1966,Carlos Almeida,GO,Goiânia,Centro-Oeste,B2C,Grande,2025-07-21
+1967,Aline Ribeiro,PA,Belém,Norte,B2B,Pequeno,2023-10-18
+1968,Camila Silva,RJ,Niterói,Sudeste,B2B,Grande,2023-01-27
+1969,Beatriz Oliveira,SP,Campinas,Sudeste,B2B,Pequeno,2025-08-29
+1970,Rafael Pereira,PA,Ananindeua,Norte,B2B,Médio,2025-05-26
+1971,Beatriz Almeida,SC,Chapecó,Sul,B2B,Médio,2024-11-15
+1972,João Ribeiro,ES,Cariacica,Sudeste,B2B,Pequeno,2023-02-12
+1973,Larissa Silva,MT,Cuiabá,Centro-Oeste,B2B,Grande,2023-12-30
+1974,Bruno Santos,RJ,Campos dos Goytacazes,Sudeste,B2C,Médio,2024-06-24
+1975,Carlos Silva,PE,Olinda,Nordeste,B2B,Médio,2023-06-07
+1976,André Silva,MG,Uberlândia,Sudeste,B2B,Grande,2023-12-16
+1977,Patrícia Silva,SC,Blumenau,Sul,B2B,Grande,2023-01-20
+1978,Camila Santos,RJ,Campos dos Goytacazes,Sudeste,B2B,Pequeno,2024-12-22
+1979,Felipe Costa,MT,Cuiabá,Centro-Oeste,B2B,Grande,2025-08-28
+1980,Patrícia Ribeiro,DF,Brasília,Centro-Oeste,B2B,Grande,2023-01-03
+1981,Fernanda Souza,PE,Recife,Nordeste,B2B,Grande,2025-09-27
+1982,Lucas Santos,PA,Belém,Norte,B2B,Pequeno,2024-05-21
+1983,Camila Gomes,PA,Ananindeua,Norte,B2C,Pequeno,2025-08-25
+1984,Amanda Gomes,RJ,Campos dos Goytacazes,Sudeste,B2B,Médio,2023-08-13
+1985,Bruno Gomes,MG,Contagem,Sudeste,B2B,Pequeno,2023-04-03
+1986,Larissa Ribeiro,DF,Brasília,Centro-Oeste,B2B,Médio,2023-02-05
+1987,Camila Costa,PE,Recife,Nordeste,B2B,Grande,2024-08-18
+1988,Bruno Pereira,MT,Sinop,Centro-Oeste,B2C,Médio,2024-04-12
+1989,Rafael Pereira,RS, santa maria ,Sul,B2C,Médio,2025-12-11
+1990,Lucas Almeida,PA,Ananindeua,Norte,B2C,Grande,2025-10-27
+1991,Mateus Oliveira,MT,Sinop,Centro-Oeste,B2C,Médio,2023-12-09
+1992,Larissa Santos,SP,Campinas,Sudeste,B2C,Pequeno,2023-10-28
+1993,André Santos,PA,Belém,Norte,B2C,Pequeno,2023-07-12
+1994,Carlos Pereira,MT,Cuiabá,Centro-Oeste,B2C,Pequeno,2023-07-24
+1995,Juliana Ribeiro,PR,Foz do Iguaçu,Sul,B2C,Pequeno,2024-09-15
+1996,Lucas Silva,ES,Serra,Sudeste,B2C,Médio,2024-11-18
+1997,Aline Oliveira,GO,Goiânia,Centro-Oeste,B2C,Médio,2025-07-15
+1998,Bruno Carvalho,CE,Sobral,Nordeste,B2C,Grande,2025-10-01
+1999,Lucas Santos,ES,Cariacica,Sudeste,B2C,Médio,2024-12-19
+2000,Felipe Carvalho,MS,Corumbá,Centro-Oeste,B2C,Médio,2024-06-11
+2001,Thiago Pereira,GO,Goiânia,Centro-Oeste,B2C,Médio,2025-09-23
+2002,Juliana Almeida,SC,Chapecó,sul,B2C,Grande,2024-06-03
+2003,Camila Gomes,MT,Rondonópolis,Centro-Oeste,B2C,Pequeno,2025-01-16
+2004,Felipe Santos,GO,Aparecida de Goiânia,Centro-Oeste,B2B,Médio,2025-07-28
+2005,Patrícia Pereira,MS,Corumbá,Centro-Oeste,B2C,Grande,2023-01-28
+2006,Beatriz Carvalho,PE,Recife,Nordeste,B2B,Grande,2024-12-23
+2007,Fernanda Carvalho,RS,Caxias do Sul,Sul,B2C,Grande,2024-09-08
+2008,Pedro Silva,PR,Maringá,Sul,B2C,Pequeno,2024-11-14
+2009,Beatriz Costa,SP,Campinas,Sudeste,B2B,Médio,2025-11-26
+2010,Renata Carvalho,MT,Sinop,Centro-Oeste,B2C,Grande,2025-09-18
+2011,Amanda Pereira,SP,Santos,Sudeste,B2B,Pequeno,2023-08-19
+2012,Thiago Souza,MG,Contagem,Sudeste,B2B,Grande,2024-07-06
+2013,Aline Souza,PA,Santarém,Norte,B2B,Grande,2025-11-29
+2014,Mariana Pereira,MT,Várzea Grande,Centro-Oeste,B2C,Grande,2023-02-12
+2015,Mariana Pereira,CE,Sobral,Nordeste,B2C,Grande,2023-10-30
+2016,Felipe Pereira,MT,Sinop,Centro-Oeste,B2C,Grande,2025-04-20
+2017,Carlos Oliveira,RJ,Niterói,Sudeste,B2B,Pequeno,2024-03-27
+2018,Beatriz Santos,RS,Pelotas,Sul,B2B,Médio,2023-10-18
+2019,Mateus Carvalho,RJ,Campos dos Goytacazes,Sudeste,B2C,Médio,2025-01-01
+2020,Fernanda Costa,MT,Sinop,Centro-Oeste,B2C,Médio,2025-10-16
+2021,João Silva,PR,Maringá,Sul,B2C,Médio,2023-03-05
+2022,Aline Pereira,GO,Aparecida de Goiânia,Centro-Oeste,B2C,Pequeno,2024-05-15
+2023,Felipe Almeida,SP,Campinas,Sudeste,B2C,Pequeno,2025-06-01
+2024,Fernanda Almeida,PR,Londrina,Sul,B2B,Pequeno,2025-01-06
+2025,Mateus Carvalho,MT,Rondonópolis,Centro-Oeste,B2B,Grande,2024-02-27
+2026,Larissa Santos,MS,Campo Grande,Centro-Oeste,B2B,Grande,2023-07-02
+2027,Mariana Santos,GO,Aparecida de Goiânia,Centro-Oeste,B2C,Grande,2024-02-01
+2028,Renata Gomes,MS,Dourados,Centro-Oeste,B2B,Médio,2025-02-12
+2029,Camila Ribeiro,SP,Campinas,Sudeste,B2B,Grande,2023-08-10
+2030,Thiago Oliveira,GO,Anápolis,Centro-Oeste,B2B,Médio,2024-07-14
+2031,Renata Oliveira,CE,Juazeiro do Norte,Nordeste,B2B,Grande,2025-07-09
+2032,Thiago Souza,RS,Santa Maria,Sul,B2B,Médio,2025-12-15
+2033,Aline Oliveira,ES,Vitória,Sudeste,B2C,Grande,2023-12-25
+2034,Felipe Ribeiro,DF,Brasília,Centro-Oeste,B2B,Grande,2024-06-27
+2035,Bruno Costa,SC,Chapecó,Sul,B2C,Pequeno,2024-12-15
+2036,Rafael Santos,PR,Maringá,Sul,B2C,Grande,2024-11-09
+2037,Camila Santos,PA,Santarém,Norte,B2C,Grande,2025-03-11
+2038,Thiago Almeida,PR,Londrina,Sul,B2C,Pequeno,2025-05-04
+2039,Mariana Costa,DF,Brasília,Centro-Oeste,B2C,Médio,2024-07-19
+2040,Felipe Carvalho,ES,Vitória,Sudeste,B2B,Pequeno,2024-09-25
+2041,Thiago Gomes,BA,Vitória da Conquista,Nordeste,B2B,Pequeno,2024-01-26
+2042,Pedro Gomes,PE,Caruaru,Nordeste,B2C,Médio,2023-03-26
+2043,Mateus Carvalho,CE,Sobral,Nordeste,B2C,Grande,2025-12-01
+2044,Larissa Carvalho,MS,Dourados,Centro-Oeste,B2C,Médio,2024-12-04
+2045,Rafael Gomes,MT,Várzea Grande,Centro-Oeste,B2B,Grande,2023-09-09
+2046,Carlos Ribeiro,CE,Fortaleza,Nordeste,B2C,Grande,2025-06-06
+2047,Pedro Almeida,DF,Brasília,Centro-Oeste,B2B,Médio,2025-07-20
+2048,Beatriz Pereira,MT,Rondonópolis,Centro-Oeste,B2C,Pequeno,2024-12-11
+2049,Juliana Silva,PA,Ananindeua,Norte,B2B,Médio,2024-08-13
+2050,João Oliveira,RJ,Rio de Janeiro,Sudeste,B2C,Grande,2023-08-14
+2051,Carlos Costa,GO,Anápolis,Centro-Oeste,B2B,Médio,2023-01-18
+2052,Juliana Carvalho,PE,Recife,Nordeste,B2C,Médio,2025-10-18
+2053,Patrícia Oliveira,RS,Caxias do Sul,Sul,B2B,Grande,2023-10-29
+2054,Mariana Oliveira,RS,Santa Maria,Sul,B2B,Pequeno,2025-08-13
+2055,Rafael Gomes,DF,Brasília,Centro-Oeste,B2B,Médio,2023-11-04
+2056,Mariana Oliveira,CE,Sobral,Nordeste,B2B,Grande,2025-12-07
+2057,Mariana Silva,RS,Pelotas,Sul,B2B,Grande,2024-08-16
+2058,Lucas Gomes,PA,Belém,Norte,B2B,Médio,2023-11-30
+2059,Felipe Santos,MS,Três Lagoas,Centro-Oeste,B2B,Pequeno,2024-09-13
+2060,Bruno Carvalho,BA,Feira de Santana,Nordeste,B2C,Médio,2025-09-24
+2061,Bruno Gomes,PR,Curitiba,Sul,B2C,Pequeno,2024-08-13
+2062,Rafael Oliveira,MG,Belo Horizonte,Sudeste,B2C,Pequeno,2023-05-13
+2063,Amanda Almeida,PA,Ananindeua,Norte,B2C,Pequeno,2024-08-26
+2064,Juliana Almeida,MT,Sinop,Centro-Oeste,B2C,Pequeno,2023-02-01
+2065,Juliana Gomes,SC,Florianópolis,Sul,B2B,Médio,2025-07-18
+2066,Fernanda Silva,DF,Brasília,Centro-Oeste,B2B,Grande,2023-03-25
+2067,Mateus Ribeiro,RJ,Rio de Janeiro,Sudeste,B2B,Grande,2024-03-21
+2068,Carlos Costa,GO,Goiânia,Centro-Oeste,B2B,Grande,2024-08-02
+2069,Lucas Costa,SC,Florianópolis,Sul,B2B,Grande,2023-09-10
+2070,  beatriz santos ,GO,Anápolis,Centro-Oeste,B2C,Grande,2023-04-19
+2071,Lucas Silva,SP,São Paulo,Sudeste,B2C,Grande,2025-09-27
+2072,André Santos,SC,Joinville,Sul,B2C,Médio,2024-09-18
+2073,Camila Pereira,MG,Juiz de Fora,Sudeste,B2C,Pequeno,2023-01-11
+2074,João Souza,CE,Juazeiro do Norte,Nordeste,B2B,Grande,2025-05-31
+2075,Fernanda Ribeiro,BA,Vitória da Conquista,Nordeste,B2B,Médio,2024-12-22
+2076,Larissa Pereira,PR,Foz do Iguaçu,Sul,B2B,Grande,2023-01-02
+2077,Bruno Souza,PR,Foz do Iguaçu,Sul,B2C,Grande,2023-04-13
+2078,Mateus Pereira,BA,Salvador,Nordeste,B2B,Pequeno,2024-05-29
+2079,Thiago Gomes,MS,Dourados,Centro-Oeste,B2C,Pequeno,2023-10-10
+2080,Beatriz Carvalho,PE,Caruaru,Nordeeste,B2B,Pequeno,2024-12-18
+2081,Beatriz Costa,SP,Santos,Sudeste,B2B,Grande,2024-08-03
+2082,Juliana Oliveira,GO,Anápolis,Centro-Oeste,B2C,Grande,2025-10-25
+2083,Mariana Gomes,MG,Belo Horizonte,Sudeste,B2B,Grande,2023-11-14
+2084,Camila Santos,RS,Caxias do Sul,Sul,B2B,Pequeno,2023-06-26
+2085,Bruno Almeida,SC,Chapecó,Sul,B2C,Médio,2024-07-08
+2086,Lucas Santos,SP,Ribeirão Preto,Sudeste,B2B,Grande,2023-10-20
+2087,André Oliveira,PA,Belém,Norte,B2C,Grande,2024-02-07
+2088,Carlos Silva,DF,Brasília,Centro-Oeste,B2B,Grande,2025-06-03
+2089,Larissa Ribeiro,SC,Chapecó,Sul,B2B,Médio,2023-06-15
+2090,Bruno Souza,MG,Juiz de Fora,Sudeste,B2B,Grande,2024-08-18
+2091,Camila Silva,RJ,Petrópolis,Sudeste,B2B,Médio,2024-03-24
+2092,Fernanda Pereira,RJ,Niterói,Sudeste,B2B,Grande,2023-03-07
+2093,Renata Carvalho,MT,Cuiabá,Centro-Oeste,B2B,Médio,2025-08-27
+2094,Mateus Carvalho,SP,Santos,Sudeste,B2B,Grande,2024-12-27
+2095,Mateus Souza,CE,Sobral,Nordeste,B2B,Pequeno,2024-05-24
+2096,Lucas Silva,MG,Contagem,Sudeste,B2C,Pequeno,2025-03-02
+2097,Pedro Almeida,MG,Juiz de Fora,Sudeste,B2C,Pequeno,2025-05-15
+2098,Patrícia Almeida,BA,Feira de Santana,Nordeste,B2B,Pequeno,2025-03-28
+2099,Pedro Ribeiro,PA,Santarém,Norte,B2B,Grande,2023-07-20
+2100,Felipe Gomes,CE,Crato,Nordeste,B2C,Pequeno,2024-06-19
+2101,João Santos,PA,Santarém,Norte,B2B,Médio,2024-09-10
+2102,Lucas Pereira,MS,Dourados,Centro-Oeste,B2B,Pequeno,2024-09-28
+2103,Juliana Souza,GO,Aparecida de Goiânia,Centro-Oeste,B2C,Pequeno,2023-12-21
+2104,Beatriz Pereira,GO,Aparecida de Goiânia,Centro-Oeste,B2B,Pequeno,2025-06-11
+2105,Amanda Carvalho,RS,Santa Maria,Sul,B2B,Grande,2024-10-22
+2106,João Almeida,MT, Sinop ,Centro-Oeste,B2C,Pequeno,2023-10-13
+2107,Pedro Ribeiro,PR,Maringá,Sul,B2B,Médio,2024-02-13
+2108,Amanda Souza,RJ,Rio de Janeiro,Sudeste,B2B,Pequeno,2024-05-27
+2109,Thiago Souza,DF,Brasília,Centro-Oeste,B2C,Pequeno,2023-10-05
+2110,Pedro Gomes,GO,Anápolis,Centro-Oeste,B2B,Pequeno,2025-05-02
+2111,Carlos Carvalho,CE,Fortaleza,Nordeste,B2C,Médio,2024-02-13
+2112,Carlos Pereira,MG,Belo Horizonte,Sudeste,B2B,Pequeno,2024-09-08
+2113,Beatriz Santos,DF,Brasília,Centro-Oeste,B2B,Médio,2024-09-16
+2114,Camila Almeida,ES,Serra,Sudeste,B2C,Médio,2023-06-25
+2115,Thiago Oliveira,PA,Marabá,Norte,B2C,Pequeno,2024-08-31
+2116,Mateus Ribeiro,GO,Aparecida de Goiânia,Centro-Oeste,B2B,Médio,2025-08-02
+2117,Aline Santos,MG,Uberlândia,Sudeste,B2C,Grande,2024-01-11
+2118,Aline Costa,GO,Aparecida de Goiânia,Centro-Oeste,B2C,Pequeno,2025-02-08
+2119,André Silva,RJ,Rio de Janeiro,Sudeste,B2B,Pequeno,2025-06-13
+2120,Lucas Souza,ES,Cariacica,Sudeste,B2B,Médio,2023-07-16
+2121,Pedro Carvalho,SC,Florianópolis,Sul,B2B,Médio,2023-10-11
+2122,Aline Oliveira,GO,Anápolis,Centro-Oeste,B2C,Pequeno,2025-12-14
+2123,Rafael Ribeiro,MS,Campo Grande,Centro-Oeste,B2C,Grande,2025-06-24
+2124,Rafael Souza,CE,Sobral,Nordeste,B2C,Médio,2024-10-03
+2125,Felipe Santos,GO,Aparecida de Goiânia,Centro-Oeste,B2C,Médio,2025-10-28
+2126,Patrícia Pereira,PR,Foz do Iguaçu,Sul,B2B,Grande,2025-01-02
+2127,Felipe Gomes,DF,Brasília,Centro-Oeste,B2C,Grande,2025-08-17
+2128,Mateus Souza,DF,Brasília,Centro-Oeste,B2B,Pequeno,2024-12-26
+2129,Bruno Silva,RJ,Petrópolis,Sudeste,B2C,Grande,2025-05-25
+2130,Thiago Costa,CE,Fortaleza,Nordeste,B2B,Pequeno,2025-08-13
+2131,Mariana Almeida,ES,Serra,Sudeste,B2B,Grande,2025-05-11
+2132,Pedro Souza,MS,Dourados,Centro-Oeste,B2B,Médio,2025-04-20
+2133,Mateus Silva,BA,Ilhéus,Nordeste,B2C,Pequeno,2025-08-02
+2134,João Oliveira,CE,Crato,Nordeste,B2B,Pequeno,2023-02-26
+2135,Mariana Costa,DF,Brasília,Centro-Oeste,B2B,Pequeno,2023-02-24
+2136,Patrícia Carvalho,PR,Foz do Iguaçu,Sul,B2C,Grande,2025-05-12
+2137,Felipe Souza,SC,Blumenau,Sul,B2B,Médio,2023-07-01
+2138,Camila Costa,RJ,Campos dos Goytacazes,Sudeste,B2C,Pequeno,2023-10-15
+2139,Bruno Souza,BA,Feira de Santana,Nordeste,B2C,Pequeno,2024-09-11
+2140,Fernanda Almeida,PR,Maringá,Sul,B2B,Pequeno,2024-05-11
+2141,Patrícia Pereira,ES,Vitória,Sudeste,B2B,Pequeno,2025-11-14
+2142,Fernanda Gomes,PA,Belém,Norte,B2C,Médio,2025-02-03
+2143,Juliana Oliveira,ES,Serra,Sudeste,B2B,Grande,2023-09-18
+2144,Pedro Oliveira,PR,Foz do Iguaçu,Sul,B2C,Médio,2024-08-23
+2145,Mateus Oliveira,PA,Santarém,Norte,B2C,Pequeno,2023-04-20
+2146,Pedro Almeida,SP,Santos,Sudeste,B2C,Médio,2025-03-15
+2147,Larissa Gomes,RJ,Niterói,Sudeste,B2B,Pequeno,2023-09-15
+2148,Larissa Gomes,CE,Fortaleza,Nordeste,B2C,Grande,2025-04-05
+2149,Bruno Carvalho,PA,Marabá,Norte,B2B,Grande,2023-01-13
+2150,Fernanda Costa,MT,Rondonópolis,Centro-Oeste,B2B,Grande,2025-08-05
+2151,Amanda Silva,PA,Santarém,Norte,B2B,Pequeno,2025-11-26
+2152,João Gomes,MG,Belo Horizonte,Sudeste,B2B,Médio,2025-07-31
+2153,Aline Souza,SC,Florianópolis,Sul,B2C,Grande,2023-04-22
+2154,Juliana Gomes,MG,Juiz de Fora,Sudeste,B2B,Pequeno,2023-06-23
+2155,Mateus Souza,CE,Juazeiro do Norte,Nordeste,B2C,Pequeno,2023-04-23
+2156,Felipe Costa,CE,Sobral,Nordeste,B2C,Médio,2024-07-07
+2157,Lucas Ribeiro,RJ,Campos dos Goytacazes,Sudeste,B2B,Grande,2023-08-08
+2158,Larissa Carvalho,CE,Fortaleza,Nordeste,B2C,Pequeno,2024-11-13
+2159,André Costa,DF,Brasília,Centro-Oeste,B2C,Médio,2023-07-19
+2160,Beatriz Ribeiro,PA,Marabá,Norte,B2B,Grande,2024-08-18
+2161,Amanda Souza,PA,Marabá,Norte,B2C,Médio,2025-09-13
+2162,Juliana Santos,SP,Santos,Sudeste,B2C,Médio,2024-11-09
+2163,Aline Costa,BA,Salvador,Nordeste,B2C,Pequeno,2023-05-05
+2164,Fernanda Oliveira,CE,Fortaleza,Nordeste,B2C,Pequeno,2023-09-06
+2165,Renata Carvalho,MG,Belo Horizonte,Sudeste,B2B,Pequeno,2025-11-12
+2166,Mateus Silva,CE,Crato,Nordeste,B2C,Médio,2023-04-19
+2167,Bruno Ribeiro,ES,Serra,Sudeste,B2C,Pequeno,2024-02-24
+2168,Aline Gomes,SP,São Paulo,Sudeste,B2C,Médio,2025-11-23
+2169,Bruno Souza,DF,Brasília,Centro-Oeste,B2C,Médio,2023-10-23
+2170,Aline Costa,DF,Brasília,Centro-Oeste,B2B,Pequeno,2025-10-11
+2171,André Costa,GO,Anápolis,Centro-Oeste,B2C,Grande,2023-10-07
+2172,Felipe Silva,PA,Santarém,Norte,B2B,Grande,2024-04-02
+2173,Beatriz Santos,DF,Brasília,CENTRO-OESTE,B2C,Grande,2023-11-13
+2174,Renata Almeida,PA,Marabá,Norte,B2B,Médio,2024-09-08
+2175,Fernanda Santos,GO,Rio Verde,Centro-Oeste,B2B,Médio,2024-09-28
+2176,Rafael Gomes,PR,Londrina,Sul,B2B,Médio,2023-01-14
+2177,Patrícia Carvalho,SC,Chapecó,Sul,B2B,Pequeno,2025-09-20
+2178,Patrícia Souza,RS,Caxias do Sul,Sul,B2B,Médio,2024-02-16
+2179,Aline Gomes,MS,Campo Grande,Centro-Oeste,B2C,Pequeno,2023-08-23
+2180,Mariana Souza,DF,Brasília,Centro-Oeste,B2C,Pequeno,2023-05-18
+2181,Aline Silva,BA,Feira de Santana,Nordeste,B2C,Grande,2023-01-01
+2182,Pedro Almeida,ES,Serra,Sudeste,B2B,Grande,2023-11-10
+2183,Juliana Silva,PE,Petrolina,Nordeste,B2C,Grande,2023-09-05
+2184,Renata Ribeiro,PR,Curitiba,Sul,B2B,Pequeno,2025-11-30
+2185,Lucas Souza,DF,Brasília,Centro-Oeste,B2B,Pequeno,2023-07-18
+2186,Amanda Carvalho,PA,Ananindeua,Norte,B2C,Pequeno,2024-05-21
+2187,Thiago Ribeiro,SC,Chapecó,Sul,B2C,Médio,2024-02-23
+2188,Renata Santos,GO,Goiânia,Centro-Oeste,B2B,Pequeno,2023-08-01
+2189,Patrícia Costa,MG,Belo Horizonte,Sudeste,B2B,Grande,2025-08-28
+2190,Camila Silva,MS,Campo Grande,Centro-Oeste,B2C,Grande,2023-02-20
+2191,André Gomes,PE,Petrolina,Nordeste,B2C,Pequeno,2025-11-01
+2192,Mariana Ribeiro,SC,Joinville,Sul,B2C,Pequeno,2025-06-27
+2193,Amanda Carvalho,SC,Chapecó,Sul,B2C,Grande,2025-03-11
+2194,Aline Costa,DF,Brasília,Centro-Oeste,B2B,Pequeno,2023-04-24
+2195,Patrícia Souza,PR,Foz do Iguaçu,Sul,B2C,Grande,2023-09-07
+2196,Pedro Santos,MT,Cuiabá,Centro-Oeste,B2C,Médio,2024-09-06
+2197,Lucas Costa,PE,Caruaru,Nordeste,B2C,Grande,2025-04-08
+2198,Camila Pereira,MS,Corumbá,Centro-Oeste,B2B,Médio,2025-09-17
+2199,Renata Ribeiro,RJ,Campos dos Goytacazes,Sudeste,B2B,Pequeno,2024-01-12
+2200,Camila Souza,RS,Pelotas,Sul,B2B,Pequeno,2024-04-26
+2201,Mateus Oliveira,RJ,Campos dos Goytacazes,Sudeste,B2B,Médio,2024-06-17
+2202,Aline Oliveira,MT,Sinop,Centro-Oeste,B2C,Pequeno,2025-06-18
+2203,Juliana Souza,PA,Ananindeua,Norte,B2B,Médio,2023-09-10
+2204,Felipe Carvalho,PA,Ananindeua,Norte,B2C,Pequeno,2025-06-04
+2205,Carlos Santos,ES,Cariacica,Sudeste,B2C,Grande,2023-10-27
+2206,Pedro Almeida,PE,Olinda,Nordeste,B2C,Pequeno,2023-02-14
+2207,Carlos Gomes,RJ,Niterói,Sudeste,B2C,Grande,2024-01-14
+2208,Carlos Costa,PA,Santarém,Norte,B2B,Grande,2023-10-18
+2209,Pedro Almeida,MT, SINOP ,Centro-Oeste,B2B,Médio,2024-05-07
+2210,Mateus Carvalho,DF,Brasília,Centro-Oeste ,B2B,Pequeno,2023-12-16
+2211,Pedro Gomes,SP,Campinas,Sudeste,B2C,Médio,2025-11-13
+2212,Patrícia Carvalho,GO,Goiânia,Centro-Oeste,B2C,Pequeno,2024-02-15
+2213,Beatriz Oliveira,SP,Campinas,Sudeste,B2C,Grande,2025-09-02
+2214,Aline Silva,CE,Crato,Nordeste,B2C,Grande,2025-09-10
+2215,Beatriz Silva,MS,Corumbá,Centro-Oeste,B2C,Pequeno,2024-08-16
+2216,Renata Almeida,RJ,Rio de Janeiro,Sudeste,B2B,Pequeno,2024-08-15
+2217,Larissa Gomes,ES,Vila Velha,Sudeste,B2C,Médio,2023-07-24
+2218,Beatriz Oliveira,CE,Sobral,Nordeste,B2B,Pequeno,2025-10-06
+2219,Larissa Oliveira,PA,Belém,Norte,B2C,Pequeno,2025-01-22
+2220,João Souza,MG,Contagem,Sudeste,B2C,Pequeno,2024-07-17
+2221,Fernanda Carvalho,BA,Salvador,Nordeste,B2B,Médio,2025-03-12
+2222,Amanda Costa,MG,Belo Horizonte,Sudeste,B2B,Pequeno,2025-03-01
+2223,Beatriz Almeida,MT,Rondonópolis,Centro-Oeste,B2C,Grande,2023-08-08
+2224,Juliana Carvalho,PE,Caruaru,Nordeste,B2C,Médio,2025-08-08
+2225,André Pereira,SC,Florianópolis,Sul,B2C,Médio,2025-05-03
+2226,Fernanda Costa,GO,Anápolis,Centro-Oeste,B2C,Grande,2025-05-20
+2227,Thiago Gomes,RJ,Rio de Janeiro,Sudeste,B2B,Grande,2023-10-31
+2228,João Oliveira,MS,Três Lagoas,Centro-Oeste,B2C,Grande,2023-02-27
+2229,Juliana Carvalho,ES,Serra,Sudeste,B2B,Pequeno,2024-08-03
+2230,Beatriz Pereira,ES,Serra,Sudeste,B2C,Grande,2025-07-25
+2231,Renata Costa,MS,Três Lagoas,Centro-Oeste,B2B,Pequeno,2023-09-04
+2232,Renata Santos,MT,Rondonópolis,Centro-Oeste,B2B,Médio,2025-03-08
+2233,  CARLOS SANTOS ,PR,Foz do Iguaçu,Sul,B2C,Médio,2023-01-23
+2234,  AMANDA PEREIRA ,PA,Belém,Norte,B2B,Grande,2024-09-12
+2235,Camila Oliveira,BA,Feira de Santana,Nordeste,B2C,Pequeno,2023-03-11
+2236,Bruno Ribeiro,RS,Caxias do Sul,Sul,B2B,Grande,2025-06-29
+2237,Renata Costa,RS,Santa Maria,Sul,B2C,Grande,2023-03-29
+2238,Pedro Costa,RS,Porto Alegre,Sul,B2B,Pequeno,2024-12-27
+2239,Renata Gomes,RJ,Petrópolis,Sudeste,B2C,Grande,2023-10-13
+2240,Larissa Carvalho,RS,Pelotas,Sul,B2C,Médio,2025-08-16
+2241,Juliana Ribeiro,DF,Brasília,Centro-Oeste,B2B,Grande,2025-07-27
+2242,Thiago Almeida,SP,Campinas,Sudeste,B2B,Pequeno,2024-07-21
+2243,Lucas Ribeiro,ES,Cariacica,Sudeste,B2B,Pequeno,2023-01-19
+2244,Pedro Silva,BA,Salvador,Nordeste,B2B,Médio,2023-11-21
+2245,Fernanda Oliveira,SP,São Paulo,Sudeste,B2C,Pequeno,2025-01-02
+2246,Mateus Silva,SC,Blumenau,Sul,B2B,Pequeno,2025-10-22
+2247,Carlos Pereira,BA,Salvador,Nordeste,B2C,Médio,2025-10-27
+2248,Bruno Pereira,SP,São Paulo,Sudeste,B2B,Grande,2024-03-07
+2249,Felipe Oliveira,BA,Ilhéus,Nordeste,B2C,Médio,2024-12-15
+2250,Mateus Pereira,SC,Chapecó,Sul,B2C,Grande,2025-12-11
+2251,Carlos Ribeiro,CE,Sobral,Nordeste,B2C,Médio,2025-03-10
+2252,Mateus Costa,DF,Brasília,Centro-Oeste,B2C,Grande,2025-11-16
+2253,Patrícia Souza,RJ,Petrópolis,Sudeste,B2B,Médio,2023-05-09
+2254,Amanda Ribeiro,RJ,Campos dos Goytacazes,Sudeste,B2B,Grande,2023-12-24
+2255,André Ribeiro,MT,Sinop,Centro-Oeste,B2C,Médio,2023-11-07
+2256,Fernanda Santos,MS,Dourados,Centro-Oeste,B2B,Grande,2024-12-21
+2257,Beatriz Pereira,PA,Santarém,Norte,B2B,Médio,2024-11-25
+2258,Mateus Almeida,ES,Cariacica,Sudeste,B2C,Pequeno,2025-07-30
+2259,Fernanda Almeida,RS,Santa Maria,Sul,B2B,Grande,2023-10-14
+2260,Mariana Ribeiro,DF,Brasília,Centro-Oeste,B2B,Médio,2024-07-24
+2261,Mateus Silva,MG,Uberlândia,Sudeste,B2B,Grande,2024-09-12
+2262,Felipe Santos,RS,Pelotas,Sul,B2C,Grande,2025-03-17
+2263,Amanda Gomes,PA,Belém,Norte,B2B,Médio,2023-05-20
+2264,André Costa,ES,Cariacica,Sudeste,B2C,Grande,2025-09-17
+2265,Larissa Ribeiro,PE,Petrolina,Nordeste,B2B,Médio,2025-02-10
+2266,Amanda Santos,PA,Santarém,Norte,B2B,Pequeno,2025-08-24
+2267,Carlos Pereira,DF,Brasília,Centro-Oeste,B2B,Grande,2024-01-05
+2268,Patrícia Oliveira,SP,Santos,Sudeste,B2C,Pequeno,2025-11-04
+2269,Rafael Oliveira,BA,Salvador,Nordeste,B2C,Grande,2025-12-12
+2270,Bruno Ribeiro,MS,Corumbá,Centro-Oeste,B2B,Grande,2024-06-14
+2271,Pedro Almeida,MS,Três Lagoas,Centro-Oeste,B2C,Grande,2023-09-23
+2272,Mateus Almeida,MG,Belo Horizonte,Sudeste,B2B,Médio,2024-10-25
+2273,Felipe Ribeiro,DF,Brasília,Centro-Oeste,B2C,Pequeno,2024-12-13
+2274,Felipe Oliveira,SC,Florianópolis,Sul,B2C,Grande,2025-04-06
+2275,Bruno Carvalho,PE,Caruaru,Nordeste,B2B,Médio,2023-05-19
+2276,Felipe Silva,SC,Florianópolis,Sul,B2B,Grande,2023-04-03
+2277,Mariana Gomes,RJ,Rio de Janeiro,Sudeste,B2B,Médio,2023-03-02
+2278,João Silva,MT,Várzea Grande,Centro-Oeste,B2B,Grande,2023-11-22
+2279,João Costa,RJ,Rio de Janeiro,Sudeste,B2C,Pequeno,2024-04-19
+2280,Amanda Silva,PA,Santarém,Norte,B2C,Pequeno,2023-07-17
+2281,Amanda Pereira,RS,Santa Maria,Sul,B2C,Grande,2023-08-06
+2282,Aline Carvalho,Sp,São Paulo,Sudeste,B2B,Médio,2025-10-19
+2283,Renata Costa,MG,Belo Horizonte,Sudeste,B2B,Grande,2025-09-02
+2284,Rafael Costa,PA,Santarém,Norte,B2C,Médio,2024-10-24
+2285,Beatriz Santos,GO,Goiânia,Centro-Oeste,B2B,Grande,2024-04-19
+2286,Bruno Ribeiro,PE,Caruaru,Nordeste,B2C,Médio,2024-04-29
+2287,Rafael Ribeiro,MS,Dourados,Centro-Oeste,B2C,Pequeno,2023-08-04
+2288,Bruno Almeida,PE,Olinda,Nordeste,B2C,Grande,2023-12-23
+2289,Renata Ribeiro,PA,Ananindeua,Norte,B2C,Pequeno,2025-02-25
+2290,Fernanda Souza,PA,Belém,Norte,B2C,Pequeno,2025-05-10
+2291,Camila Santos,DF,Brasília,Centro-Oeste,B2B,Grande,2023-05-12
+2292,Carlos Costa,RS,Santa Maria,Sul,B2B,Grande,2023-05-07
+2293,Mariana Costa,RJ,Rio de Janeiro,Sudeste,B2B,Médio,2024-05-27
+2294,Thiago Santos,MS,Corumbá,Centro-Oeste,B2C,Médio,2023-08-23
+2295,Amanda Ribeiro,MT,Cuiabá,Centro-Oeste,B2C,Pequeno,2023-03-18
+2296,Aline Ribeiro,RS,Pelotas,Sul,B2C,Médio,2023-05-30
+2297,Lucas Souza,BA,Ilhéus,Nordeste,B2C,Médio,2025-06-23
+2298,Camila Gomes,DF,Brasília,Centro-Oeste,B2B,Grande,2025-02-05
+2299,  André Carvalho ,DF,Brasília,Centro-Oeste,B2B,Médio,2023-03-02
+2300,Amanda Santos,MG,Belo Horizonte,Sudeste,B2C,Pequeno,2023-12-23
+2301,Mateus Costa,SP,Santos,Sudeste,B2C,Médio,2024-10-19
+2302,Fernanda Souza,MT,Sinop,Centro-Oeste,B2C,Pequeno,2023-08-09
+2303,Fernanda Pereira,ES,Serra,Sudeste,B2B,Grande,2025-07-09
+2304,Renata Pereira,CE,Fortaleza,Nordeste,B2B,Pequeno,2025-02-12
+2305,Lucas Ribeiro,ES,Vitória,Sudeste,B2B,Médio,2023-09-30
+2306,Camila Ribeiro,PA,Belém,Norte,B2C,Grande,2024-02-14
+2307,Beatriz Gomes,PR,Londrina,Sul,B2C,Médio,2024-02-05
+2308,Aline Silva,MS,Três Lagoas,Centro-Oeste,B2B,Grande,2024-06-01
+2309,Thiago Santos,PR,Londrina,Sul,B2C,Grande,2025-10-02
+2310,Mariana Ribeiro,DF,Brasília,Centro-Oeste,B2B,Médio,2025-06-15
+2311,Rafael Souza,RS,Pelotas,Sul,B2C,Médio,2024-08-08
+2312,Bruno Ribeiro,BA,Salvador,Nordeste,B2B,Grande,2024-04-06
+2313,Renata Silva,MG,Uberlândia,Sudeste,B2C,Grande,2024-02-17
+2314,Rafael Santos,GO,Rio Verde,Centro-Oeste,B2B,Médio,2023-11-28
+2315,Carlos Almeida,PR,Foz do Iguaçu,Sul,B2B,Pequeno,2025-06-07
+2316,Pedro Santos,MG,Uberlândia,Sudeste,B2B,Médio,2025-12-18
+2317,Renata Almeida,DF,Brasília,Centro-Oeste,B2B,Grande,2024-01-29
+2318,Rafael Oliveira,SP,Santos,Sudeste,B2B,Médio,2023-06-26
+2319,Lucas Gomes,SC,Joinville,Sul,B2B,Pequeno,2023-02-19
+2320,Mariana Silva,ES,Vitória,Sudeste,B2C,Médio,2023-07-17
+2321,Rafael Souza,BA,Salvador,Nordeste,B2C,Grande,2024-02-21
+2322,Mateus Oliveira,MS,Três Lagoas,Centro-Oeste,B2C,Médio,2023-03-10
+2323,Felipe Ribeiro,RJ,Campos dos Goytacazes,Sudeste,B2B,Grande,2023-10-15
+2324,Rafael Carvalho,PA,Belém,Nortee,B2B,Grande,2023-01-11
+2325,André Pereira,MG,Juiz de Fora,Sudeste,B2C,Médio,2025-01-06
+2326,Juliana Almeida,SP,Campinas,Sudeste,B2B,Grande,2025-04-15
+2327,Patrícia Almeida,GO,Aparecida de Goiânia,Centro-Oeste,B2B,Grande,2023-05-28
+2328,Juliana Costa,CE,Sobral,Nordeste,B2B,Pequeno,2024-11-28
+2329,Lucas Almeida,ES,Serra,Sudeste,B2B,Pequeno,2024-01-15
+2330,Pedro Ribeiro,RJ,Campos dos Goytacazes,Sudeste,B2B,Pequeno,2025-12-17
+2331,Lucas Carvalho,MS,Campo Grande,Centro-Oeste,B2C,Pequeno,2025-10-13
+2332,Rafael Carvalho,ES,Vitória,Sudeste,B2C,Grande,2024-01-25
+2333,Mateus Souza,DF,Brasília,Centro-Oeste,B2C,Médio,2024-02-29
+2334,Camila Ribeiro,CE,Juazeiro do Norte,Nordeste,B2C,Grande,2025-08-28
+2335,Pedro Pereira,ES,Vila Velha,Sudeste,B2C,Grande,2025-10-22
+2336,Thiago Carvalho,MT,Sinop,Centro-Oeste,B2B,Grande,2024-12-22
+2337,Rafael Pereira,GO,Aparecida de Goiânia,Centro-Oeste,B2B,Médio,2024-12-31
+2338,Patrícia Almeida,SP,São Paulo,Sudeste,B2B,Pequeno,2023-10-10
+2339,Fernanda Silva,PA, MARABÁ ,Norte,B2B,Grande,2023-05-18
+2340,Aline Oliveira,PR,Curitiba,Sul,B2C,Grande,2025-06-17
+2341,Renata Santos,CE,Sobral,Nordeste,B2C,Pequeno,2025-05-25
+2342,João Almeida,MS,Corumbá,Centro-Oeste,B2C,Grande,2025-02-09
+2343,Renata Pereira,DF,Brasília,Centro-Oeste,B2B,Médio,2023-05-26
+2344,João Pereira,MT,Cuiabá,Centro-Oeste,B2C,Grande,2023-06-10
+2345,Camila Silva,RJ,Campos dos Goytacazes,Sudeste,B2B,Grande,2023-09-18
+2346,Renata Ribeiro,RS,Porto Alegre,Sul,B2C,Pequeno,2025-11-25
+2347,João Souza,PE,Petrolina,Nordeste,B2C,Grande,2024-09-02
+2348,Mateus Silva,MG,Uberlândia,Sudeste,B2B,Grande,2023-07-26
+2349,Larissa Carvalho,PA,Belém,Norte,B2B,Médio,2023-08-30
+2350,Fernanda Ribeiro,ES,Serra,Sudeste,B2C,Pequeno,2025-10-18
+2351,Renata Souza,PR,Curitiba,Sul,B2C,Pequeno,2024-04-17
+2352,Thiago Santos,CE,Juazeiro do Norte,Nordeste,B2B,Médio,2023-04-16
+2353,Camila Santos,ES,Vila Velha,Sudeste,B2C,Grande,2024-11-08
+2354,Juliana Ribeiro,SC,Blumenau,Sul,B2C,Pequeno,2023-02-16
+2355,João Oliveira,MG,Contagem,Sudeste,B2B,Pequeno,2024-04-03
+2356,Bruno Santos,RS,Santa Maria,Sul,B2C,Grande,2024-08-16
+2357,Amanda Pereira,MT,Cuiabá,Centro-Oeste,B2B,Grande,2024-05-29
+2358,Carlos Souza,MS,Dourados,Centro-Oeste,B2C,Pequeno,2025-03-10
+2359,Bruno Carvalho,GO,Anápolis,Centro-Oeste,B2B,Grande,2025-01-02
+2360,Mateus Ribeiro,MT,Rondonópolis,Centro-Oeste,B2C,Pequeno,2023-05-20
+2361,Patrícia Ribeiro,MT, Várzea Grande ,Centro-Oeste,B2B,Grande,2023-11-20
+2362,Rafael Pereira,PE,Olinda,Nordeste,B2C,Grande,2024-08-12
+2363,Rafael Pereira,SP,Ribeirão Preto,Sudeste,B2B,Médio,2023-06-03
+2364,Pedro Santos,MT,Sinop,Centro-Oeste,B2C,Grande,2025-12-30
+2365,Larissa Gomes,ES,Vitória,Sudeste,B2C,Médio,2024-05-09
+2366,Mariana Costa,RS,Porto Alegre,Sul,B2C,Grande,2025-11-26
+2367,João Santos,RS,Santa Maria,Sul,B2C,Pequeno,2025-10-21
+2368,Pedro Pereira,GO,Rio Verde,Centro-Oeste,B2C,Pequeno,2024-10-01
+2369,Amanda Souza,BA,Feira de Santana,Nordeste,B2C,Grande,2025-03-28
+2370,Carlos Costa,GO,Goiânia,Centro-Oeste,B2C,Grande,2023-04-27
+2371,Aline Gomes,ES,Vitória,Sudeste,B2C,Pequeno,2023-08-16
+2372,Mariana Carvalho,MS,Corumbá,Centro-Oeste,B2C,Grande,2025-08-22
+2373,Thiago Carvalho,BA,Vitória da Conquista,Nordeste,B2B,Médio,2024-06-22
+2374,João Carvalho,BA,Vitória da Conquista,Nordeste,B2B,Médio,2023-03-03
+2375,Larissa Costa,PR,Foz do Iguaçu,Sul,B2C,Médio,2023-03-08
+2376,Mariana Almeida,PR,Maringá,Sul,B2B,Médio,2024-11-23
+2377,Bruno Silva,RJ,Niterói,Sudeste,B2C,Médio,2025-05-13
+2378,Mariana Santos,CE,Sobral,Nordeste,B2C,Grande,2024-06-18
+2379,André Almeida,CE,Fortaleza,Nordeste,B2B,Grande,2024-02-15
+2380,Felipe Costa,DF,Brasília,Centro-Oeste,B2C,Médio,2024-11-16
+2381,João Costa,PA,Belém,Norte,B2C,Grande,2023-05-02
+2382,Aline Gomes,SP,Santos,Sudeste,B2B,Grande,2023-10-13
+2383,Patrícia Costa,CE,Fortaleza,Nordeste,B2B,Médio,2024-02-23
+2384,Thiago Gomes,PR,Foz do Iguaçu,Sul,B2C,Grande,2024-11-06
+2385,Renata Souza,RJ,Rio de Janeiro,Sudeste,B2B,Grande,2023-05-08
+2386,Bruno Carvalho,MT,Várzea Grande,Centro-Oeste,B2B,Grande,2024-04-27
+2387,Rafael Pereira,RJ,Petrópolis,Sudeste,B2C,Médio,2025-10-07
+2388,João Ribeiro,MT,Sinop,Centro-Oeste,B2B,Grande,2023-05-30
+2389,Carlos Pereira,MS,Dourados,Centro-Oeste,B2B,Pequeno,2023-03-14
+2390,Rafael Souza,MS,Três Lagoas,Centro-Oeste,B2C,Pequeno,2024-12-09
+2391,Lucas Ribeiro,BA,Vitória da Conquista,Nordeste,B2B,Médio,2023-05-25
+2392,Lucas Carvalho,DF,Brasília,Centro-Oeste,B2B,Pequeno,2025-05-02
+2393,Larissa Almeida,PA,Ananindeua,Norte,B2C,Médio,2023-06-15
+2394,Larissa Santos,GO,Rio Verde,Centro-Oeste,B2C,Pequeno,2025-09-07
+2395,Mateus Ribeiro,SP,Campinas,Sudeste,B2C,Pequeno,2023-09-23
+2396,Felipe Ribeiro,ES,Serra,Sudeste,B2B,Pequeno,2024-07-08
+2397,Renata Gomes,BA,Vitória da Conquista,Nordeste,B2C,Médio,2023-03-27
+2398,João Costa,GO,Anápolis,Centro-Oeste,B2C,Médio,2023-08-02
+2399,Fernanda Santos,CE,Crato,Nordeste,B2B,Grande,2023-03-14
+2400,Larissa Pereira,DF,Brasília,Centro-Oeste,B2C,Médio,2025-10-14
+2401,João Gomes,BA,Salvador,Nordeste,B2C,Pequeno,2025-11-05
+2402,Beatriz Ribeiro,MG,Uberlândia,Sudeste,B2C,Pequeno,2024-04-06
+2403,Rafael Almeida,CE,Fortaleza,Nordeste,B2C,Médio,2024-12-18
+2404,Camila Ribeiro,GO,Aparecida de Goiânia,Centro-Oeste,B2B,Médio,2025-06-02
+2405,Lucas Santos,SP,São Paulo,Sudeste,B2C,Médio,2025-09-05
+2406,Amanda Oliveira,ES,Vitória,Sudeste,B2C,Grande,2024-09-13
+2407,Beatriz Oliveira,GO,Anápolis,Centro-Oeste,B2B,Pequeno,2024-04-11
+2408,Patrícia Oliveira,MT,Sinop,Centro-Oeste,B2C,Grande,2023-02-13
+2409,Bruno Carvalho,MS,Corumbá,Centro-Oeste,B2B,Grande,2023-04-24
+2410,Larissa Oliveira,BA,Ilhéus,Nordeste,B2B,Pequeno,2023-02-23
+2411,Aline Costa,BA,Salvador,Nordeste,B2B,Pequeno,2024-02-06
+2412,Mateus Santos,ES,Vitória,Sudeste,B2C,Médio,2025-12-30
+2413,Aline Santos,RS,Porto Alegre,Sul,B2B,Médio,2025-02-15
+2414,Rafael Pereira,SP,Ribeirão Preto,Sudeste,B2B,Grande,2023-02-07
+2415,Camila Santos,SC,Florianópolis,Sul,B2B,Médio,2025-09-14
+2416,Mateus Santos,CE,Sobral,Nordeste,B2C,Médio,2023-04-17
+2417,Beatriz Costa,RJ,Campos dos Goytacazes,Sudeste,B2C,Pequeno,2025-03-03
+2418,Fernanda Gomes,ES,Serra,Sudeste,B2C,Pequeno,2025-02-11
+2419,  Patrícia Silva ,SP,Ribeirão Preto,Sudeste,B2C,Médio,2023-09-14
+2420,Mateus Costa,RJ,Niterói,Sudeste,B2C,Pequeno,2025-05-30
+2421,Pedro Ribeiro,SP,São Paulo,Sudeste,B2C,Médio,2025-05-24
+2422,Felipe Pereira,SP,São Paulo,Sudeste,B2C,Pequeno,2023-10-10
+2423,Larissa Ribeiro,GO,Aparecida de Goiânia,Centro-Oeste,B2B,Pequeno,2023-08-25
+2424,Larissa Oliveira,PA,Marabá,Norte,B2B,Pequeno,2025-06-15
+2425,Fernanda Almeida,MT,Várzea Grande,Centro-Oeste,B2B,Pequeno,2023-08-30
+2426,Camila Carvalho,SP,Ribeirão Preto,Sudeste,B2B,Médio,2025-01-23
+2427,Rafael Ribeiro,PA,Belém,Norte,B2C,Grande,2024-12-21
+2428,Felipe Almeida,RS,Caxias do Sul,Sul,B2B,Pequeno,2024-02-01
+2429,André Ribeiro,SC,Florianópolis,Sul,B2B,Médio,2024-12-03
+2430,Fernanda Costa,BA,Vitória da Conquista,Nordeste,B2B,Médio,2025-06-13
+2431,Camila Gomes,PE,Caruaru,Nordeste,B2B,Pequeno,2023-04-29
+2432,Aline Carvalho,RJ,Niterói,Sudeste,B2C,Grande,2024-05-02
+2433,Lucas Ribeiro,BA,Salvador,Nordeste,B2C,Pequeno,2024-04-20
+2434,João Gomes,PE,Caruaru,Nordeste,B2C,Médio,2023-07-08
+2435,Bruno Santos,SC,Joinville,Sul,B2B,Grande,2023-01-21
+2436,Rafael Ribeiro,MT,Várzea Grande,Centro-Oeste,B2C,Médio,2024-04-10
+2437,Felipe Santos,SC,Chapecó,Sul,B2B,Pequeno,2025-04-25
+2438,João Oliveira,RJ,Petrópolis,Sudeste,B2C,Grande,2023-04-04
+2439,Bruno Costa,MS,Campo Grande,Centro-Oeste,B2C,Médio,2023-01-31
+2440,Amanda Souza,RJ,Petrópolis,Sudeste,B2C,Médio,2024-05-26
+2441,André Almeida,SC,Chapecó,Sul,B2C,Médio,2023-04-27
+2442,Mariana Souza,PE,Olinda,Nordeste,B2C,Pequeno,2023-06-06
+2443,Aline Gomes,ES,Vitória,Sudeste,B2B,Grande,2023-04-27
+2444,Aline Santos,SP,Campinas,Sudeste,B2C,Pequeno,2023-09-17
+2445,Larissa Oliveira,CE,Crato,Nordeste,B2B,Pequeno,2025-06-17
+2446,Juliana Silva,DF,Brasília,Centro-Oeste,B2B,Pequeno,2024-01-05
+2447,André Silva,PA,Marabá,Norte,B2B,Grande,2024-08-01
+2448,João Carvalho,MG,Contagem,Sudeste,B2B,Pequeno,2023-03-31
+2449,Larissa Oliveira,DF,Brasília,Centro-Oeste,B2B,Pequeno,2024-10-05
+2450,João Ribeiro,BA,Feira de Santana,Nordeste,B2C,Pequeno,2024-12-17
+2451,Mateus Carvalho,GO,Anápolis,Centro-Oeste,B2C,Pequeno,2024-05-15
+2452,João Silva,BA,Salvador,Nordeste,B2C,Médio,2024-08-21
+2453,Bruno Pereira,GO,Anápolis,Centro-Oeste,B2C,Pequeno,2023-09-23
+2454,Bruno Ribeiro,PE,Recife,NORDESTE,B2B,Médio,2025-03-25
+2455,Fernanda Carvalho,MS,Dourados,Centro-Oeste,B2C,Pequeno,2025-09-07
+2456,Larissa Silva,GO,Rio Verde,Centro-Oeste,B2C,Grande,2023-09-08
+2457,Thiago Souza,RJ,Niterói,Sudeste,B2B,Médio,2023-06-07
+2458,Carlos Gomes,ES,Serra,Sudeste,B2B,Médio,2023-06-06
+2459,Amanda Gomes,CE,Juazeiro do Norte,Nordeste,B2C,Médio,2024-05-27
+2460,Aline Oliveira,CE,Fortaleza,Nordeste,B2C,Médio,2024-02-26
+2461,André Almeida,RJ,Petrópolis,Sudeste,B2B,Grande,2025-10-10
+2462,Amanda Oliveira,ES,Cariacica,Sudeste,B2C,Pequeno,2025-01-01
+2463,Larissa Oliveira,MT,Cuiabá,Centro-Oeste,B2C,Médio,2024-03-27
+2464,Amanda Ribeiro,RS,Santa Maria,Sul,B2C,Grande,2025-06-27
+2465,Felipe Oliveira,MT,Cuiabá,Centro-Oeste,B2C,Médio,2024-09-11
+2466,  Mariana Gomes ,MS,Três Lagoas,Centro-Oeste,B2B,Pequeno,2025-01-21
+2467,Amanda Carvalho,DF,Brasília,Centro-Oeste,B2B,Médio,2024-08-22
+2468,Rafael Santos,MS,Corumbá,Centro-Oeste,B2B,Grande,2024-05-15
+2469,Fernanda Almeida,PE,Caruaru,Nordeste,B2C,Pequeno,2025-12-14
+2470,João Souza,DF,Brasília,Centro-Oeste,B2C,Grande,2024-07-01
+2471,Lucas Santos,RS,Santa Maria,Sul,B2C,Pequeno,2024-10-15
+2472,Beatriz Ribeiro,RS,Santa Maria,Sul,B2C,Pequeno,2025-10-28
+2473,Juliana Oliveira,BA,Vitória da Conquista,Nordeste,B2C,Pequeno,2023-08-02
+2474,Amanda Souza,SC,Florianópolis,Sul,B2B,Médio,2023-04-21
+2475,Bruno Gomes,BA,Feira de Santana,Nordeste,B2C,Grande,2024-12-10
+2476,Amanda Carvalho,SC,Florianópolis,Sul,B2C,Grande,2025-04-21
+2477,Mateus Ribeiro,MS,Três Lagoas,Centro-Oeste,B2B,Grande,2025-09-22
+2478,Beatriz Souza,MG,Contagem,Sudeste,B2C,Pequeno,2024-07-26
+2479,Rafael Gomes,MS,Corumbá,Centro-Oeste,B2B,Médio,2023-06-10
+2480,João Carvalho,GO,Rio Verde,Centro-Oeste,B2B,Pequeno,2024-02-21
+2481,Renata Silva,ES,Vitória,Sudeste,B2B,Grande,2023-10-08
+2482,Juliana Ribeiro,SC,Chapecó,Sul,B2B,Médio,2025-12-02
+2483,Juliana Costa,MT,Várzea Grande,Centro-Oeste,B2B,Médio,2024-04-17
+2484,Mateus Ribeiro,DF,Brasília,Centro-Oeste,B2C,Médio,2024-09-16
+2485,Juliana Santos,RJ,Rio de Janeiro,Sudeste,B2B,Grande,2024-03-07
+2486,Aline Almeida,BA,Salvador,Nordeste,B2B,Médio,2023-09-09
+2487,Camila Carvalho,ES,Vila Velha,Sudeste,B2C,Médio,2025-02-01
+2488,Larissa Souza,PE,Petrolina,Nordeste,B2C,Pequeno,2023-10-18
+2489,Juliana Oliveira,ES,Vitória,Sudeste,B2B,Pequeno,2023-03-15
+2490,Felipe Gomes,PA,Santarém,Norte,B2C,Médio,2024-04-26
+2491,André Souza,GO,Anápolis,Centro-Oeste,B2C,Médio,2025-06-20
+2492,Thiago Carvalho,PA,Santarém,Norte,B2B,Pequeno,2025-07-18
+2493,Renata Almeida,MG,Juiz de Fora,Sudeste,B2B,Pequeno,2023-08-22
+2494,Felipe Santos,SC,Blumenau,Sul,B2C,Pequeno,2023-02-13
+2495,Lucas Silva,MG,Belo Horizonte,sudeste,B2B,Grande,2025-10-18
+2496,Larissa Ribeiro,pe,Recife,Nordeste,B2B,Grande,2023-03-11
+2497,Pedro Ribeiro,MT,Cuiabá,Centro-Oeste,B2C,Pequeno,2024-07-07
+2498,Lucas Almeida,RS,Santa Maria,Sul,B2B,Médio,2024-07-23
+2499,Carlos Costa,PA,Ananindeua,Norte,B2B,Pequeno,2025-02-25
+2500,Juliana Costa,CE,Fortaleza,Nordeste,B2B,Grande,2024-09-07
+2501,Pedro Oliveira,PA,Marabá,Norte,B2B,Médio,2023-06-23
+2502,Juliana Carvalho,PE,Caruaru,Nordeste,B2B,Grande,2023-05-03
+2503,Felipe Pereira,PR,Londrina,Sul,B2C,Médio,2024-07-25
+2504,Renata Almeida,PE,Recife,Nordeste,B2C,Grande,2025-02-25
+2505,Larissa Costa,MG,Contagem,Sudeste,B2B,Médio,2025-10-11
+2506,Amanda Pereira,ES,Vila Velha,Sudeste,B2C,Médio,2023-02-08
+2507,Fernanda Santos,RJ,Petrópolis,Sudeste,B2B,Médio,2025-02-22
+2508,Juliana Ribeiro,BA,Salvador,Nordeste,B2B,Médio,2025-02-26
+2509,Renata Gomes,RJ,Petrópolis,Sudeste,B2B,Grande,2025-06-28
+2510,Bruno Costa,MG,Uberlândia,Sudeste,B2B,Grande,2023-04-01
+2511,Renata Ribeiro,BA,Salvador,Nordeste,B2B,Médio,2024-04-04
+2512,Aline Pereira,PR,Foz do Iguaçu,Sul,B2C,Médio,2024-02-26
+2513,Thiago Carvalho,CE,Fortaleza,Nordeste,B2C,Grande,2025-02-15
+2514,Camila Almeida,GO,Aparecida de Goiânia,Centro-Oeste,B2B,Médio,2024-01-13
+2515,João Souza,DF,Brasília,Centro-Oeste,B2C,Médio,2025-06-01
+2516,André Gomes,MG,Belo Horizonte,Sudeste,B2B,Médio,2025-12-26
+2517,Bruno Souza,ES,Vitória,Sudeste,B2C,Pequeno,2023-04-18
+2518,Carlos Ribeiro,SC,Florianópolis,Sul,B2B,Médio,2024-09-16
+2519,Fernanda Costa,MG,Contagem,Sudeste,B2C,Pequeno,2023-03-06
+2520,Renata Carvalho,MG,Juiz de Fora,Sudeste,B2B,Médio,2024-12-13
+2521,Mateus Oliveira,PA,Belém,Norte,B2B,Grande,2023-02-23
+2522,Fernanda Silva,PA,Santarém,Norte,B2C,Pequeno,2024-11-19
+2523,Rafael Oliveira,BA,Salvador,Nordeste,B2C,Pequeno,2024-06-21
+2524,Aline Carvalho,MS,Corumbá,Centro-Oeste,B2B,Médio,2024-03-19
+2525,Juliana Souza,MS,Campo Grande,Centro-Oeste,B2C,Médio,2023-02-26
+2526,Rafael Pereira,SP,Santos,Sudeste,B2B,Pequeno,2024-11-29
+2527,André Costa,PE,Petrolina,Nordeste,B2C,Grande,2025-06-07
+2528,Rafael Carvalho,ES,Vitória,Sudeste,B2C,Grande,2025-05-25
+2529,Mateus Almeida,SP,São Paulo,Sudeste,B2B,Médio,2023-04-27
+2530,Fernanda Carvalho,MT,Cuiabá,Centro-Oeste,B2C,Grande,2023-08-12
+2531,Beatriz Pereira,PR,Curitiba,Sul,B2C,Grande,2025-03-05
+2532,Amanda Silva,MS,Três Lagoas,Centro-Oeste,B2B,Médio,2024-08-11
+2533,Bruno Gomes,SC,Chapecó,Sul,B2C,Grande,2025-12-31
+2534,Patrícia Silva,PA,Ananindeua,Norte,B2B,Médio,2025-08-07
+2535,Carlos Ribeiro,CE,Fortaleza,Nordeste,B2B,Pequeno,2025-05-18
+2536,Thiago Santos,RS,Santa Maria,Sul,B2B,Médio,2025-11-28
+2537,Mateus Carvalho,PR,Londrina,Sul,B2B,Pequeno,2024-06-16
+2538,Beatriz Ribeiro,RS,Porto Alegre,Sul,B2B,Pequeno,2023-11-29
+2539,André Carvalho,ES,Cariacica,Sudeste,B2C,Grande,2025-02-19
+2540,Bruno Silva,ES,Cariacica,Sudeste,B2B,Grande,2025-08-15
+2541,Camila Santos,MT,Sinop,Centro-Oeste,B2B,Grande,2024-05-02
+2542,Lucas Oliveira,RS,Santa Maria,Sul,B2C,Médio,2023-09-28
+2543,Rafael Pereira,ES,Vitória,Sudeste,B2C,Grande,2023-02-01
+2544,Fernanda Costa,CE,Sobral,Nordeste,B2C,Pequeno,2024-07-28
+2545,Fernanda Almeida,RJ,Rio de Janeiro,Sudeste,B2B,Grande,2024-07-15
+2546,Larissa Santos,SP,Ribeirão Preto,Sudeste,B2B,Grande,2023-06-25
+2547,Beatriz Silva,MG,Juiz de Fora,Sudeste,B2B,Médio,2024-05-26
+2548,Rafael Souza,GO,Anápolis,Centro-Oeste,B2C,Médio,2024-08-28
+2549,Renata Pereira,RS,Porto Alegre,Sul,B2B,Pequeno,2024-11-22
+2550,Renata Carvalho,SC,Florianópolis,Sul,B2C,Médio,2025-03-19
+2551,Camila Costa,PR,Curitiba,Sul,B2B,Grande,2023-03-21
+2552,Felipe Santos,RJ,Rio de Janeiro,Sudeste,B2C,Médio,2024-07-15
+2553,Amanda Santos,RS,Caxias do Sul,Sul,B2B,Pequeno,2025-01-10
+2554,Patrícia Almeida,RJ,Niterói,Sudeste,B2B,Grande,2024-07-04
+2555,Larissa Silva,MS,Três Lagoas,Centro-Oeste,B2B,Pequeno,2024-05-28
+2556,Felipe Oliveira,RJ,Petrópolis,Sudeste,B2C,Médio,2023-01-26
+2557,Juliana Ribeiro,RS,Santa Maria,Sul,B2C,Médio,2023-09-12
+2558,Pedro Ribeiro,BA,Ilhéus,Nordeste,B2B,Pequeno,2024-09-20
+2559,Rafael Ribeiro,PE,Petrolina,Nordeste,B2B,Grande,2024-10-19
+2560,Thiago Costa,SC,Joinville,Sul,B2B,Médio,2024-06-25
+2561,Pedro Ribeiro,MG,Uberlândia,Sudeste,B2C,Médio,2024-01-02
+2562,Felipe Ribeiro,MG,Uberlândia,Suldeste,B2B,Grande,2025-06-27
+2563,Larissa Pereira,SC,Florianópolis,Sul,B2B,Médio,2025-08-05
+2564,Patrícia Almeida,BA,Salvador,Nordeste,B2B,Pequeno,2023-02-05
+2565,Larissa Gomes,PA,Santarém,Norte,B2B,Médio,2025-06-19
+2566,André Costa,ES,Serra,Sudeste,B2C,Médio,2023-01-19
+2567,Patrícia Gomes,MG,Contagem,Sudeste,B2C,Grande,2025-08-13
+2568,Larissa Silva,PA,Marabá,Norte,B2B,Pequeno,2023-03-17
+2569,Aline Souza,RJ,Petrópolis,Sudeste,B2B,Grande,2025-01-04
+2570,Felipe Souza,CE,Juazeiro do Norte,Nordeste,B2C,Médio,2025-09-10
+2571,Fernanda Santos,PR,Londrina,Sul,B2C,Médio,2024-03-22
+2572,André Costa,MS,Corumbá,Centro-Oeste,B2B,Grande,2025-04-16
+2573,Juliana Costa,SP,Santos,Sudeste,B2C,Grande,2023-04-30
+2574,Beatriz Ribeiro,MG,Juiz de Fora,Sudeste,B2C,Grande,2023-06-12
+2575,Lucas Pereira,SC,Blumenau,Sul,B2B,Pequeno,2024-07-20
+2576,André Pereira,CE,Sobral,Nordeste,B2C,Médio,2024-10-05
+2577,Rafael Almeida,RS,Porto Alegre,Sul,B2C,Grande,2023-05-12
+2578,Mariana Souza,MT,Várzea Grande,Centro-Oeste,B2B,Médio,2025-06-21
+2579,Renata Oliveira,PE,Recife,Nordeste,B2B,Pequeno,2024-01-04
+2580,Aline Costa,SC,Joinville,Sul,B2C,Pequeno,2024-06-12
+2581,Camila Santos,ES,Vitória,Sudeste,B2B,Pequeno,2024-07-19
+2582,Larissa Pereira,MT,Sinop,Centro-Oeste,B2C,Pequeno,2024-06-15
+2583,Bruno Santos,MT,Rondonópolis,Centro-Oeste,B2B,Médio,2025-10-10
+2584,Aline Santos,RJ,Niterói,Sudeste,B2C,Pequeno,2023-09-18
+2585,André Santos,PE, olinda ,Nordeste,B2B,Pequeno,2024-04-10
+2586,Felipe Santos,PR,Londrina,Sul,B2C,Grande,2023-12-24
+2587,André Santos,PR,Curitiba,Sul,B2C,Pequeno,2023-10-28
+2588,André Carvalho,BA,Vitória da Conquista,Nordeste,B2C,Grande,2023-04-12
+2589,Camila Oliveira,PA,Santarém,Norte,B2B,Pequeno,2024-04-21
+2590,Pedro Souza,GO,Aparecida de Goiânia,Centro-Oeste,B2B,Pequeno,2023-08-23
+2591,Rafael Gomes,MT,Sinop,Centro-Oeste,B2C,Grande,2023-03-20
+2592,Amanda Silva,BA,Vitória da Conquista,Nordeste,B2C,Pequeno,2024-01-13
+2593,Renata Silva,ES,Serra,Sudeste,B2B,Médio,2025-11-03
+2594,Aline Costa,PA,Marabá,Norte,B2B,Médio,2025-06-20
+2595,Amanda Costa,MS,Corumbá,Centro-Oeste,B2B,Pequeno,2024-10-11
+2596,Aline Carvalho,MT,Rondonópolis,Centro-Oeste,B2B,Médio,2023-03-27
+2597,Felipe Gomes,CE,Juazeiro do Norte,Nordeste,B2B,Grande,2024-04-11
+2598,Bruno Ribeiro,PE,Recife,Nordeste,B2B,Pequeno,2023-05-05
+2599,Felipe Almeida,GO,Aparecida de Goiânia,Centro-Oeste,B2C,Pequeno,2024-06-14
+2600,André Carvalho,RS,Porto Alegre,Sul,B2B,Grande,2024-06-11
+2601,João Silva,RJ,Campos dos Goytacazes,Sudeste,B2C,Grande,2023-02-03
+2602,Beatriz Almeida,PE,Olinda,Nordeste,B2B,Grande,2024-12-24
+2603,Aline Ribeiro,BA,Salvador,Nordeste,B2B,Pequeno,2023-04-02
+2604,Mateus Ribeiro,sp,Campinas,Sudeste,B2C,Grande,2024-04-25
+2605,Camila Almeida,DF,Brasília,Centro-Oeste,B2C,Grande,2024-12-17
+2606,Bruno Gomes,GO,Aparecida de Goiânia,Centro-Oeste,B2B,Médio,2023-08-12
+2607,Pedro Ribeiro,GO,Anápolis,Centro-Oeste,B2C,Médio,2023-06-08
+2608,Patrícia Costa,ES,Vila Velha,Sudeste,B2C,Pequeno,2025-11-04
+2609,Lucas Silva,RJ,Campos dos Goytacazes,Sudeste,B2C,Médio,2025-06-27
+2610,Carlos Almeida,MG,Juiz de Fora,Sudeste,B2C,Médio,2023-08-20
+2611,Larissa Souza,PR,Foz do Iguaçu,Sul,B2B,Grande,2025-11-12
+2612,Mariana Costa,PR,Londrina,Sul,B2C,Grande,2023-06-08
+2613,Amanda Pereira,MS,Corumbá,Centro-Oeste,B2B,Médio,2024-04-30
+2614,Bruno Ribeiro,SP,Campinas,Sudeste,B2B,Médio,2024-02-22
+2615,Felipe Santos,CE,Fortaleza,Nordeste,B2B,Médio,2024-10-29
+2616,Felipe Gomes,ES,Serra,Sudeste,B2B,Pequeno,2025-01-30
+2617,Amanda Costa,CE,Fortaleza,Nordeste,B2C,Pequeno,2025-05-01
+2618,Camila Oliveira,RS,Porto Alegre,Sul ,B2C,Pequeno,2023-05-27
+2619,Aline Almeida,PA,Marabá,Norte,B2B,Médio,2025-05-23
+2620,  carlos almeida ,PE,Recife,Nordeste,B2B,Médio,2024-08-02
+2621,Camila Costa,MS,Campo Grande,Centro-Oeste,B2B,Pequeno,2023-10-21
+2622,Fernanda Pereira,ms,Dourados,Centro-Oeste,B2B,Pequeno,2023-02-20
+2623,Patrícia Oliveira,DF,Brasília,Centro-Oeste,B2C,Médio,2024-10-30
+2624,Larissa Oliveira,SC,Chapecó,Sul,B2B,Grande,2025-01-07
+2625,Larissa Santos,MG,Uberlândia,Sudeste,B2C,Pequeno,2024-11-17
+2626,Pedro Pereira,BA,Vitória da Conquista,Nordeste,B2B,Médio,2025-04-15
+2627,André Ribeiro,MT,Cuiabá,Centro-Oeste,B2B,Médio,2025-02-06
+2628,Juliana Almeida,SC,Florianópolis,Sul,B2B,Grande,2025-08-21
+2629,Carlos Oliveira,PA,Santarém,Norte,B2B,Médio,2024-08-25
+2630,João Gomes,SC,Joinville,Sul,B2C,Médio,2023-03-05
+2631,Lucas Oliveira,ES,Serra,Sudeste,B2C,Pequeno,2023-11-25
+2632,Juliana Gomes,MT,Várzea Grande,Centro-Oeste,B2C,Pequeno,2025-01-24
+2633,João Ribeiro,GO,Anápolis,Centro-Oeste,B2B,Grande,2023-04-02
+2634,Renata Costa,SP,Santos,Sudeste,B2B,Grande,2024-08-18
+2635,Aline Pereira,PR,Londrina,Sul,B2C,Médio,2023-11-04
+2636,Felipe Ribeiro,RS,Pelotas,Sul,B2C,Pequeno,2023-02-22
+2637,Larissa Silva,CE,Juazeiro do Norte,Nordeste,B2B,Grande,2023-08-06
+2638,Fernanda Souza,DF,Brasília,Centro-Oeste,B2B,Grande,2024-03-09
+2639,Bruno Silva,ES,Vila Velha,Sudeste,B2C,Grande,2024-10-03
+2640,Carlos Pereira,SP,São Paulo,Sudeste,B2B,Médio,2025-11-12
+2641,Aline Souza,GO,Anápolis,Centro-Oeste,B2B,Pequeno,2025-11-06
+2642,Patrícia Costa,BA,Vitória da Conquista,Nordeste,B2C,Grande,2024-12-05
+2643,Felipe Costa,RS,Porto Alegre,Sul,B2B,Pequeno,2024-03-16
+2644,Camila Ribeiro,ES,Vitória,Sudeste,B2C,Grande,2025-02-14
+2645,Renata Pereira,GO,Anápolis,Centro-Oeste,B2B,Grande,2023-03-08
+2646,Camila Silva,DF,Brasília,Centro-Oeste,B2C,Pequeno,2023-11-04
+2647,Juliana Souza,PR,Curitiba,Sul,B2B,Pequeno,2025-02-19
+2648,Camila Carvalho,MS,Três Lagoas,Centro-Oeste,B2C,Pequeno,2023-06-10
+2649,Carlos Carvalho,PR,Londrina,Sul,B2C,Médio,2023-06-08
+2650,Larissa Ribeiro,ES,Serra,Sudeste,B2C,Grande,2024-04-04
+2651,Bruno Pereira,PR,Foz do Iguaçu,Sul,B2C,Médio,2025-10-28
+2652,Camila Costa,SP,Campinas,Sudeste,B2B,Pequeno,2025-05-06
+2653,Beatriz Gomes,SP,Santos,Sudeste,B2B,Grande,2023-09-06
+2654,Patrícia Souza,CE,Sobral,Nordeste,B2C,Médio,2025-12-16
+2655,Fernanda Carvalho,ES,Vila Velha,Sudeste,B2B,Grande,2023-04-16
+2656,Thiago Gomes,CE,Crato,Nordeste,B2B,Médio,2025-08-25
+2657,João Oliveira,ES,Vitória,Sudeste,B2B,Pequeno,2025-12-10
+2658,Mariana Almeida,MS,Campo Grande,Centro-Oeste,B2B,Médio,2025-12-01
+2659,Amanda Carvalho,MS,Dourados,Centro-Oeste,B2B,Grande,2025-06-22
+2660,Fernanda Souza,BA,Feira de Santana,Nordeste,B2C,Grande,2024-10-11
+2661,Rafael Oliveira,ES,Vila Velha,Sudeste,B2C,Grande,2024-07-05
+2662,  MARIANA SANTOS ,DF,Brasília,Centro-Oeste,B2C,Grande,2024-02-04
+2663,Mariana Costa,PA,Ananindeua,Norte,B2C,Pequeno,2024-08-23
+2664,Thiago Pereira,RS,Pelotas,Sul,B2B,Médio,2024-05-14
+2665,Amanda Almeida,RJ,Petrópolis,Sudeste,B2B,Pequeno,2024-11-04
+2666,Felipe Gomes,MT,Sinop,Centro-Oeste,B2C,Pequeno,2024-05-12
+2667,Camila Carvalho,RJ,Niterói,Sudeste,B2B,Pequeno,2025-01-11
+2668,Beatriz Gomes,GO,Goiânia,Centro-Oeste,B2B,Grande,2024-04-17
+2669,Juliana Oliveira,MS,Dourados,Centro-Oeste,B2C,Grande,2025-07-22
+2670,Bruno Silva,PR,Maringá,Sul,B2B,Grande,2024-10-06
+2671,João Santos,RS,Caxias do Sul,Sul,B2C,Médio,2023-08-25
+2672,Felipe Souza,SC,Blumenau,Sul,B2C,Grande,2024-05-08
+2673,Carlos Oliveira,PA,Santarém,Norte,B2B,Médio,2025-06-30
+2674,Fernanda Souza,SP,São Paulo,Sudeste,B2B,Grande,2025-04-19
+2675,Pedro Souza,PE,Caruaru,Nordeste,B2C,Grande,2025-01-11
+2676,Aline Ribeiro,MG,Uberlândia,Sudeste,B2C,Pequeno,2023-06-13
+2677,Mateus Silva,BA,Ilhéus,Nordeste,B2B,Pequeno,2024-12-21
+2678,Fernanda Ribeiro,PR,Londrina,Sul,B2C,Pequeno,2025-11-01
+2679,Rafael Souza,PR,Curitiba,Sul,B2C,Médio,2023-06-06
+2680,Felipe Carvalho,DF,Brasília,Centro-Oeste,B2C,Médio,2025-01-11
+2681,João Souza,PR,Curitiba,Sul,B2B,Grande,2025-09-18
+2682,Fernanda Pereira,SP,Campinas,Sudeste,B2C,Médio,2024-04-16
+2683,André Santos,SP,Ribeirão Preto,Sudeste,B2B,Grande,2025-07-08
+2684,Thiago Gomes,MG,Juiz de Fora,Sudeste,B2C,Médio,2025-05-07
+2685,João Oliveira,MT,Sinop,Centro-Oeste,B2B,Médio,2024-04-15
+2686,Beatriz Oliveira,ES,Cariacica,Sudeste,B2C,Médio,2023-09-14
+2687,Lucas Silva,SC,Joinville,Sul,B2B,Pequeno,2024-05-16
+2688,Camila Costa,RS,Pelotas,Sul,B2B,Médio,2025-04-14
+2689,Aline Gomes,PR,Maringá,Sul,B2B,Pequeno,2023-10-10
+2690,Renata Pereira,RJ,Campos dos Goytacazes,Sudeste,B2C,Pequeno,2024-06-17
+2691,Renata Gomes,CE,Crato,Nordeste,B2C,Médio,2024-08-10
+2692,João Ribeiro,DF,Brasília,Centro-Oeste,B2C,Grande,2024-11-30
+2693,Bruno Carvalho,DF,Brasília,Centro-Oeste,B2B,Grande,2024-10-04
+2694,Amanda Gomes,MT,Sinop,Centro-Oeste,B2C,Grande,2023-08-30
+2695,Larissa Almeida,RJ,Rio de Janeiro,Sudeste,B2B,Médio,2023-06-16
+2696,Beatriz Ribeiro,GO,Anápolis,Centro-Oeste,B2C,Grande,2025-04-16
+2697,Thiago Costa,RJ,Niterói,Sudeste,B2B,Pequeno,2025-05-12
+2698,Aline Ribeiro,PA,Santarém,Norte,B2B,Grande,2025-10-31
+2699,André Souza,GO,Aparecida de Goiânia,Centro-Oeste,B2B,Médio,2023-10-31
+2700,Patrícia Pereira,PE,Olinda,Nordeste,B2C,Grande,2025-10-09
+2701,Camila Almeida,MS,Corumbá,Centro-Oeste,B2C,Pequeno,2024-02-10
+2702,Felipe Oliveira,CE,Juazeiro do Norte,Nordeste,B2C,Médio,2024-01-04
+2703,Thiago Silva,MS,Três Lagoas,Centro-Oeste,B2B,Grande,2025-07-18
+2704,Lucas Ribeiro,DF,Brasília,Centro-Oeste,B2B,Médio,2023-02-01
+2705,João Costa,RJ,Campos dos Goytacazes,Sudeste,B2C,Médio,2023-12-08
+2706,Thiago Gomes,PE,Olinda,Nordeste,B2C,Médio,2023-09-05
+2707,Renata Silva,ES,Serra,Sudeste,B2C,Grande,2025-05-07
+2708,Aline Gomes,BA,Vitória da Conquista,Nordeste,B2B,Médio,2024-06-23
+2709,Thiago Silva,RS,Porto Alegre,Sul,B2B,Grande,2025-08-20
+2710,Juliana Pereira,PE,Olinda,Nordeste,B2B,Pequeno,2023-07-26
+2711,Amanda Santos,MT,Cuiabá,Centro-Oeste,B2B,Grande,2023-09-16
+2712,Lucas Ribeiro,PA,Marabá,Norte,B2B,Pequeno,2023-03-11
+2713,Camila Santos,RS,Santa Maria,Sul,B2C,Grande,2025-06-02
+2714,Juliana Ribeiro,RJ,Petrópolis,Sudeste,B2B,Médio,2023-02-19
+2715,Juliana Almeida,SC,Joinville,Sul,B2B,Grande,2023-12-08
+2716,André Oliveira,ES,Vitória,Sudeste,B2B,Médio,2023-05-30
+2717,Fernanda Almeida,PE,Petrolina,Nordeste,B2B,Pequeno,2023-09-29
+2718,André Pereira,CE,Sobral,Nordeste,B2B,Grande,2025-11-20
+2719,Rafael Almeida,RJ,Campos dos Goytacazes,Sudeste,B2C,Médio,2025-12-20
+2720,André Ribeiro,PR,Foz do Iguaçu,Sul,B2B,Pequeno,2025-03-05
+2721,Amanda Pereira,SP,Ribeirão Preto,Sudeste,B2B,Pequeno,2025-05-14
+2722,Thiago Ribeiro,PE,Petrolina,Nordeste,B2B,Grande,2024-12-26
+2723,Felipe Almeida,CE,Crato,Nordeste,B2C,Pequeno,2023-09-19
+2724,Carlos Souza,PA,Marabá,Norte,B2C,Médio,2025-04-03
+2725,Bruno Oliveira,BA,Ilhéus,Nordeste,B2C,Pequeno,2024-05-09
+2726,Thiago Souza,PR,Maringá,Sul,B2B,Pequeno,2024-08-23
+2727,Patrícia Carvalho,MS,Três Lagoas,Centro-Oeste,B2C,Médio,2023-09-01
+2728,Patrícia Pereira,BA,Ilhéus,Nordeste,B2B,Pequeno,2024-11-20
+2729,Amanda Gomes,MS,Campo Grande,Centro-Oeste,B2B,Pequeno,2024-11-20
+2730,Carlos Costa,RJ,Niterói,Sudeste,B2C,Pequeno,2023-08-09
+2731,Lucas Oliveira,SP,Ribeirão Preto,Sudeste,B2B,Pequeno,2023-04-03
+2732,Mateus Ribeiro,PE,Olinda,Nordeste,B2B,Médio,2023-06-01
+2733,Lucas Oliveira,PE,Caruaru,Nordeste,B2B,Pequeno,2024-12-27
+2734,Pedro Pereira,SC,Florianópolis,Sul,B2C,Médio,2025-07-08
+2735,Felipe Oliveira,DF,Brasília,Centro-Oeste,B2B,Pequeno,2025-04-17
+2736,Patrícia Silva,SC,Florianópolis,Sul,B2B,Pequeno,2025-07-10
+2737,André Souza,MT,Rondonópolis,Centro-Oeste,B2C,Pequeno,2025-06-11
+2738,João Silva,RJ,Rio de Janeiro,Sudeste,B2B,Pequeno,2024-08-15
+2739,Aline Santos,RJ,Petrópolis,Sudeste,B2B,Médio,2025-09-04
+2740,Mariana Almeida,SP,Campinas,Sudeste,B2C,Médio,2023-10-03
+2741,Thiago Gomes,SC, FLORIANÓPOLIS ,Sul,B2B,Médio,2024-01-11
+2742,Camila Gomes,CE,Fortaleza,Nordeste,B2B,Grande,2025-11-09
+2743,Mateus Costa,MS,Campo Grande,Centro-Oeste,B2B,Pequeno,2023-06-21
+2744,Rafael Oliveira,CE,Sobral,Nordeste,B2B,Pequeno,2023-11-08
+2745,Mateus Pereira,SP,São Paulo,Sudeste,B2B,Médio,2023-01-16
+2746,Fernanda Souza,ES,Vila Velha,Sudeste,B2C,Grande,2025-01-27
+2747,Renata Gomes,DF,Brasília,Centro-Oeste,B2C,Pequeno,2025-07-17
+2748,Bruno Santos,CE,Juazeiro do Norte,Nordeste,B2C,Médio,2025-02-15
+2749,Felipe Almeida,GO,Rio Verde,Centro-Oeste,B2C,Pequeno,2024-10-18
+2750,Lucas Souza,MT,Rondonópolis,Centro-Oeste,B2B,Pequeno,2025-06-17
+2751,André Almeida,RS,Pelotas,Sul,B2B,Médio,2023-12-28
+2752,Patrícia Santos,SP,Santos,Sudeste,B2B,Médio,2025-11-07
+2753,Mateus Santos,SP,Campinas,Sudeste,B2B,Pequeno,2024-07-26
+2754,Patrícia Souza,MG,Uberlândia,Sudeste,B2B,Pequeno,2023-07-18
+2755,Beatriz Santos,MS,Três Lagoas,Centro-Oeste,B2C,Médio,2024-04-20
+2756,Aline Almeida,MT,Cuiabá,Centro-Oeste,B2C,Pequeno,2024-08-31
+2757,Thiago Costa,PR,Maringá,Sul,B2B,Pequeno,2025-10-07
+2758,Bruno Silva,PR,Maringá,Sul,B2B,Médio,2024-11-29
+2759,Renata Ribeiro,GO,Rio Verde,Centro-Oeste,B2B,Pequeno,2023-04-09
+2760,Pedro Pereira,SC,Chapecó,Sul,B2C,Pequeno,2025-11-26
+2761,Aline Pereira,MT,Sinop,Centro-Oeste,B2B,Grande,2025-12-11
+2762,Carlos Costa,ES,Vitória,Sudeste,B2B,Médio,2025-11-06
+2763,Mateus Santos,RJ,Campos dos Goytacazes,Sudeste,B2B,Grande,2025-05-23
+2764,Pedro Santos,RJ,Niterói,Sudeste,B2C,Grande,2024-08-07
+2765,Juliana Costa,BA,Ilhéus,Nordeste,B2B,Grande,2024-10-23
+2766,Lucas Oliveira,MS,Dourados,Centro-Oeste,B2C,Pequeno,2025-02-25
+2767,Felipe Carvalho,GO,Anápolis,Centro-Oeste,B2C,Pequeno,2024-10-14
+2768,Pedro Almeida,SP,Campinas,Sudeste,B2C,Grande,2024-01-01
+2769,André Silva,GO,Aparecida de Goiânia,Centro-Oeste,B2C,Grande,2023-10-21
+2770,Mateus Carvalho,GO,Anápolis,Centro-Oeste,B2C,Grande,2023-03-27
+2771,Aline Carvalho,PA,Ananindeua,Norte,B2C,Pequeno,2024-03-07
+2772,  joão costa ,GO,Aparecida de Goiânia,Centro-Oeste,B2B,Grande,2025-05-31
+2773,Rafael Santos,PR,Maringá,Sul,B2B,Grande,2025-11-29
+2774,Bruno Gomes,PA,Belém,Norte,B2B,Médio,2024-07-23
+2775,Rafael Carvalho,MS,Três Lagoas,Centro-Oeste,B2C,Médio,2024-10-05
+2776,Mariana Silva,GO,Anápolis,Centro-Oeste,B2B,Pequeno,2023-07-23
+2777,Mateus Costa,DF,Brasília,Centro-Oeste,B2C,Médio,2024-12-12
+2778,João Ribeiro,RS,Santa Maria,Sul,B2C,Médio,2024-08-06
+2779,Pedro Oliveira,RJ,Niterói,Sudeste,B2C,Médio,2023-12-06
+2780,Aline Santos,PA,Ananindeua,Norte,B2B,Pequeno,2023-08-31
+2781,Mariana Ribeiro,BA,Ilhéus,Nordeste,B2C,Médio,2024-08-12
+2782,Camila Gomes,MT,Cuiabá,Centro-Oeste,B2C,Pequeno,2024-07-14
+2783,Carlos Silva,RS,Pelotas,Sul,B2B,Grande,2025-09-23
+2784,Fernanda Costa,BA,Feira de Santana,Nordeste,B2B,Médio,2025-06-17
+2785,João Pereira,MG,Uberlândia,Sudeste,B2C,Pequeno,2024-04-03
+2786,Mateus Gomes,BA,Vitória da Conquista,Nordeste,B2C,Médio,2023-12-13
+2787,Patrícia Ribeiro,RJ,Rio de Janeiro,Sudeste,B2B,Grande,2024-08-13
+2788,Thiago Ribeiro,RJ,Campos dos Goytacazes,Sudeste,B2B,Pequeno,2024-06-15
+2789,Aline Santos,PA,Marabá,Norte,B2B,Pequeno,2023-08-06
+2790,Larissa Oliveira,GO,Rio Verde,Centro-Oeste,B2C,Pequeno,2024-04-19
+2791,Renata Costa,PE,Olinda,Nordeste,B2B,Grande,2024-07-24
+2792,Mariana Gomes,MG,Contagem,Sudeste,B2B,Grande,2023-10-16
+2793,Felipe Carvalho,PA,Ananindeua,Norte,B2B,Grande,2023-07-16
+2794,Renata Oliveira,DF,Brasília,Centro-Oeste,B2C,Pequeno,2024-02-28
+2795,Rafael Ribeiro,SP,Santos,Sudeste,B2B,Grande,2025-11-07
+2796,João Gomes,CE,Sobral,Nordeste,B2B,Médio,2023-12-12
+2797,Thiago Pereira,MT,Cuiabá,Centro-Oeste,B2B,Grande,2023-02-26
+2798,Renata Costa,BA,Salvador,Nordeste,B2B,Pequeno,2023-03-23
+2799,Patrícia Silva,PE,Olinda,Nordeste,B2B,Médio,2024-02-04
+2800,Beatriz Almeida,go,Anápolis,Centro-Oeste,B2C,Grande,2023-01-14
+2801,Bruno Silva,PR,Maringá,Sul,B2C,Médio,2025-09-27
+2802,Amanda Costa,MS,Corumbá,Centro-Oeste,B2C,Médio,2023-02-22
+2803,Amanda Santos,SP,Ribeirão Preto,Sudeste,B2B,Pequeno,2025-01-26
+2804,Mariana Souza,ES,Vila Velha,Sudeste,B2C,Médio,2024-02-21
+2805,Renata Almeida,Sc,Chapecó,Sul,B2C,Médio,2024-07-31
+2806,Carlos Ribeiro,PE,Recife,Nordeste,B2C,Pequeno,2025-05-23
+2807,Aline Ribeiro,MS,Corumbá,Centro-Oeste,B2B,Pequeno,2025-06-30
+2808,João Carvalho,PR,Londrina,Sul,B2B,Pequeno,2025-12-02
+2809,Thiago Costa,MG,Contagem,Sudeste,B2C,Médio,2023-09-16
+2810,Juliana Costa,ES,Vitória,Sudeste,B2C,Médio,2025-07-18
+2811,Pedro Souza,PA,Marabá,Norte,B2B,Médio,2024-08-27
+2812,Beatriz Souza,GO,Aparecida de Goiânia,Centro-Oeste,B2B,Pequeno,2023-08-13
+2813,Mateus Oliveira,SP,Santos,Sudeste,B2C,Grande,2023-09-03
+2814,Bruno Silva,SP,São Paulo,Sudeste,B2B,Médio,2025-06-29
+2815,Carlos Souza,SP,Campinas,Sudeste,B2C,Grande,2025-06-04
+2816,Aline Santos,MG,Belo Horizonte,Sudeste,B2B,Pequeno,2025-10-07
+2817,Pedro Silva,ES,Vila Velha,Sudeste,B2C,Médio,2024-06-22
+2818,Larissa Almeida,BA,Salvador,Nordeste,B2C,Grande,2023-06-27
+2819,Aline Ribeiro,Sc,Chapecó,Sul,B2B,Médio,2023-10-08
+2820,Amanda Carvalho,DF,Brasília,Centro-Oeste,B2C,Médio,2024-07-24
+2821,Felipe Silva,MG,Uberlândia,Sudeste,B2C,Médio,2023-08-27
+2822,Camila Santos,CE,Juazeiro do Norte,Nordeste,B2C,Grande,2024-12-25
+2823,Amanda Souza,MT,Cuiabá,Centro-Oeste,B2B,Pequeno,2023-06-11
+2824,Lucas Santos,MT,Sinop,Centro-Oeste,B2B,Médio,2024-03-31
+2825,Aline Souza,SC,Blumenau,Sul,B2B,Pequeno,2023-06-02
+2826,Patrícia Silva,RJ,Niterói,Sudeste,B2C,Pequeno,2024-10-31
+2827,Camila Ribeiro,MT,Várzea Grande,Centro-Oeste,B2B,Grande,2023-11-17
+2828,Juliana Costa,GO,Rio Verde,Centro-Oeste,B2C,Grande,2025-11-04
+2829,Mateus Carvalho,MG,Belo Horizonte,Sudeste,B2C,Pequeno,2024-11-17
+2830,Felipe Ribeiro,PR,Foz do Iguaçu,Sul,B2B,Médio,2024-07-19
+2831,Mateus Souza,SC,Florianópolis,Sul,B2B,Grande,2025-07-17
+2832,Thiago Souza,CE,Sobral,Nordeste,B2C,Médio,2025-11-16
+2833,Carlos Ribeiro,RJ,Rio de Janeiro,Sudeste,B2C,Médio,2023-06-01
+2834,Pedro Souza,BA,Feira de Santana,Nordeste,B2B,Médio,2024-10-06
+2835,André Ribeiro,ES,Serra,Sudeste,B2B,Pequeno,2023-03-20
+2836,Fernanda Santos,PR,Foz do Iguaçu,Sul,B2B,Médio,2025-06-06
+2837,Carlos Ribeiro,PA,Ananindeua,Norte,B2C,Pequeno,2023-07-25
+2838,André Carvalho,SC,Joinville,Sul,B2C,Pequeno,2025-12-03
+2839,Bruno Ribeiro,GO,Goiânia,Centro-Oeste,B2C,Médio,2024-10-12
+2840,Renata Almeida,ES,Vila Velha,Sudeste,B2C,Médio,2024-01-25
+2841,Pedro Carvalho,PR,Foz do Iguaçu,Sul,B2C,Médio,2023-03-14
+2842,Camila Gomes,RJ,Campos dos Goytacazes,Sudeste,B2B,Médio,2023-01-17
+2843,Juliana Souza,PR,Curitiba,Sul,B2B,Pequeno,2024-05-18
+2844,Bruno Oliveira,MS,Corumbá,Centro-Oeste,B2C,Médio,2023-10-08
+2845,Renata Almeida,ES,Vila Velha,Sudeste,B2C,Médio,2025-02-09
+2846,Beatriz Costa,RS,Caxias do Sul,Sul,B2B,Pequeno,2024-03-26
+2847,Bruno Ribeiro,MS,Dourados,Centro-Oeste,B2B,Grande,2024-02-05
+2848,Amanda Gomes,DF,Brasília,Centro-Oeste,B2B,Grande,2024-06-27
+2849,Camila Costa,PE,Petrolina,Nordeste,B2B,Pequeno,2025-08-20
+2850,Renata Costa,BA,Ilhéus,Nordeste,B2C,Grande,2023-11-07
+2851,Camila Almeida,MT,Várzea Grande,Centro-Oeste,B2B,Pequeno,2025-09-19
+2852,Juliana Costa,RJ,Petrópolis,Sudeste,B2C,Médio,2024-01-19
+2853,Amanda Santos,ES,Vila Velha,Sudeste,B2B,Médio,2025-10-14
+2854,Larissa Ribeiro,DF,Brasília,Centro-Oeste,B2B,Grande,2024-08-01
+2855,Carlos Almeida,DF,Brasília,Centro-Oeste,B2B,Médio,2023-09-27
+2856,Renata Pereira,PA,Santarém,Norte,B2C,Grande,2024-02-11
+2857,Camila Gomes,PR,Curitiba,Sul,B2C,Grande,2023-07-01
+2858,Patrícia Almeida,PE,Olinda,Nordeste,B2B,Médio,2025-11-23
+2859,Lucas Silva,DF,Brasília,Centro-Oeste,B2C,Médio,2024-03-14
+2860,Thiago Carvalho,PE,Recife,Nordeste,B2C,Grande,2023-01-07
+2861,Lucas Ribeiro,MS,Corumbá,Centro-Oeste,B2B,Médio,2025-06-08
+2862,João Pereira,PR,Londrina,Sul,B2B,Pequeno,2023-05-18
+2863,Lucas Pereira,ES,Serra,Sudeste,B2C,Médio,2025-10-01
+2864,André Santos,MS,Corumbá,Centro-Oeste,B2C,Médio,2024-03-03
+2865,Mariana Silva,GO,Aparecida de Goiânia,Centro-Oeste,B2C,Pequeno,2023-12-31
+2866,Felipe Ribeiro,RS,Santa Maria,Sul,B2B,Médio,2023-03-21
+2867,Beatriz Ribeiro,DF,Brasília,Centro-Oeste,B2B,Médio,2025-05-06
+2868,Larissa Carvalho,MG,Belo Horizonte,Sudeste,B2C,Grande,2024-06-22
+2869,João Souza,MS,Três Lagoas,Centro-Oeste,B2B,Médio,2025-02-17
+2870,Mateus Gomes,RS,Santa Maria,Sul,B2B,Médio,2024-04-25
+2871,Camila Oliveira,PR,Maringá,Sul,B2C,Pequeno,2024-12-15
+2872,João Pereira,PA,Marabá,Norte,B2C,Grande,2025-09-18
+2873,  CAMILA CARVALHO ,BA,Ilhéus,Nordeste,B2B,Grande,2025-12-22
+2874,André Santos,MG,Uberlândia,Sudeste,B2B,Grande,2024-01-04
+2875,Felipe Pereira,Rj,Campos dos Goytacazes,Sudeste,B2C,Médio,2024-09-06
+2876,Rafael Carvalho,MT,Várzea Grande,Centro-Oeste,B2B,Grande,2024-04-19
+2877,Fernanda Carvalho,PA,Santarém,Norte,B2B,Pequeno,2024-08-21
+2878,Carlos Souza,RS,Santa Maria,Sul,B2C,Grande,2025-09-20
+2879,Mariana Gomes,PR,Foz do Iguaçu,Sul,B2C,Pequeno,2025-09-30
+2880,Bruno Gomes,RS,Santa Maria,Sul,B2B,Grande,2025-03-14
+2881,Larissa Souza,MT,Várzea Grande,Centro-Oeste,B2B,Grande,2025-01-01
+2882,Amanda Pereira,DF,Brasília,Centro-Oeste,B2B,Pequeno,2025-09-12
+2883,Mateus Carvalho,PA,Ananindeua,Norte,B2C,Grande,2024-08-28
+2884,Fernanda Souza,MS,Campo Grande,Centro-Oeste,B2B,Grande,2023-07-17
+2885,Mateus Costa,ES,Vila Velha,Sudeste,B2B,Grande,2024-03-24
+2886,Camila Almeida,MG,Uberlândia,Sudeste,B2C,Médio,2023-08-19
+2887,Juliana Souza,CE,Sobral,Nordeste,B2C,Pequeno,2024-08-11
+2888,André Carvalho,SC,Blumenau,Sul,B2B,Grande,2025-05-09
+2889,Lucas Almeida,RS,Porto Alegre,Sul,B2C,Pequeno,2025-07-04
+2890,Mateus Pereira,MT,Várzea Grande,Centro-Oeste,B2C,Pequeno,2024-10-28
+2891,Beatriz Silva,RJ,Campos dos Goytacazes,Sudeste,B2B,Pequeno,2024-05-21
+2892,Mariana Ribeiro,RJ,Campos dos Goytacazes,Sudeste,B2C,Grande,2025-05-20
+2893,Larissa Oliveira,SP,São Paulo,Sudeste,B2C,Grande,2023-08-26
+2894,Mariana Ribeiro,PA,Marabá,Norte,B2B,Pequeno,2023-12-27
+2895,André Oliveira,RS,Porto Alegre,Sul,B2C,Médio,2025-08-09
+2896,Mateus Almeida,SC,Florianópolis,Sul,B2B,Pequeno,2024-10-15
+2897,Patrícia Carvalho,GO,Rio Verde,Centro-Oeste,B2B,Médio,2023-08-21
+2898,Larissa Ribeiro,MT,Sinop,Centro-Oeste,B2C,Pequeno,2024-12-12
+2899,Rafael Santos,DF,Brasília,Centro-Oeste,B2C,Pequeno,2025-03-26
+2900,Juliana Pereira,PE, olinda ,Nordeste,B2C,Pequeno,2023-09-20
+2901,Fernanda Oliveira,MS,Três Lagoas,Centro-Oeste,B2B,Grande,2025-09-17
+2902,João Costa,ES,Vila Velha,Sudeste,B2C,Médio,2025-09-28
+2903,Rafael Gomes,SC,Florianópolis,Sul,B2B,Médio,2025-04-23
+2904,Larissa Silva,PE,Petrolina,Nordeste,B2C,Pequeno,2024-04-25
+2905,Renata Almeida,PA,Belém,Norte,B2C,Grande,2023-03-01
+2906,Felipe Souza,MS,Campo Grande,Centro-Oeste,B2C,Grande,2024-08-18
+2907,Fernanda Ribeiro,PE,Petrolina,Nordeste,B2B,Médio,2024-07-02
+2908,Juliana Oliveira,MS,Corumbá,Centro-Oeste,B2C,Grande,2025-11-05
+2909,João Gomes,CE,Sobral,Nordeste,B2C,Médio,2024-03-16
+2910,Renata Santos,SP,Ribeirão Preto,Sudeste,B2B,Médio,2025-04-17
+2911,Aline Almeida,SC,Joinville,Sul,B2B,Médio,2023-05-05
+2912,Larissa Santos,PA,Ananindeua,Norte,B2C,Grande,2024-10-23
+2913,Renata Carvalho,SC,Florianópolis,Sul,B2C,Médio,2024-06-19
+2914,Beatriz Santos,CE,Fortaleza,Nordeste,B2C,Médio,2024-10-12
+2915,André Souza,RS,Pelotas,Sul,B2B,Pequeno,2025-04-22
+2916,Felipe Almeida,RS,Porto Alegre,Sul,B2B,Médio,2025-03-12
+2917,Mariana Carvalho,RS,Caxias do Sul,Sul,B2B,Médio,2025-06-24
+2918,Rafael Souza,BA,Vitória da Conquista,Nordeste,B2B,Pequeno,2025-05-20
+2919,Juliana Almeida,PE,Petrolina,Nordeste,B2C,Pequeno,2025-03-27
+2920,Camila Costa,BA,Ilhéus,Nordeste,B2B,Grande,2024-06-17
+2921,Carlos Costa,SP,Ribeirão Preto,Sudeste,B2B,Médio,2023-04-22
+2922,Camila Carvalho,ES,Vitória,Sudeste,B2B,Grande,2024-07-03
+2923,Lucas Pereira,CE,Fortaleza,Nordeste,B2C,Grande,2025-09-21
+2924,Bruno Costa,PA,Santarém,Norte,B2C,Pequeno,2024-03-24
+2925,Amanda Gomes,SC,Chapecó,Sul,B2B,Grande,2024-11-26
+2926,Amanda Oliveira,MS,Dourados,Centro-Oeste,B2B,Médio,2023-04-04
+2927,Patrícia Silva,DF,Brasília,Centro-Oeste,B2C,Pequeno,2024-09-23
+2928,André Santos,PA,Marabá,Norte,B2C,Médio,2025-07-05
+2929,Camila Oliveira,PE,Olinda,Nordeste,B2C,Médio,2025-04-19
+2930,Rafael Souza,BA,Feira de Santana,Nordeste,B2C,Pequeno,2024-03-29
+2931,Mateus Santos,BA,Salvador,Nordeste,B2C,Médio,2023-12-08
+2932,Amanda Oliveira,PR,Curitiba,Sul,B2C,Pequeno,2024-02-27
+2933,  Thiago Silva ,BA,Feira de Santana,Nordeste,B2C,Médio,2023-08-14
+2934,Mariana Souza,ES,Serra,Sudeste,B2C,Pequeno,2024-11-06
+2935,Thiago Gomes,GO,Goiânia,Centro-Oeste,B2B,Grande,2023-09-22
+2936,Aline Silva,SC,Chapecó,Sul,B2B,Médio,2023-02-10
+2937,Mariana Santos,GO,Anápolis,Centro-Oeste,B2B,Pequeno,2023-02-13
+2938,Renata Santos,MS,Campo Grande,Centro-Oeste,B2B,Médio,2025-02-15
+2939,Carlos Ribeiro,SC,Florianópolis,Sul,B2B,Médio,2023-07-04
+2940,Beatriz Pereira,CE,Sobral,Nordeste,B2B,Médio,2024-11-13
+2941,Renata Gomes,sc,Joinville,Sul,B2C,Pequeno,2024-12-23
+2942,Amanda Oliveira,GO,Aparecida de Goiânia,Centro-Oeste,B2C,Grande,2023-05-10
+2943,Lucas Almeida,PA,Marabá,Norte,B2B,Grande,2023-04-11
+2944,Larissa Ribeiro,SC,Joinville,Sul,B2B,Grande,2025-11-28
+2945,Mateus Pereira,CE,Juazeiro do Norte,Nordeste,B2C,Pequeno,2024-03-07
+2946,Bruno Silva,CE,Fortaleza,Nordeste,B2C,Grande,2025-01-11
+2947,Thiago Santos,SP,Campinas,Sudeste,B2C,Pequeno,2024-02-11
+2948,Amanda Pereira,SC,Chapecó,Sul,B2B,Médio,2023-11-18
+2949,Mateus Gomes,DF,Brasília,Centro-Oeste,B2C,Médio,2025-03-21
+2950,Lucas Souza,PR,Curitiba,Sul,B2B,Grande,2024-04-14
+2951,Fernanda Pereira,RS,Santa Maria,Sul,B2B,Pequeno,2024-08-17
+2952,Camila Souza,RJ,Petrópolis,Sudeste,B2C,Médio,2023-11-27
+2953,Lucas Pereira,CE,Crato,Nordeste,B2C,Pequeno,2025-02-04
+2954,Fernanda Santos,MG,Belo Horizonte,Sudeste,B2B,Pequeno,2024-11-09
+2955,Fernanda Ribeiro,RS,Porto Alegre,Sul,B2C,Médio,2025-04-26
+2956,Pedro Costa,ES,Vitória,Sudeste,B2C,Pequeno,2024-03-17
+2957,Aline Carvalho,PE,Petrolina,Nordeste,B2B,Médio,2024-05-24
+2958,Renata Souza,SC,Joinville,Sul,B2C,Médio,2023-01-28
+2959,Bruno Santos,GO,Anápolis,Centro-Oeste,B2B,Médio,2023-03-15
+2960,Beatriz Gomes,RJ,Petrópolis,Sudeste,B2B,Pequeno,2023-02-11
+2961,Renata Silva,MG,Uberlândia,Sudeste,B2C,Médio,2025-12-14
+2962,Mateus Santos,RS,Caxias do Sul,Sul,B2B,Pequeno,2023-07-29
+2963,Beatriz Pereira,SC, Florianópolis ,Sul,B2B,Médio,2025-10-24
+2964,Mariana Gomes,SP,São Paulo,Sudeste,B2C,Médio,2025-03-25
+2965,Fernanda Oliveira,PE,Petrolina,Nordeste,B2C,Grande,2025-09-20
+2966,Lucas Costa,RJ,Rio de Janeiro,Sudeste,B2C,Grande,2023-03-28
+2967,Camila Costa,PR,Curitiba,Sul,B2B,Grande,2023-11-18
+2968,Thiago Santos,MS,Três Lagoas,Centro-Oeste,B2B,Pequeno,2024-08-02
+2969,Beatriz Pereira,SP,Campinas,Sudeste,B2C,Pequeno,2024-09-09
+2970,Mateus Pereira,MG,Belo Horizonte,Sudeste,B2B,Médio,2023-02-19
+2971,Fernanda Silva,ES,Vila Velha,Sudeste,B2C,Médio,2024-04-16
+2972,Renata Pereira,RJ,Rio de Janeiro,Sudeste,B2C,Médio,2024-05-21
+2973,André Oliveira,SP,Campinas,Sudeste,B2B,Médio,2023-03-11
+2974,Mariana Almeida,PE,Olinda,Nordeste,B2C,Pequeno,2024-07-11
+2975,João Souza,PR,Curitiba,Sul,B2B,Médio,2023-09-11
+2976,Fernanda Ribeiro,SP,Ribeirão Preto,Sudeste,B2B,Médio,2025-02-12
+2977,Amanda Santos,BA,Salvador,Nordeste,B2C,Grande,2025-03-31
+2978,Juliana Santos,PR,Maringá,Sul,B2B,Médio,2023-09-26
+2979,Larissa Oliveira,MS,Três Lagoas,Centro-Oeste,B2C,Médio,2024-07-06
+2980,Juliana Pereira,MG,Uberlândia,Sudeste,B2B,Médio,2023-06-23
+2981,Amanda Costa,ES,Vila Velha,Sudeste,B2B,Pequeno,2023-06-06
+2982,Patrícia Ribeiro,PE,Petrolina,Nordeste,B2B,Grande,2023-06-01
+2983,João Santos,DF,Brasília,Centro-Oeste,B2C,Médio,2025-10-30
+2984,João Carvalho,SC,Florianópolis,Sul,B2B,Médio,2025-04-30
+2985,Renata Santos,GO,Anápolis,Centro-Oeste,B2C,Grande,2023-02-11
+2986,João Pereira,MT,Várzea Grande,Centro-Oeste,B2B,Médio,2023-01-31
+2987,Beatriz Oliveira,pa,Belém,Norte,B2B,Pequeno,2023-11-07
+2988,Juliana Oliveira,PA,Marabá,Norte,B2C,Médio,2023-07-15
+2989,Larissa Oliveira,GO,Rio Verde,Centro-Oeste,B2C,Pequeno,2025-03-12
+2990,Mariana Souza,MT,Várzea Grande,Centro-Oeste,B2C,Pequeno,2024-02-02
+2991,Renata Ribeiro,GO,Goiânia,Centro-Oeste,B2C,Médio,2024-10-01
+2992,Pedro Oliveira,RJ,Campos dos Goytacazes,Sudeste,B2C,Grande,2024-10-24
+2993,Mariana Oliveira,MG,Juiz de Fora,Sudeste,B2B,Pequeno,2025-05-20
+2994,Lucas Costa,PE,Recife,Nordeste,B2B,Grande,2025-11-15
+2995,Juliana Almeida,PR,Foz do Iguaçu,Sul,B2C,Médio,2023-02-17
+2996,Thiago Gomes,RJ,Niterói,Sudeste,B2B,Pequeno,2024-09-10
+2997,Felipe Oliveira,MG,Contagem,Sudeste,B2B,Médio,2024-07-15
+2998,Carlos Souza,SC,Joinville,Sul,B2B,Grande,2025-07-28
+2999,João Oliveira,BA,Salvador,Nordeste,B2C,Médio,2024-02-20
+3000,Lucas Carvalho,PA,Marabá,Norte,B2B,Médio,2023-07-24
